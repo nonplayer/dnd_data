@@ -1,0 +1,9 @@
+{
+  Alignment = [
+    Lawful
+    Neutral
+    Chaotic
+  ]
+  Lawful Aspect = Noble
+  Chaotic Aspect = Fell
+}

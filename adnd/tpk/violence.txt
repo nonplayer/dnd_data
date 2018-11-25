@@ -1,0 +1,20 @@
+{
+  TPK Violence Block = [
+    ${ TPK Violence Desc } ${ TPK Violent Effect }.
+    ${ TPK Violence Desc } by ${ TPK Violent Monster }.
+  ]
+  TPK Violence Desc = [
+    Torn to pieces
+  ]
+  TPK Violent Effect = [
+    by a storm of jagged crystal shards
+    by a storm of whirling blades
+    by invisible claws
+  ]
+  TPK Violent Monster = [
+    ${ an Dragon }
+    a pack of ${ Giant } ${ [ ghouls, werewolves ] }
+    a pack of ${ [ minotaur, troll ] } ${ [ ghouls, werewolves ] }
+    what everyone thought were goats
+  ]
+}

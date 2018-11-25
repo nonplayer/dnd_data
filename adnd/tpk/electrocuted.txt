@@ -1,0 +1,22 @@
+{
+  TPK Electrocuted Block = [
+    ${ TPK Electrocuted Desc } ${ TPK Lightning Effect }.
+    ${ TPK Electrocuted Desc } by ${ TPK Lightning Monster }.
+  ]
+  TPK Electrocuted Desc = [
+    Electrocuted
+  ]
+  TPK Lightning Effect = [
+    ${ set dest = ${ TPK Lightning Setting } in TPK Accidental Portal }
+    by ${ TPK Artifact }
+    by the wizard's own mass chain lightning spell
+    by ${ TPK Lightning Monster } in ${ TPK Lightning Setting }
+  ]
+  TPK Lightning Setting = [
+    the Quasi-elemental Plane of Lightning
+  ]
+  TPK Lightning Monster = [
+    by the breath weapon of a blue-scaled ${ TPK Hydra }
+    arcane copper golems
+  ]
+}

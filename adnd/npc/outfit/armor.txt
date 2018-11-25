@@ -1,0 +1,30 @@
+{
+  Cleric Armor = ${ Heavy Armor }
+  Druid Armor = Leather Armor
+  Fighter Armor = ${ Heavy Armor }
+  Paladin Armor = ${ Heavy Armor }
+  Ranger Armor = ${ Light Armor }
+  Thief Armor = Leather Armor
+  Assassin Armor = Leather Armor
+
+  Light Armor = [
+    Leather Armor
+    Studded Leather
+    Scale Mail
+    Chain Mail
+  ]
+  Heavy Armor = {
+    first_of = [
+      Level ${ get npc_lvl } Heavy Armor
+    ]
+    default = [
+      Banded Mail
+      Splint Mail
+      Plate Mail
+    ]
+  }
+  Level 1 Heavy Armor = [
+    Scale Mail
+    Chain Mail
+  ]
+}

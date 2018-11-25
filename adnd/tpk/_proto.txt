@@ -1,0 +1,9 @@
+{
+  TPK Proto Block = [
+    ${ TPK Proto Desc } by ${ TPK Proto Monster }.
+  ]
+  TPK Proto Desc = [
+  ]
+  TPK Proto Monster = [
+  ]
+}

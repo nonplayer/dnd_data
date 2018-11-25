@@ -1,0 +1,149 @@
+{
+  Infernal Dungeon Monster Ia = {
+    01-10 = ${ 1d4 } x Fire Beetle
+    11-15 = ${ 3d4+3 } x Goblin
+    16-20 = ${ 2d4 } x Hobgoblin
+    21-26 = ${ 4d4+2 } x Kobold
+    27-38 = ${ 1d6+6 } x Orc
+    39-40 = ${ 1d4 } x Skeleton
+  }
+  Infernal Dungeon Monster Ib = {
+    01-10 = ${ 1d4 } x Fire Beetle
+    11-15 = ${ 3d4+3 } x Goblin
+    16-20 = ${ 2d4 } x Hobgoblin
+    21-26 = ${ 4d4+2 } x Kobold
+    27-38 = ${ 1d6+6 } x Orc
+    39-40 = ${ 1d4 } x Skeleton
+  }
+  Infernal Dungeon Monster Ic = {
+    01-10 = ${ 1d4 } x Fire Beetle
+    11-15 = ${ 3d4+3 } x Goblin
+    16-20 = ${ 2d4 } x Hobgoblin
+    21-26 = ${ 4d4+2 } x Kobold
+    27-38 = ${ 1d6+6 } x Orc
+    39-40 = ${ 1d4 } x Skeleton
+  }
+  Infernal Dungeon Monster IIa = {
+    01-11 = ${ Dungeon NPC Party }
+    12-13 = ${ 1d4+1 } x Lemure Devil
+    14-18 = ${ 2d6+3 } x Stirge
+  }
+  Infernal Dungeon Monster IIb = {
+    01-11 = ${ Dungeon NPC Party }
+    12-13 = ${ 1d4+1 } x Lemure Devil
+    14-18 = ${ 2d6+3 } x Stirge
+  }
+  Infernal Dungeon Monster III = {
+    01-10 = ${ Dungeon NPC Party }
+    11-12 = ${ Infernal Dragon III }
+    13-16 = ${ 1d4+1 } x Wererat
+  }
+  Infernal Dragon III = {
+    01-28 = 1 x Very Young Black Dragon
+    29-66 = 1 x Very Young White Dragon
+  }
+  Infernal Dungeon Monster IV = {
+    01-08 = ${ Dungeon NPC Party }
+    09-10 = ${ Infernal Dragon IV }
+    11-14 = ${ 1d2 } x Hell Hound
+       15 = 1 x 5-headed Pyrohydra
+    16-17 = 1 x Ice Toad
+    18-21 = ${ 1d3 } x Poisonous Toad
+  }
+  Infernal Dragon IV = {
+    01-09 = 1 x ${ [ Young, Sub-adult ] } Black Dragon
+    10-20 = 1 x ${ [ Very Young, Young ] } Blue Dragon
+    21-36 = 1 x ${ [ Very Young, Young ] } Green Dragon
+    37-46 = 1 x ${ [ Very Young, Young ] } Red Dragon
+    47-58 = 1 x ${ [ Young, Sub-adult ] } White Dragon
+  }
+  Infernal Dungeon Monster V = {
+    01-08 = ${ Dungeon NPC Party }
+    09-10 = ${ Infernal Dragon V }
+       11 = 1 x 6-headed Pyrohydra
+       12 = ${ 1d2 } x Imp
+    13-20 = 1 x Giant Poisonous Snake
+  }
+  Infernal Dragon V = {
+    01-08 = 1 x ${ [ Young Adult, Adult ] } Black Dragon
+    09-20 = 1 x ${ [ Sub-adult, Young Adult ] } Blue Dragon
+    21-36 = 1 x ${ [ Sub-adult, Young Adult ] } Green Dragon
+    37-46 = 1 x ${ [ Sub-adult, Young Adult ] } Red Dragon
+    47-58 = 1 x ${ [ Young Adult, Adult ] } White Dragon
+  }
+  Infernal Dungeon Monster VI = {
+    01-06 = ${ Dungeon NPC Party }
+       07 = ${ 1d2 } x Erinyes Devil
+    08-09 = ${ Infernal Dragon VI }
+    10-14 = 1 x Medusa
+    15-16 = ${ 1d2 } x Ogre Magi
+    17-18 = 1 x Rakshasa
+    19-23 = ${ 1d4 } x Wight
+    24-26 = ${ 1d2 } x Wraith
+  }
+  Infernal Dragon VI = {
+    01-08 = 1 x Old Black Dragon
+    09-19 = 1 x Adult Blue Dragon
+    20-32 = 1 x Adult Green Dragon
+    33-45 = 1 x Adult Red Dragon
+    46-58 = 1 x Old White Dragon
+  }
+  Infernal Dungeon Monster VII = {
+    01-05 = ${ Dungeon NPC Party }
+       06 = 1 x Barbed Devil
+       07 = 1 x Bone Devil
+       08 = 1 x Horned Devil
+    09-10 = ${ Infernal Dragon VII }
+    11-13 = ${ 1d2 } x Fire Giant
+       14 = 1 x Flesh Golem
+       15 = 1 x ${ [ 7-headed, 8-headed, 9-headed ] } Pyrohydra
+    16-18 = 1 x Mimic
+       19 = ${ 1d2 } x Night Hag
+  }
+  Infernal Dragon VII = {
+    01-10 = 1 x Very Old Black Dragon
+    11-21 = 1 x Old Blue Dragon
+    22-35 = 1 x Old Green Dragon
+    36-49 = 1 x Old Red Dragon
+    50-62 = 1 x Very Old White Dragon
+  }
+  Infernal Dungeon Monster VIII = {
+    01-05 = ${ Dungeon NPC Party }
+       06 = 1 x Ice Devil
+    07-08 = ${ Infernal Dragon VIII }
+       09 = 1 x 12-headed Pyrohydra
+  }
+  Infernal Dragon VIII = {
+    01-13 = 1 x Ancient Black Dragon
+    14-24 = 1 x Very Old Blue Dragon
+    25-39 = 1 x Very Old Green Dragon
+    40-55 = 1 x Very Old Red Dragon
+    56-73 = 1 x Ancient White Dragon
+  }
+  Infernal Dungeon Monster IX = {
+    01-09 = ${ Dungeon NPC Party }
+    10-12 = 1 x Pit Fiend
+    13-15 = ${ Infernal Dragon IX }
+    16-18 = 1 x 12-headed Pyrohydra
+  }
+  Infernal Dragon IX = {
+    01-10 = 1 x Ancient Black Dragon and 1 x Old Black Dragon
+    11-22 = 1 x Ancient Blue Dragon
+    23-38 = 1 x Ancient Green Dragon
+    39-54 = 1 x Ancient Red Dragon
+    55-72 = 1 x Ancient White Dragon and 1 x Very Old White Dragon
+  }
+  Infernal Dungeon Monster X = {
+    01-12 = 1 x Beholder
+    13-20 = ${ Dungeon NPC Party }
+    21-22 = 1 x Arch-Devil
+    23-32 = ${ Infernal Dragon X }
+    33-42 = 1 x Iron Golem
+  }
+  Infernal Dragon X = {
+    01-20 = 1 x Ancient Blue Dragon and 1 x Very Old Blue Dragon
+    21-22 = Tiamat
+    23-42 = 1 x Ancient Green Dragon and 1 x Very Old Green Dragon
+    43-73 = 1 x Ancient Red Dragon and 1 x Old Red Dragon
+  }
+}

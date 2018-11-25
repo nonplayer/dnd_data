@@ -1,0 +1,8 @@
+{
+  Room Contents = {
+    01-12 = Room Features
+    13-17 = Room Features, Monster
+       19 = Room Features, Trap
+       20 = Room Features, Hidden Treasure
+  }
+}

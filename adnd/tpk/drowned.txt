@@ -1,0 +1,26 @@
+{
+  TPK Drowned Block = [
+    ${ TPK Drowned Desc } ${ TPK Mere Effect }.
+    ${ TPK Drowned Desc } by ${ TPK Mere Monster }.
+  ]
+  TPK Drowned Desc = [
+    Drowned
+  ]
+  TPK Mere Effect = [
+    ${ set dest = ${ TPK Mere Setting } in TPK Accidental Portal }
+    ${ set things = ${ TPK Mere Things } in TPK Incident }
+    in a colossal potion of delusion
+    in a lightless sea of the Underdark by ${ Named God of Aboleths }
+  ]
+  TPK Mere Setting = [
+    the Elemental Plane of Water
+  ]
+  TPK Mere Things = [
+    a bag of holding and a decanter of endless water
+    ${ 2 x unique TPK Thing }, and the River Styx
+  ]
+  TPK Mere Monster = [
+    ${ TPK God Name }, the Kraken God
+    an infinitely-large water elemental
+  ]
+}

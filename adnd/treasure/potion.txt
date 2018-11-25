@@ -1,0 +1,17 @@
+{
+  Minor Potion = {
+    01-03 = ${ Potion of Animal Control }
+    04-06 = Potion of Clairaudience (400 gp)
+    07-09 = Potion of Delusion (150 gp)
+    10-12 = Potion of Fire Resistance (400 gp)
+    13-14 = Potion of Gaseous Form (400 gp)
+    15-16 = Potion of Growth (300 gp)
+    17-22 = Potion of Healing (400 gp)
+    23-25 = Potion of Levitation (400 gp)
+    26-28 = Philter of Love (300 gp)
+    29-31 = Potion of Plant Control (300 gp)
+    32-34 = Potion of Polymorph Self (350 gp)
+    35-37 = Potion of Poison
+    38-40 = Potion of Sweet Water (250 gp)
+  }
+}

@@ -1,0 +1,29 @@
+{
+  Jewelry = {
+    01-10 = ${ Common Material } ${ Jewelry Type } (${ 1d10 * 100 } gp)
+    11-20 = Wrought silver and gold ${ Jewelry Type } (${ 2d6 * 100 } gp)
+    21-40 = Wrought gold ${ Jewelry Type } (${ 3d6 * 100 } gp)
+    41-50 = ${ Fine Material } ${ Jewelry Type } (${ 5d6 * 100 } gp)
+    51-70 = Silver ${ Jewelry Type } set with gems (${ 1d6 * 1000 } gp)
+    71-90 = Gold ${ Jewelry Type } set with gems (${ 2d4 * 1000 } gp)
+    91-00 = Platinum ${ Jewelry Type } set with gems (${ 2d6 * 1000 } gp)
+  }
+  Common Material = [
+    Ivory
+    Wrought silver
+  ]
+  Fine Material = [
+    Jade
+    Wrought Platinum
+  ]
+  Jewelry Type = [
+    bracelet
+    brooch
+    crown
+    earrings
+    necklace
+    pendant
+    ring
+    tiara
+  ]
+}

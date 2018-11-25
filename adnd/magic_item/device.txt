@@ -1,0 +1,46 @@
+{
+  Magic Device = {
+    01-19 = ${ Magic Rod }
+    20-33 = ${ Magic Staff }
+    34-00 = ${ Magic Wand }
+  }
+  Magic Rod = {
+    01-03 = Rod of Absorption (${ Rod Charges }) (40000 gp)
+       04 = Rod of Beguiling (${ Rod Charges }) (30000 gp)
+    05-14 = Rod of Cancellation (${ Rod Charges }) (15000 gp)
+    15-16 = Rod of Lordly Might (${ Rod Charges }) (20000 gp)
+       17 = Rod of Resurrection (${ Rod Charges }) (35000
+       18 = Rod of Rulership (${ Rod Charges }) (35000
+       19 = Rod of Smiting (${ Rod Charges }) (15000
+  }
+  Magic Staff = {
+       01 = Staff of Command (${ Staff Charges }) (25000 gp)
+    02-03 = Staff of Curing (${ Staff Charges }) (25000 gp)
+       04 = Staff of the Magi (${ Staff Charges }) (75000 gp)
+       05 = Staff of Power (${ Staff Charges }) (60000 gp)
+    06-08 = Staff of the Serpent (${ Staff Charges }) (35000 gp)
+    09-12 = Staff of Striking (${ Staff Charges }) (15000 gp)
+    13-14 = Staff of Withering (${ Staff Charges }) (35000 gp)
+  }
+  Magic Wand = {
+       01 = Wand of Conjuration (${ Wand Charges }) (35000 gp)
+    02-05 = Wand of Enemy Detection (${ Wand Charges }) (10000 gp)
+    06-08 = Wand of Fear (${ Wand Charges }) (15000 gp)
+    09-11 = Wand of Fire (${ Wand Charges }) (25000 gp)
+    12-14 = Wand of Frost (${ Wand Charges }) (50000 gp)
+    15-19 = Wand of Illumination (${ Wand Charges }) (10000 gp)
+    20-23 = Wand of Illusion (${ Wand Charges }) (20000 gp)
+    24-26 = Wand of Lightning (${ Wand Charges }) (30000 gp)
+    27-35 = Wand of Magic Detection (${ Wand Charges }) (25000 gp)
+    36-40 = Wand of Metal and Mineral Detection (${ Wand Charges }) (7500 gp)
+    41-45 = Wand of Magic Missiles (${ Wand Charges }) (35000 gp)
+    46-53 = Wand of Negation (${ Wand Charges }) (15000 gp)
+    54-56 = Wand of Paralyzation (${ Wand Charges }) (25000 gp)
+    57-59 = Wand of Polymorphing (${ Wand Charges }) (25000 gp)
+    60-61 = Wand of Secret Door and Trap Location (${ Wand Charges }) (40000 gp)
+    62-67 = Wand of Wonder (${ Wand Charges }) (10000 gp)
+  }
+  Rod Charges = ${ calc 50 - (1d10 - 1) } charges
+  Staff Charges = ${ calc 25 - (1d6 - 1) } charges
+  Wand Charges = ${ calc 100 - (1d20 - 1) } charges
+}

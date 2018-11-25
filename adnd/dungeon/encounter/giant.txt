@@ -1,0 +1,101 @@
+{
+  Giant Dungeon Monster Ia = {
+    01-02 = ${ 1d4 } x Giant Ant
+    03-07 = ${ 2d4 } x Hobgoblin
+    08-19 = ${ 1d6+6 } x Orc
+    20-32 = ${ 5d4 } x Giant Rat
+  }
+  Giant Dungeon Monster Ib = {
+    01-02 = ${ 1d4 } x Giant Ant
+    03-07 = ${ 2d4 } x Hobgoblin
+    08-19 = ${ 1d6+6 } x Orc
+    20-32 = ${ 5d4 } x Giant Rat
+  }
+  Giant Dungeon Monster Ic = {
+    01-02 = ${ 1d4 } x Giant Ant
+    03-07 = ${ 2d4 } x Hobgoblin
+    08-19 = ${ 1d6+6 } x Orc
+    20-32 = ${ 5d4 } x Giant Rat
+  }
+  Giant Dungeon Monster IIa = {
+    01-15 = ${ 2d6+1 } x Giant Centipede
+    16-26 = ${ Dungeon NPC Party }
+    27-38 = ${ 6d4 } x Giant Rat
+    39-48 = ${ 1d4 } x Giant Toad
+  }
+  Giant Dungeon Monster IIb = {
+    01-15 = ${ 2d6+1 } x Giant Centipede
+    16-26 = ${ Dungeon NPC Party }
+    27-38 = ${ 6d4 } x Giant Rat
+    39-48 = ${ 1d4 } x Giant Toad
+  }
+  Giant Dungeon Monster III = {
+    01-10 = ${ 1d6+1 } x Bugbear
+    11-20 = ${ Dungeon NPC Party }
+    21-22 = ${ Dragon III }
+    23-27 = ${ 1d3 } x Giant Lizard
+    28-39 = ${ 1d3 } x Ogre
+    40-46 = ${ 1d3 } x Huge Spider
+    47-55 = ${ 1d4+1 } x Large Spider
+    56-57 = ${ 1d3 } x Giant Tick
+  }
+  Giant Dungeon Monster IV = {
+    01-08 = ${ 1d3 } x Carnivorous Ape
+    09-16 = ${ Dungeon NPC Party }
+    17-18 = ${ Dragon IV }
+    19-21 = 1 x ${ [ 5-headed, 6-headed ] } Hydra
+    22-29 = 1 x Giant Constrictor Snake
+  }
+  Giant Dungeon Monster V = {
+    01-08 = ${ Dungeon NPC Party }
+    09-10 = ${ Dragon V }
+    11-12 = 1 x 7-headed Hydra
+    13-20 = 1 x Giant Poisonous Snake
+    21-24 = 1 x Giant Spitting Snake
+    25-38 = ${ 1d2 } x Giant Spider
+  }
+  Giant Dungeon Monster VI = {
+    01-06 = ${ Dungeon NPC Party }
+    07-08 = ${ Dragon VI }
+    09-11 = 1 x ${ [ 8-headed, 9-headed ] } Hydra
+    12-13 = 1 x Werebear
+    14-15 = ${ 1d2 } x Ogre Magi
+    16-26 = ${ 1d3 } x Troll
+  }
+  Giant Dungeon Monster VII = {
+    01-05 = ${ Dungeon NPC Party }
+    06-07 = ${ Dragon VII }
+    08-11 = ${ 1d2 } x Ettin
+    12-16 = ${ 1d3 } x ${ [ Hill, Stone ] } Giant
+    17-19 = ${ 1d2 } x ${ [ Fire, Frost ] } Giant
+       20 = 1 x Flesh Golem
+    21-23 = 1 x ${ [ 10-headed, 11-headed, 12-headed ] } Hydra
+       24 = 1 x Giant Slug
+    25-26 = 1 x Umber Hulk
+  }
+  Giant Dungeon Monster VIII = {
+    01-05 = ${ Dungeon NPC Party }
+       06 = 1 x Type VI Demon
+    07-08 = ${ Dragon VIII }
+    09-12 = ${ 1d2 } x Cloud Giant
+    13-15 = 1 x ${ [ 13-headed, 14-headed, 15-headed, 16-headed ] } Hydra
+    16-23 = 1 x Purple Worm
+    24-27 = 1 x Giant Slug
+  }
+  Giant Dungeon Monster IX = {
+    01-09 = ${ Dungeon NPC Party }
+    10-12 = 1 x Pit Fiend
+    13-15 = ${ Dragon IX }
+    16-21 = ${ 1d2 } x Storm Giant
+    22-28 = 1 x ${ [ 17-headed, 18-headed, 19-headed, 20-headed ] } Hydra
+    29-40 = 1 x Purple Worm
+    41-42 = 1 x Lesser Titan
+    43-46 = 1 x Minor Titan
+    47-53 = ${ 1d4 } x Umber Hulk
+  }
+  Giant Dungeon Monster X = {
+    01-08 = ${ Dungeon NPC Party }
+    09-18 = ${ Dragon X }
+    19-28 = 1 x Elder Titan
+  }
+}

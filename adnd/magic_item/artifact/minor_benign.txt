@@ -1,0 +1,54 @@
+{
+  Minor Benign Power = [
+    Adds 1 point to possessor's major attribute
+    Animate Dead (1 figure, by touch, 7 times/week)
+    Audible Glamer (upon command, 3 times/day)
+    Bless (by touch)
+    Clairaudience (when touched to the ear)
+    Clairvoyance (when touched to the eyes)
+    Color Spray (3 times/day)
+    Comprehend Languages (when held)
+    Create Food and Water (1 time/day)
+    Cure Light Wounds (7 times/week)
+    Darkness (${ [ 5', 10', 15' ] } radius, 3 times/day)
+    Detect Charm (3 times/day)
+    Detect Evil/Good (when held or ordered)
+    Detect Invisibility (when held and ordered)
+    Detect Magic (3 times/day)
+    ESP (${ [ 30', 40', 50', 60' ] } range, 3 times/day)
+    Feather Fall (when grasped and ordered)
+    Find Traps (3 times/day)
+    Fly (when held and ordered, 1 time/day)
+    Hypnotic Pattern (when moved, 3 times/day)
+    Infravision (when held or worn)
+    Improved Invisibility (3 times/day)
+    Know Alignment (when held and ordered, 1 time/day)
+    Levitate (when held and ordered, 3 times/day)
+    Light (7 times/week)
+    Mind Blank (3 times/day)
+    Obscurement (1 time/day)
+    Pass without Trace (1 time/day)
+    Possessor immune to disease
+    Possessor immune to fear
+    Possessor immune to gas of any type
+    Possessor need neither eat nor drink for up to 1 week
+    Protection +2 when held or worn
+    Remove Fear (by touch)
+    Sanctuary (when held or worn, 1 time/day)
+    Shield (when held or worn, upon command, 3 times/day)
+    Speak with Animals (3 times/day)
+    Speak with Dead (1 time/day)
+    Speak with Plants (7 times/week)
+    Tongues (when held or worn and commanded)
+    Ultravision (when held or worn)
+    Ventriloquism (upon command, 3 times/day)
+    Water Breathing (upon command)
+    Water Walking
+    Wearer immune to Charm or Hold spells
+    Wearer immune to Magic Missiles
+    Web (1 time/day)
+    Wizard Lock (7 times/week)
+    Write (1 time/day)
+    Zombie animation (1 time/week)
+  ]
+}

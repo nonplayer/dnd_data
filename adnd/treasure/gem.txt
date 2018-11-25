@@ -1,0 +1,10 @@
+{
+  Gem = {
+    01-25 = ${ Ornamental Stone } (10 gp)
+    26-50 = ${ Semi-precious Stone } (50 gp)
+    51-70 = ${ Fancy Stone } (100 gp)
+    71-90 = ${ Precious Stone } (500 gp)
+    91-99 = ${ Gemstone } (1000 gp)
+       00 = ${ Jewel } (5000 gp)
+  }
+}

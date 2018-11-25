@@ -1,0 +1,23 @@
+{
+  TPK Crushed Block = [
+    ${ TPK Crushed Desc } ${ TPK Massive Effect }.
+    ${ TPK Crushed Desc } by ${ TPK Massive Monster }.
+  ]
+  TPK Crushed Desc = [
+    Crushed to death
+  ]
+  TPK Massive Effect = [
+    ${ set dest = ${ TPK Massive Setting } in TPK Accidental Portal }
+    by an avalanche of petrified goblins
+    fighting demons in the clockwork gears of Nirvana
+  ]
+  TPK Massive Setting = [
+    the Elemental Plane of Earth
+    the Elemental Plane of Caltrops
+  ]
+  TPK Massive Monster = [
+    ${ Babylonian Female Name }, the World Turtle
+    a swarm of flumphs, who feel very badly about it
+    falling rocs
+  ]
+}

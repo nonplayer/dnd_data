@@ -1,0 +1,11 @@
+{
+  TPK Imploded Block = [
+    ${ TPK Imploded Desc } ${ TPK Imploded Effect }.
+  ]
+  TPK Imploded Desc = [
+    Imploded
+  ]
+  TPK Imploded Effect = [
+    by ${ TPK Artifact }
+  ]
+}

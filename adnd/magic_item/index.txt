@@ -1,0 +1,16 @@
+{
+  Magic Item = {
+    01-20 = ${ Magic Potion }
+    21-35 = ${ Magic Scroll }
+    36-40 = ${ Magic Ring }
+    41-45 = ${ Magic Device }
+    46-48 = ${ Miscellaneous Magic I }
+    49-51 = ${ Miscellaneous Magic II }
+    52-54 = ${ Miscellaneous Magic III }
+    55-57 = ${ Miscellaneous Magic IV }
+    58-60 = ${ Miscellaneous Magic V }
+    61-75 = ${ Magic Armor or Shield }
+    76-86 = ${ Magic Sword }
+    87-00 = ${ Magic Weapon }
+  }
+}

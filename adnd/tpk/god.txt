@@ -1,0 +1,38 @@
+{
+  TPK God = [
+    ${ TPK God Name }, ${ God Form } of ${ [ Chaos, Evil, Death, Monsters ] }
+  ]
+  TPK God Name = [
+    ${ ${ TPK God Culture } ${ NPC Gender } Name }
+    ${ Eldritch Name }
+  ]
+  TPK God Culture = [
+    Babylonian
+    Egyptian
+    Sumerian
+  ]
+  TPK God of = [
+    ${ God Form } of Chaos
+    ${ God Form } of Death
+    ${ God Form } of Destruction
+    ${ God Form } of Evil
+    ${ God Form } of Monsters
+  ]
+  Named God of Aboleths = [
+    ${ TPK God Name }, the ${ Aboleth Quality } ${ God of Aboleths }
+  ]
+  Aboleth Quality = [
+    colossal
+    degenerate
+    many-eyed
+    many-tentacled
+  ]
+  God of Aboleths = [
+    ${ Aboleth God Form } of Aboleths
+  ]
+  Aboleth God Form = [
+    ${ God Form }
+    Lord
+    Tyrant
+  ]
+}

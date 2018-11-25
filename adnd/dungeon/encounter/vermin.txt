@@ -1,0 +1,119 @@
+{
+  Vermin Dungeon Monster Ia = {
+    01-02 = ${ 1d4 } x Giant Ant
+    03-12 = ${ 1d4 } x Fire Beetle
+       13 = ${ 1d4 } x Manes Demon
+       14 = 1 x Ear Seeker
+    15-19 = ${ 3d4+3 } x Goblin
+    20-32 = ${ 5d4 } x Giant Rat
+    33-34 = ${ 1d3 } x Rot Grub
+    35-45 = ${ 1d2 } x Shrieker
+  }
+  Vermin Dungeon Monster Ib = {
+    01-02 = ${ 1d4 } x Giant Ant
+    03-12 = ${ 1d4 } x Fire Beetle
+       13 = ${ 1d4 } x Manes Demon
+       14 = 1 x Ear Seeker
+    15-19 = ${ 3d4+3 } x Goblin
+    20-32 = ${ 5d4 } x Giant Rat
+    33-34 = ${ 1d3 } x Rot Grub
+    35-45 = ${ 1d2 } x Shrieker
+  }
+  Vermin Dungeon Monster Ic = {
+    01-02 = ${ 1d4 } x Giant Ant
+    03-12 = ${ 1d4 } x Fire Beetle
+       13 = ${ 1d4 } x Manes Demon
+       14 = 1 x Ear Seeker
+    15-19 = ${ 3d4+3 } x Goblin
+    20-32 = ${ 5d4 } x Giant Rat
+    33-34 = ${ 1d3 } x Rot Grub
+    35-45 = ${ 1d2 } x Shrieker
+  }
+  Vermin Dungeon Monster IIa = {
+    01-15 = ${ 2d6+1 } x Giant Centipede
+    16-26 = ${ Dungeon NPC Party }
+    27-28 = ${ 1d4+1 } x Lemure Devil
+    29-30 = ${ 1d2 } x Gas Spore
+    31-42 = ${ 6d4 } x Giant Rat
+    43-44 = ${ 1d4 } x Rot Grub
+    45-56 = ${ 1d3 } x Shrieker
+    57-61 = ${ 2d6+3 } x Stirge
+  }
+  Vermin Dungeon Monster IIb = {
+    01-15 = ${ 2d6+1 } x Giant Centipede
+    16-26 = ${ Dungeon NPC Party }
+    27-28 = ${ 1d4+1 } x Lemure Devil
+    29-30 = ${ 1d2 } x Gas Spore
+    31-42 = ${ 6d4 } x Giant Rat
+    43-44 = ${ 1d4 } x Rot Grub
+    45-56 = ${ 1d3 } x Shrieker
+    57-61 = ${ 2d6+3 } x Stirge
+  }
+  Vermin Dungeon Monster III = {
+    01-10 = ${ 1d3 } x Boring Beetle
+    11-20 = ${ Dungeon NPC Party }
+    21-22 = ${ 1d3 } x Violet Fungi
+    23-28 = 1 x Gelatinous Cube
+    29-32 = ${ 1d4+1 } x Wererat
+    33-38 = 1 x Ochre Jelly
+       39 = ${ 1d4 } x Rot Grub
+    40-41 = ${ 1d4+1 } x Shrieker
+    42-48 = ${ 1d3 } x Huge Spider
+    49-57 = ${ 1d4+1 } x Large Spider
+    58-59 = ${ 1d3 } x Giant Tick
+  }
+  Vermin Dungeon Monster IV = {
+    01-08 = ${ Dungeon NPC Party }
+    09-12 = 1 x Gray Ooze
+    13-25 = Yellow Mold
+       26 = 1 x Rust Monster
+    27-30 = ${ 1d3 } x Poisonous Toad
+  }
+  Vermin Dungeon Monster V = {
+    01-08 = ${ Dungeon NPC Party }
+    09-12 = Yellow Mold
+    13-14 = 1 x Rust Monster
+    15-17 = ${ 1d4+1 } x Shrieker
+    18-19 = 1 x Slithering Tracker
+    20-33 = ${ 1d2 } x Giant Spider
+  }
+  Vermin Dungeon Monster VI = {
+    01-07 = ${ 1d2 } x Carrion Crawler
+    08-13 = ${ Dungeon NPC Party }
+    14-17 = Green Slime
+       18 = Brown Mold
+    19-20 = Yellow Mold
+    21-28 = 1 x Otyugh
+  }
+  Vermin Dungeon Monster VII = {
+    01-05 = 1 x Black Pudding
+    06-10 = ${ Dungeon NPC Party }
+    11-13 = 1 x Lurker Above
+    14-16 = 1 x Neo-otyugh
+       17 = 1 x Giant Slug
+    18-19 = 1 x Trapper
+  }
+  Vermin Dungeon Monster VIII = {
+    01-05 = ${ Dungeon NPC Party }
+    06-11 = 1 x Lurker Above
+    12-17 = Brown Mold
+    18-19 = Yellow Mold
+    20-25 = 1 x Neo-otyugh
+    26-33 = 1 x Purple Worm
+    34-38 = 1 x Rust Monster
+    39-42 = 1 x Giant Slug
+    43-47 = 1 x Trapper
+  }
+  Vermin Dungeon Monster IX = {
+    01-09 = ${ Dungeon NPC Party }
+    10-16 = Brown Mold
+    17-26 = Yellow Mold
+    27-38 = 1 x Purple Worm
+    39-41 = 1 x Rust Monster
+  }
+  Vermin Dungeon Monster X = {
+    01-12 = 1 x Beholder
+    13-20 = ${ Dungeon NPC Party }
+    21-28 = 1 x Demon Prince
+  }
+}

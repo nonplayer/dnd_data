@@ -1,0 +1,13 @@
+{
+  _prefix = /home/drow/Sites/donjon/data/becmi
+  Adventurer Order = /npc/class.txt
+  Alignment = /npc/alignment.txt
+  Arcane Class = /npc/class.txt
+  Chaotic Aspect = /npc/alignment.txt
+  Divine Class = /npc/class.txt
+  Lawful Aspect = /npc/alignment.txt
+  Martial Class = /npc/class.txt
+  NPC Ability Scores = /npc/abilities.txt
+  NPC Tags = /npc/index.txt
+  Scoundrel Class = /npc/class.txt
+}

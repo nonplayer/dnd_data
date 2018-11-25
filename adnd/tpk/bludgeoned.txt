@@ -1,0 +1,17 @@
+{
+  TPK Bludgeoned Block = [
+    ${ TPK Bludgeoned Desc } by ${ TPK Bludgeoned Monster }.
+  ]
+  TPK Bludgeoned Desc = [
+    Bludgeoned to death
+    Bones shattered
+  ]
+  TPK Bludgeoned Monster = [
+    Tiamat, with what you thought was an Orb of Dragonkind
+    a legion of iron golems
+    a pit fiend grand master of flowers
+    a swarm of flail snails
+    invisible stone golems
+    what everyone thought were goats
+  ]
+}

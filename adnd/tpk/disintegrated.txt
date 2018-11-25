@@ -1,0 +1,26 @@
+{
+  TPK Disintegrated Block = [
+    ${ TPK Disintegrated Desc } ${ TPK Disintegration Effect }.
+    ${ TPK Dissolved Desc } ${ TPK Solvent Effect }.
+  ]
+  TPK Disintegrated Desc = [
+    Disintegrated
+  ]
+  TPK Disintegration Effect = [
+    ${ set things = ${ TPK Disintegration Things } in TPK Incident }
+    by the wizard's own chain disintegrate spell
+  ]
+  TPK Disintegration Things = [
+    a prismatic sphere and the Elemental Plane of Yellow
+    an insane lich, a beholder, and extensive eye replacement surgery
+  ]
+  TPK Dissolved Desc = [
+    Flesh melted
+  ]
+  TPK Solvent Effect = [
+    by a decanter of endless green slime
+    by the breath weapon of a black-scaled ${ TPK Hydra }
+    in a sea of acid in the Abyss
+    in the flames of the ninth layer of Hell
+  ]
+}

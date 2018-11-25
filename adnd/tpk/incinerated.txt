@@ -1,0 +1,23 @@
+{
+  TPK Incinerated Block = [
+    ${ TPK Incinerated Desc } ${ TPK Fire Effect }.
+    ${ TPK Incinerated Desc } by ${ TPK Fire Monster }.
+  ]
+  TPK Incinerated Desc = [
+    Incinerated
+  ]
+  TPK Fire Effect = [
+    ${ set dest = ${ TPK Fire Setting } in TPK Accidental Portal }
+    by ${ TPK Artifact }
+    by the wizard's own chain fireball spell
+  ]
+  TPK Fire Setting = [
+    the Elemental Plane of Fire
+  ]
+  TPK Fire Monster = [
+    a giant fire-breathing gibbering mouther
+    a titanic pyrohydra with a hundred heads
+    by the breath weapon of a red-scaled ${ TPK Hydra }
+    frogs wielding laser pistols
+  ]
+}

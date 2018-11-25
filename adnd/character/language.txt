@@ -1,0 +1,32 @@
+{
+  Language = [
+    Common
+    Dwarvish
+    Elvish
+    Gnoll
+    Gnome
+    Goblin
+    Halfling
+    Hobgoblin
+    Kobold
+    Lizardman
+    Ogrish
+    Orcish
+  ]
+  Uncommon Language = [
+    Dwarvish
+    Elvish
+    Gnome
+    Halfling
+    ${ Monstrous Language }
+  ]
+  Monstrous Language = [
+    Gnoll
+    Goblin
+    Hobgoblin
+    Kobold
+    Lizardman
+    Ogrish
+    Orcish
+  ]
+}

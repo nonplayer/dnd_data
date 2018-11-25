@@ -1,0 +1,130 @@
+{
+  Cold Dungeon Monster Ia = {
+    01-02 = ${ 1d4 } x Badger
+    03-04 = ${ 2d6+2 } x Dwarf
+    05-19 = ${ 2d4+1 } x Berserker
+    20-31 = ${ 1d6+6 } x Orc
+    32-35 = ${ 1d3 } x Piercer
+    36-37 = ${ 1d4 } x Skeleton
+  }
+  Cold Dungeon Monster Ib = {
+    01-02 = ${ 2d6+2 } x Dwarf
+    03-17 = ${ 2d4+1 } x Berserker
+    18-29 = ${ 1d6+6 } x Orc
+    30-33 = ${ 1d3 } x Piercer
+    34-35 = ${ 1d4 } x Skeleton
+  }
+  Cold Dungeon Monster Ic = {
+    01-02 = ${ 2d6+2 } x Dwarf
+    03-17 = ${ 2d4+1 } x Berserker
+    18-29 = ${ 1d6+6 } x Orc
+    30-33 = ${ 1d3 } x Piercer
+    34-35 = ${ 1d4 } x Skeleton
+  }
+  Cold Dungeon Monster IIa = {
+       01 = ${ 1d4 } x Giant Badger
+    02-12 = ${ Dungeon NPC Party }
+    13-20 = ${ 1d4 } x Piercer
+    21-30 = ${ 1d4 } x Wolf
+    31-35 = ${ 1d3 } x Dire Wolf
+    36-40 = 1 x Wolverine
+  }
+  Cold Dungeon Monster IIb = {
+    01-11 = ${ Dungeon NPC Party }
+    12-19 = ${ 1d4 } x Piercer
+    20-29 = ${ 1d4 } x Wolf
+    30-34 = ${ 1d3 } x Dire Wolf
+    35-39 = 1 x Wolverine
+  }
+  Cold Dungeon Monster III = {
+    01-10 = ${ 1d6+1 } x Bugbear
+    11-20 = ${ Dungeon NPC Party }
+    21-22 = ${ Cold Dragon III }
+    23-27 = ${ 1d4 } x Ghoul
+    28-39 = ${ 1d3 } x Ogre
+    40-41 = ${ 1d4+1 } x Piercer
+    42-46 = ${ 1d4 } x Giant Weasel
+    47-51 = 1 x Giant Wolverine
+  }
+  Cold Dragon III = {
+    01-38 = 1 x Very Young White Dragon
+  }
+  Cold Dungeon Monster IV = {
+    01-08 = ${ Dungeon NPC Party }
+    09-10 = ${ Cold Dragon IV }
+    11-16 = ${ 1d2 } x Gargoyle
+    17-22 = ${ 1d4 } x Ghast
+    23-25 = ${ 1d2 } x Owlbear
+    26-28 = ${ 1d3 } x Shadow
+    29-30 = 1 x Ice Toad
+    31-35 = 1 x Cave Bear
+  }
+  Cold Dragon IV = {
+    01-08 = 1 x ${ [ Very Young, Young ] } Silver Dragon
+    09-20 = 1 x ${ [ Young, Sub-adult ] } White Dragon
+  }
+  Cold Dungeon Monster V = {
+    01-08 = ${ Dungeon NPC Party }
+    09-10 = ${ Cold Dragon V }
+    11-15 = ${ 1d4 } x Yeti
+  }
+  Cold Dragon V = {
+    01-08 = 1 x ${ [ Sub-adult, Young Adult ] } Silver Dragon
+    09-20 = 1 x ${ [ Young Adult, Adult ] } White Dragon
+  }
+  Cold Dungeon Monster VI = {
+    01-06 = ${ Dungeon NPC Party }
+    07-08 = ${ Cold Dragon VI }
+    09-10 = 1 x Werebear
+    11-15 = ${ 1d4 } x Wight
+    16-18 = ${ 1d2 } x Wraith
+    19-23 = ${ 1d2 } x Cave Bear
+  }
+  Cold Dragon VI = {
+    01-09 = 1 x Adult Silver Dragon
+    10-22 = 1 x Old White Dragon
+  }
+  Cold Dungeon Monster VII = {
+    01-05 = ${ Dungeon NPC Party }
+    06-07 = ${ Cold Dragon VII }
+    08-09 = 1 x Air Elemental
+    10-12 = ${ 1d2 } x Frost Giant
+    13-16 = 1 x Spectre
+    17-21 = ${ 1d4 } x Winter Wolf
+  }
+  Cold Dragon VII = {
+    01-07 = 1 x Old Silver Dragon
+    08-20 = 1 x Very Old White Dragon
+  }
+  Cold Dungeon Monster VIII = {
+    01-05 = ${ Dungeon NPC Party }
+       06 = 1 x Ice Devil
+    07-08 = ${ Cold Dragon VIII }
+    09-13 = 1 x Ghost
+    14-21 = 1 x Remohaz
+    22-29 = 1 x Vampire
+  }
+  Cold Dragon VIII = {
+    01-04 = 1 x Very Old Silver Dragon
+    05-22 = 1 x Ancient White Dragon
+  }
+  Cold Dungeon Monster IX = {
+    01-09 = ${ Dungeon NPC Party }
+    10-12 = ${ Cold Dragon IX }
+    13-24 = 1 x Remorhaz
+    25-27 = 1 x Vampire ${ [ 7th, 8th, 9th, 10th ] }-level Cleric
+  }
+  Cold Dragon IX = {
+    01-04 = 1 x Ancient Silver Dragon
+    05-22 = 1 x Ancient White Dragon and 1 x Very Old White Dragon
+  }
+  Cold Dungeon Monster X = {
+    01-08 = ${ Dungeon NPC Party }
+    09-16 = 1 x Demon Prince
+    17-26 = ${ Cold Dragon X }
+    27-36 = 1 x Lich
+  }
+  Cold Dragon X = {
+    01-06 = 1 x Ancient Silver Dragon and 1 x Old Silver Dragon
+  }
+}

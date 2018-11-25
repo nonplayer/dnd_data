@@ -1,0 +1,8 @@
+{
+  Door Lock = {
+    01-05 = common lock
+    06-09 = good lock, -10% to open
+    10-13 = superior lock, -20% to open
+    14-16 = wizard lock
+  }
+}

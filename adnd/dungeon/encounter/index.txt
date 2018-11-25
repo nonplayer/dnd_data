@@ -1,0 +1,152 @@
+{
+  Level 1 Dungeon Monster = {
+    01-16 = ${ Dungeon Monster Ia }
+    17-19 = ${ Dungeon Monster IIa }
+       20 = ${ Dungeon Monster III }
+  }
+  Level 2 Dungeon Monster = {
+    01-12 = ${ Dungeon Monster Ia }
+    13-16 = ${ Dungeon Monster IIa }
+    17-18 = ${ Dungeon Monster III }
+       19 = ${ Dungeon Monster IV }
+       20 = ${ Dungeon Monster V }
+  }
+  Level 3 Dungeon Monster = {
+    01-12 = ${ Dungeon Monster Ib }
+    13-16 = ${ Dungeon Monster IIa }
+    17-18 = ${ Dungeon Monster III }
+       19 = ${ Dungeon Monster IV }
+       20 = ${ Dungeon Monster V }
+  }
+  Level 4 Dungeon Monster = {
+    01-05 = ${ Dungeon Monster Ib }
+    06-10 = ${ Dungeon Monster IIb }
+    11-16 = ${ Dungeon Monster III }
+    17-18 = ${ Dungeon Monster IV }
+       19 = ${ Dungeon Monster V }
+       20 = ${ Dungeon Monster VI }
+  }
+  Level 5 Dungeon Monster = {
+    01-03 = ${ Dungeon Monster Ic }
+    04-06 = ${ Dungeon Monster IIb }
+    07-12 = ${ Dungeon Monster III }
+    13-16 = ${ Dungeon Monster IV }
+    17-18 = ${ Dungeon Monster V }
+       19 = ${ Dungeon Monster VI }
+       20 = ${ Dungeon Monster VII }
+  }
+  Level 6 Dungeon Monster = {
+    01-02 = ${ Dungeon Monster Ic }
+    03-04 = ${ Dungeon Monster IIb }
+    05-06 = ${ Dungeon Monster III }
+    07-12 = ${ Dungeon Monster IV }
+    13-16 = ${ Dungeon Monster V }
+    17-18 = ${ Dungeon Monster VI }
+       19 = ${ Dungeon Monster VII }
+       20 = ${ Dungeon Monster VIII }
+  }
+  Level 7 Dungeon Monster = {
+       01 = ${ Dungeon Monster Ic }
+    02-03 = ${ Dungeon Monster IIb }
+    04-05 = ${ Dungeon Monster III }
+    06-10 = ${ Dungeon Monster IV }
+    11-14 = ${ Dungeon Monster V }
+    15-16 = ${ Dungeon Monster VI }
+    17-18 = ${ Dungeon Monster VII }
+       19 = ${ Dungeon Monster VIII }
+       20 = ${ Dungeon Monster IX }
+  }
+  Level 8 Dungeon Monster = {
+       01 = ${ Dungeon Monster Ic }
+       02 = ${ Dungeon Monster IIb }
+    03-04 = ${ Dungeon Monster III }
+    05-07 = ${ Dungeon Monster IV }
+    08-10 = ${ Dungeon Monster V }
+    11-14 = ${ Dungeon Monster VI }
+    15-16 = ${ Dungeon Monster VII }
+    17-18 = ${ Dungeon Monster VIII }
+       19 = ${ Dungeon Monster IX }
+       20 = ${ Dungeon Monster X }
+  }
+  Level 9 Dungeon Monster = {
+       01 = ${ Dungeon Monster Ic }
+       02 = ${ Dungeon Monster IIb }
+       03 = ${ Dungeon Monster III }
+    04-05 = ${ Dungeon Monster IV }
+    06-08 = ${ Dungeon Monster V }
+    09-12 = ${ Dungeon Monster VI }
+    13-15 = ${ Dungeon Monster VII }
+    16-17 = ${ Dungeon Monster VIII }
+    18-19 = ${ Dungeon Monster IX }
+       20 = ${ Dungeon Monster X }
+  }
+  Level 10 Dungeon Monster = {
+       01 = ${ Dungeon Monster Ic }
+       02 = ${ Dungeon Monster IIb }
+       03 = ${ Dungeon Monster III }
+       04 = ${ Dungeon Monster IV }
+    05-06 = ${ Dungeon Monster V }
+    07-09 = ${ Dungeon Monster VI }
+    10-12 = ${ Dungeon Monster VII }
+    13-16 = ${ Dungeon Monster VIII }
+    17-19 = ${ Dungeon Monster IX }
+       20 = ${ Dungeon Monster X }
+  }
+  Level 11 Dungeon Monster = [
+    ${ Level 10 Dungeon Monster }
+  ]
+  Level 12 Dungeon Monster = {
+       01 = ${ Dungeon Monster Ic }
+       02 = ${ Dungeon Monster IIb }
+       03 = ${ Dungeon Monster III }
+       04 = ${ Dungeon Monster IV }
+       05 = ${ Dungeon Monster V }
+    06-07 = ${ Dungeon Monster VI }
+    08-09 = ${ Dungeon Monster VII }
+    10-12 = ${ Dungeon Monster VIII }
+    13-18 = ${ Dungeon Monster IX }
+    19-20 = ${ Dungeon Monster X }
+  }
+  Level 13 Dungeon Monster = [
+    ${ Level 12 Dungeon Monster }
+  ]
+  Level 14 Dungeon Monster = {
+       01 = ${ Dungeon Monster Ic }
+       02 = ${ Dungeon Monster IIb }
+       03 = ${ Dungeon Monster III }
+       04 = ${ Dungeon Monster IV }
+       05 = ${ Dungeon Monster V }
+       06 = ${ Dungeon Monster VI }
+    07-08 = ${ Dungeon Monster VII }
+    09-11 = ${ Dungeon Monster VIII }
+    12-17 = ${ Dungeon Monster IX }
+    18-20 = ${ Dungeon Monster X }
+  }
+  Level 15 Dungeon Monster = [
+    ${ Level 14 Dungeon Monster }
+  ]
+  Level 16 Dungeon Monster = {
+       01 = ${ Dungeon Monster Ic }
+       02 = ${ Dungeon Monster IIb }
+       03 = ${ Dungeon Monster III }
+       04 = ${ Dungeon Monster IV }
+       05 = ${ Dungeon Monster V }
+       06 = ${ Dungeon Monster VI }
+       07 = ${ Dungeon Monster VII }
+    08-10 = ${ Dungeon Monster VIII }
+    11-16 = ${ Dungeon Monster IX }
+    17-20 = ${ Dungeon Monster X }
+  }
+  Level 17 Dungeon Monster = [
+    ${ Level 16 Dungeon Monster }
+  ]
+  Level 18 Dungeon Monster = [
+    ${ Level 16 Dungeon Monster }
+  ]
+  Level 19 Dungeon Monster = [
+    ${ Level 16 Dungeon Monster }
+  ]
+  Level 20 Dungeon Monster = [
+    ${ Level 16 Dungeon Monster }
+  ]
+}

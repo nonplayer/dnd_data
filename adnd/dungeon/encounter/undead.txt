@@ -1,0 +1,71 @@
+{
+  Undead Dungeon Monster Ia = {
+    01-02 = ${ 1d3 } x Rot Grub
+    03-04 = ${ 1d4 } x Skeleton
+    05-06 = ${ 1d3 } x Zombie
+  }
+  Undead Dungeon Monster Ib = {
+    01-02 = ${ 1d3 } x Rot Grub
+    03-04 = ${ 1d4 } x Skeleton
+    05-06 = ${ 1d3 } x Zombie
+  }
+  Undead Dungeon Monster Ic = {
+    01-02 = ${ 1d3 } x Rot Grub
+    03-04 = ${ 1d4 } x Skeleton
+    05-06 = ${ 1d3 } x Zombie
+  }
+  Undead Dungeon Monster IIa = {
+    01-02 = ${ 1d2 } x Gas Spore
+    03-04 = ${ 1d4 } x Rot Grub
+  }
+  Undead Dungeon Monster IIb = {
+    01-02 = ${ 1d2 } x Gas Spore
+    03-04 = ${ 1d4 } x Rot Grub
+  }
+  Undead Dungeon Monster III = {
+    01-02 = ${ 1d3 } x Violet Fungi
+    03-07 = ${ 1d4 } x Ghoul
+       08 = ${ 1d4 } x Rot Grub
+  }
+  Undead Dungeon Monster IV = {
+    01-06 = ${ 1d4 } x Ghast
+    07-19 = Yellow Mold
+    20-22 = ${ 1d3 } x Shadow
+  }
+  Undead Dungeon Monster V = {
+    01-04 = Yellow Mold
+  }
+  Undead Dungeon Monster VI = {
+    01-07 = ${ 1d2 } x Carrion Crawler
+    08-11 = Green Slime
+       12 = Brown Mold
+    13-14 = Yellow Mold
+    15-19 = ${ 1d4 } x Wight
+    20-22 = ${ 1d2 } x Wraith
+  }
+  Undead Dungeon Monster VII = {
+       01 = 1 x Bone Devil
+    02-03 = 1 x Groaning Spirit
+    04-07 = ${ 1d2 } x Mummy
+    08-11 = 1 x Spectre
+    12-13 = ${ 1d3 } x Will-o-wisp
+  }
+  Undead Dungeon Monster VIII = {
+    01-05 = 1 x Ghost
+    06-11 = Brown Mold
+    12-13 = Yellow Mold
+    14-21 = 1 x Vampire
+    22-27 = ${ 1d4+1 } x Will-o-wisp
+  }
+  Undead Dungeon Monster IX = {
+    01-07 = Brown Mold
+    08-17 = Yellow Mold
+    18-20 = 1 x Vampire ${ [ 7th, 8th, 9th, 10th ] }-level Cleric
+    21-30 = ${ 1d4+1 } x Will-o-wisp
+  }
+  Undead Dungeon Monster X = {
+    01-08 = 1 x Demon Prince
+    09-18 = 1 x Lich
+    19-28 = 1 x Vampire ${ [ 9th, 10th, 11th, 12th ] }-level Magic-User
+  }
+}

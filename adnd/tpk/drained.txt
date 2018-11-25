@@ -1,0 +1,18 @@
+{
+  TPK Drained Block = [
+    Drained of life ${ TPK Negative Effect }.
+    Drained of blood by ${ TPK Vampiric Monster }.
+  ]
+  TPK Negative Effect = [
+    ${ set dest = ${ TPK Negative Setting } in TPK Accidental Portal }
+    by a swarm of giant spider wraiths
+  ]
+  TPK Negative Setting = [
+    the Negative Material Plane
+  ]
+  TPK Vampiric Monster = [
+    a vampiric ${ Dragon }
+    a vampiric ${ TPK Hydra }
+    vampiric ${ plural Giant }
+  ]
+}

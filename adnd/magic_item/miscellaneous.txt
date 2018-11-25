@@ -1,0 +1,417 @@
+{
+  Miscellaneous Magic = {
+    01-03 = ${ Miscellaneous Magic I }
+    04-06 = ${ Miscellaneous Magic II }
+    07-09 = ${ Miscellaneous Magic III }
+    10-12 = ${ Miscellaneous Magic IV }
+    13-15 = ${ Miscellaneous Magic V }
+  }
+  Miscellaneous Magic I = {
+    01-02 = Alchemy Jug (12000 gp)
+    03-04 = Amulet of Inescapable Location (1000 gp)
+       05 = Amulet of Life Protection (20000 gp)
+    06-07 = Amulet of the Planes (30000 gp)
+    08-11 = Amulet of Proof against Detection and Location (15000 gp)
+    12-13 = Apparatus of Kwalish (35000 gp)
+    14-16 = Arrow of Direction (17500 gp)
+       17 = ${ Artifact or Relic }
+    18-20 = Bag of Beans (5000 gp)
+       21 = Bag of Devouring (1500 gp)
+    22-26 = ${ Bag of Holding }
+       27 = Bag of Transmuting (500 gp)
+    28-29 = Bag of Tricks (type ${ 1d10 }) (15000 gp)
+    30-31 = Beaker of Plentiful Potions (12500 gp)
+       32 = Folding Boat (25000 gp)
+       33 = Book of Exalted Deeds (40000 gp)
+       34 = Book of Infinite Spells (50000 gp)
+       35 = Book of Vile Darkness (40000 gp)
+       36 = Boots of Dancing (5000 gp)
+    37-42 = Boots of Elvenkind (5000 gp)
+    43-47 = Boots of Levitation (15000 gp)
+    48-51 = Boots of Speed (20000 gp)
+    52-55 = Boots of Striding and Springing (20000 gp)
+    56-58 = Bowl Commanding Water Elementals (25000 gp)
+       59 = Bowl of Watery Death (1000 gp)
+    60-79 = ${ Bracers of Defense }
+    80-81 = Bracers of Defenselessness (2000 gp)
+    82-84 = Brazier Commanding Fire Elementals (25000 gp)
+       85 = Brazier of Sleep Smoke (1000 gp)
+    86-92 = Brooch of Shielding (10000 gp)
+       93 = Broom of Animated Attack (3000 gp)
+    94-98 = Broom of Flying (10000 gp)
+    99-00 = ${ Bucknard's Everfull Purse }
+  }
+  Bag of Holding = {
+    01-30 = Bag of Holding (15 lbs, limit 250 lbs, 30 cf) (25000 gp)
+    31-70 = Bag of Holding (15 lbs, limit 500 lbs, 70 cf) (25000 gp)
+    71-90 = Bag of Holding (35 lbs, limit 1000 lbs, 150 cf) (25000 gp)
+    91-00 = Bag of Holding (60 lbs, limit 1500 lbs, 250 cf) (25000 gp)
+  }
+  Bracers of Defense = {
+    01-05 = Bracers of Defense (AC 8) (6000 gp)
+    06-15 = Bracers of Defense (AC 7) (9000 gp)
+    16-35 = Bracers of Defense (AC 6) (12000 gp)
+    36-50 = Bracers of Defense (AC 5) (15000 gp)
+    51-70 = Bracers of Defense (AC 4) (18000 gp)
+    71-85 = Bracers of Defense (AC 3) (21000 gp)
+    86-00 = Bracers of Defense (AC 2) (24000 gp)
+  }
+  Bucknard's Everfull Purse = {
+    01-50 = Bucknard's Everfull Purse (sp, ep, gp) (15000 gp)
+    51-90 = Bucknard's Everfull Purse (cp, ep, pp) (25000 gp)
+    91-00 = Bucknard's Everfull Purse (cp, ep, gems) (40000 gp)
+  }
+  Miscellaneous Magic II = {
+    01-06 = Candle of Invocation (5000 gp)
+    07-08 = ${ Carpet of Flying }
+    09-10 = Censer Controlling Air Elementals (25000 gp)
+       11 = Censer of Summoning Hostile Air Elementals (1000 gp)
+    12-13 = Chime of Opening (${ calc (1d6 * 10) + 20 } charges) (20000 gp)
+       14 = Chime of Hunger
+    15-18 = Cloak of Displacement (17500 gp)
+    19-27 = ${ Cloak of Elvenkind }
+    28-30 = Cloak of the Manta Ray (12500 gp)
+    31-32 = Cloak of Poisonousness (2500 gp)
+    33-55 = ${ Cloak of Protection }
+    56-60 = ${ Crystal Ball }
+       61 = Crystal Hypnosis Ball (3000 gp)
+    62-63 = Cube of Force (20000 gp)
+    64-65 = Cube of Frost Resistance (14000 gp)
+    66-67 = Cubic Gate (17500 gp)
+    68-69 = Daern's Instant Fortress (27500 gp)
+    70-72 = Decanter of Endless Water (3000 gp)
+    73-76 = Deck of Many Things (10000 gp)
+       77 = Drums of Deafening (500 gp)
+    78-79 = Drums of Panic (35000 gp)
+    80-85 = Dust of Appearance (${ calc 1d10 * 5 } tubes) (4000 gp)
+    86-91 = Dust of Disappearance (${ calc 1d10 * 5 } tubes) (8000 gp)
+       92 = Dust of Sneezing and Choking (${ calc 1d10 * 5 } tubes) (1000 gp)
+       93 = Efreeti Bottle (45000 gp)
+       94 = Eversmoking Bottle (2500 gp)
+       95 = Eyes of Charming (24000 gp)
+    96-97 = Eyes of the Eagle (18000 gp)
+    98-99 = Eyes of Minute Seeing (12500 gp)
+       00 = ${ Eyes of Petrification }
+  }
+  Carpet of Flying = {
+    01-20 = Carpet of Flying (3' x 5', 1 person, 42") (25000 gp)
+    21-55 = Carpet of Flying (4' x 6', 2 persons, 36") (25000 gp)
+    56-80 = Carpet of Flying (5' x 7', 3 persons, 30") (25000 gp)
+    81-00 = Carpet of Flying (6' x 9', 4 persons, 24") (25000 gp)
+  }
+  Cloak of Elvenkind = {
+    01-90 = Cloak of Elvenkind (human or elf size) (6000 gp)
+    91-00 = Cloak of Elvenkind (small size) (6000 gp)
+  }
+  Cloak of Protection = {
+    01-35 = Cloak of Protection +1 (10000 gp)
+    36-65 = Cloak of Protection +2 (20000 gp)
+    66-85 = Cloak of Protection +3 (30000 gp)
+    86-95 = Cloak of Protection +4 (40000 gp)
+    96-00 = Cloak of Protection +5 (50000 gp)
+  }
+  Crystal Ball = {
+    01-50 = Crystal Ball (5000 gp)
+    51-75 = Crystal Ball with Clairaudience (10000 gp)
+    76-90 = Crystal Ball with ESP (10000 gp)
+    91-00 = Crystal Ball with Telepathy (10000 gp)
+  }
+  Eyes of Petrification = {
+    01-75 = Eyes of Petrification
+    76-00 = Eyes of the Basilisk (50000 gp)
+  }
+  Miscellaneous Magic III = {
+    01-15 = ${ Figurine of Wondrous Power }
+       16 = Flask of Curses (1000 gp)
+    17-18 = Gauntlets of Dexterity (10000 gp)
+    19-20 = Gauntlets of Fumbling (1000 gp)
+    21-22 = Gauntlets of Ogre Power (15000 gp)
+    23-25 = Gauntlets of Swimming and Climbing (10000 gp)
+       26 = Gem of Brightness (17500 gp)
+       27 = Gem of Seeing (25000 gp)
+       28 = ${ Girdle of Femininity/Masculinity }
+       29 = ${ Girdle of Giant Strength }
+       30 = Helm of Brilliance (60000 gp)
+    31-35 = Helm of Comprehending Languages and Reading Magic (12500 gp)
+    36-37 = Helm of Opposite Alignment (1000 gp)
+    38-39 = Helm of Telepathy (35000 gp)
+       40 = Helm of Teleportation (30000 gp)
+    41-45 = Helm of Underwater Action (10000 gp)
+       46 = Horn of Blasting (55000 gp)
+    47-48 = Horn of Bubbles
+       49 = Horn of Collapsing (25000 gp)
+    50-53 = Horn of the Tritons (17500 gp)
+    54-60 = ${ Horn of Valhalla }
+    61-63 = Horseshoes of Speed (10000 gp)
+    64-65 = Horseshoes of a Zephyr (7500 gp)
+    66-70 = Incense of Meditation (${ calc 2d4 } pieces) (7500 gp)
+       71 = Incense of Obsession (${ calc 2d4 } pieces) (500 gp)
+       72 = ${ Ioun Stones }
+    73-78 = ${ Instrument of the Bards }
+    79-80 = Iron Flask
+    81-85 = Javelin of Lightning (${ calc 1d4+1 }) (3000 gp)
+    86-90 = Javelin of Piercing (${ calc 2d4 }) (3000 gp)
+       91 = Jewel of Attacks (1000 gp)
+       92 = Jewel of Flawlessness (${ set n_facets = ${ 1d10 * 10 } } facets) (${ calc ${ get n_facets } * 1000 } gp)
+    93-00 = ${ Keoghtom's Ointment }
+  }
+  Figurine of Wondrous Power = {
+    01-15 = Figurine of Wondrous Power (ebony fly) (5000 gp)
+    16-30 = Figurine of Wondrous Power (pair of golden lions) (5000 gp)
+    31-40 = Figurine of Wondrous Power (trio of ivory goats) (4000 gp)
+    41-55 = ${ Figurine of Wondrous Power (marble elephant) }
+    56-65 = Figurine of Wondrous Power (obsidian steed) (6000 gp)
+    66-85 = Figurine of Wondrous Power (onyx dog) (2000 gp)
+    86-00 = Figurine of Wondrous Power (serpentine owl) (4000 gp)
+  }
+  Figurine of Wondrous Power (marble elephant) = {
+    01-50 = Figurine of Wondrous Power (marble elephant) (10000 gp)
+    51-90 = Figurine of Wondrous Power (marble loxodont) (11000 gp)
+    91-93 = Figurine of Wondrous Power (marble mammoth) (13000 gp)
+    94-00 = Figurine of Wondrous Power (marble mastodon) (12000 gp)
+  }
+  Girdle of Femininity/Masculinity = {
+    01-90 = Girdle of Femininity/Masculinity (1000 gp)
+    91-00 = Girdle of Neutering (1000 gp)
+  }
+  Girdle of Giant Strength = {
+    01-30 = Girdle of Hill Giant Strength (2500 gp)
+    31-50 = Girdle of Stone Giant Strength (2500 gp)
+    51-70 = Girdle of Frost Giant Strength (2500 gp)
+    71-85 = Girdle of Fire Giant Strength (2500 gp)
+    86-95 = Girdle of Cloud Giant Strength (2500 gp)
+    96-00 = Girdle of Storm Giant Strength (2500 gp)
+  }
+  Horn of Valhalla = {
+    01-08 = Silver Horn of Valhalla (15000 gp)
+    09-15 = Brass Horn of Valhalla (15000 gp)
+    16-18 = Bronze Horn of Valhalla (30000 gp)
+    19-20 = Iron Horn of Valhalla (45000 gp)
+  }
+  Ioun Stones = [
+    Ioun Stones (${ ${ 1d10 } x Ioun Stone })
+  ]
+  Ioun Stone = {
+       01 = pale blue rhomboid (3000 gp)
+       02 = scarlet and blue sphere (3000 gp)
+       03 = incandescent blue sphere (3000 gp)
+       04 = deep red sphere (3000 gp)
+       05 = pink rhomboid (3000 gp)
+       06 = pink and green sphere (3000 gp)
+       07 = pale green prism (3000 gp)
+       08 = clear spindle (3000 gp)
+       09 = iridescent spindle (3000 gp)
+       10 = pearly white spindle (3000 gp)
+       11 = pale lavendar ellipsoid (3000 gp)
+       12 = lavender and green ellipsoid (3000 gp)
+       13 = vibrant purple prism (3000 gp)
+       14 = dusy rose prism (3000 gp)
+    15-20 = dull gray ${ Ioun Stone Shape } (3000 gp)
+  }
+  Ioun Stone Shape = [
+    ellipsoid
+    prism
+    rhomboid
+    sphere
+    spindle
+  ]
+  Instrument of the Bards = {
+    01-05 = Fochlucan Bandore (10000 gp)
+    06-09 = Mac-Fuirmidh Cittern (25000 gp)
+    10-12 = Doss Lute (40000 gp)
+    13-15 = Canaith Mandolin (55000 gp)
+    16-17 = Cli Lyre (70000 gp)
+    18-19 = Anstruth Harp (85000 gp)
+       20 = Ollamh Harp (100000 gp)
+  }
+  Keoghtom's Ointment = [
+    Keoghtom's Ointment (one jar) (10000 gp)
+    Keoghtom's Ointment (two jars) (20000 gp)
+    Keoghtom's Ointment (three jars) (30000 gp)
+  ]
+  Miscellaneous Magic IV = {
+       01 = Libram of Gainful Conjuration (40000 gp)
+       02 = Libram of Ineffable Damnation (40000 gp)
+       03 = Libram of Silver Magic (40000 gp)
+       04 = Lyre of Building (30000 gp)
+       05 = Manual of Bodily Health (50000 gp)
+       06 = Manual of Gainful Exercise (50000 gp)
+       07 = ${ Manual of Golems }
+       08 = Manual of Puissant Skill at Arms (40000 gp)
+       09 = Manual of Quickness of Action (50000 gp)
+       10 = Manual of Stealthy Pilfering (40000 gp)
+       11 = Mattock of the Titans (7000 gp)
+       12 = Maul of the Titans (12000 gp)
+    13-15 = ${ Medallion of ESP }
+    16-17 = ${ Medallion of Thought Projection }
+       18 = Mirror of Life Trapping (25000 gp)
+       19 = Mirror of Mental Prowess (50000 gp)
+       20 = Mirror of Opposition (2000 gp)
+    21-23 = Necklace of Adaptation (10000 gp)
+    24-27 = ${ Necklace of Missiles }
+    28-33 = ${ Necklace of Prayer Beads }
+    34-35 = Necklace of Strangulation (1000 gp)
+    36-38 = Net of Entrapment (7500 gp)
+    39-42 = Net of Snaring (6000 gp)
+    43-44 = ${ Nolzurs' Marvelous Pigments }
+    45-46 = ${ Pearl of Power }
+    47-48 = ${ Pearl of Wisdom }
+    49-50 = Periapt of Foul Rotting (1000 gp)
+    51-53 = Periapt of Health (10000 gp)
+    54-60 = ${ Periapt of Proof against Poison }
+    61-64 = Periapt of Wound Closure (10000 gp)
+    65-70 = Phylactery of Faithfulness (7500 gp)
+    71-74 = ${ Phylactery of Long Years }
+    75-76 = Phylactery of Monstrous Attention (2000 gp)
+    77-84 = Pipes of the Sewers (8500 gp)
+       85 = Portable Hole (50000 gp)
+    86-00 = ${ Quaal's Feather Token }
+  }
+  Manual of Golems = {
+    01-05 = Manual of Clay Golems (30000 gp)
+    06-17 = Manual of Flesh Golems (30000 gp)
+       18 = Manual of Iron Golems (30000 gp)
+    19-20 = Manual of Stone Golems (30000 gp)
+  }
+  Medallion of ESP = {
+    01-15 = Medallion of ESP (30' range) (10000 gp)
+    16-18 = Medallion of ESP (30' range with empathy) (30000 gp)
+       19 = Medallion of ESP (60' range) (10000 gp)
+       20 = Medallion of ESP (90' range) (10000 gp)
+  }
+  Medallion of Thought Projection = {
+    01-15 = Medallion of Thought Projection (1000 gp)
+    16-18 = Medallion of Thought Projection (1000 gp)
+       19 = Medallion of Thought Projection (1000 gp)
+       20 = Medallion of Thought Projection (1000 gp)
+  }
+  Necklace of Missiles = {
+    01-04 = Necklace of Missiles (2x3, 1x5) (2200 gp)
+    05-08 = Necklace of Missiles (2x2, 2x4, 1x6) (3600 gp)
+    09-12 = Necklace of Missiles (4x3, 2x5, 1x7) (5800 gp)
+    13-16 = Necklace of Missiles (4x2, 2x4, 2x6, 1x8) (7200 gp)
+    17-18 = Necklace of Missiles (2x3, 2x5, 2x7, 1x9) (7800 gp)
+       19 = Necklace of Missiles (4x4, 2x6, 2x8, 1x10) (10800 gp)
+       20 = Necklace of Missiles (2x3, 2x5, 2x7, 2x9, 1x11) (12000 gp)
+  }
+  Necklace of Prayer Beads = [
+    Necklace of Prayer Beads (${ ${ set n_beads = ${ 1d4+2 } } x Prayer Bead }) (${ calc ${ get n_beads } * 3000 } gp)
+  ]
+  Prayer Bead = {
+    01-05 = bead of atonement
+    06-10 = bead of blessing
+    11-15 = bead of curing
+    16-17 = bead of karma
+       18 = bead of summons
+    19-20 = bead of wind walking
+  }
+  Nolzurs' Marvelous Pigments = [
+    Nolzurs' Marvelous Pigments (one jar) (3000 gp)
+    Nolzurs' Marvelous Pigments (two jars) (6000 gp)
+    Nolzurs' Marvelous Pigments (three jars) (9000 gp)
+    Nolzurs' Marvelous Pigments (four jars) (12000 gp)
+  ]
+  Pearl of Power = {
+    01-19 = ${ Pearl of Power II }
+       20 = ${ Cursed Pearl of Power }
+  }
+  Pearl of Power II = {
+    01-25 = Pearl of Power (first) (2000 gp)
+    26-45 = Pearl of Power (second) (4000 gp)
+    46-60 = Pearl of Power (third) (6000 gp)
+    61-75 = Pearl of Power (fourth) (8000 gp)
+    76-85 = Pearl of Power (fifth) (10000 gp)
+    86-92 = Pearl of Power (sixth) (12000 gp)
+    93-96 = Pearl of Power (seventh) (14000 gp)
+    97-98 = Pearl of Power (eighth) (16000 gp)
+       99 = Pearl of Power (ninth) (18000 gp)
+       00 = ${ Pearl of Power (two of) }
+  }
+  Pearl of Power (two of) = [
+    Pearl of Power (two of first) (4000 gp)
+    Pearl of Power (two of second) (8000 gp)
+    Pearl of Power (two of third) (12000 gp)
+    Pearl of Power (two of fourth) (16000 gp)
+    Pearl of Power (two of fifth) (20000 gp)
+    Pearl of Power (two of sixth) (24000 gp)
+  ]
+  Cursed Pearl of Power = {
+    01-25 = Cursed Pearl of Power (first) (1000 gp)
+    26-45 = Cursed Pearl of Power (second) (1000 gp)
+    46-60 = Cursed Pearl of Power (third) (1000 gp)
+    61-75 = Cursed Pearl of Power (fourth) (1000 gp)
+    76-85 = Cursed Pearl of Power (fifth) (1000 gp)
+    86-92 = Cursed Pearl of Power (sixth) (1000 gp)
+    93-96 = Cursed Pearl of Power (seventh) (1000 gp)
+    97-98 = Cursed Pearl of Power (eighth) (1000 gp)
+       99 = Cursed Pearl of Power (ninth) (1000 gp)
+  }
+  Pearl of Wisdom = {
+    01-19 = Pearl of Wisdom (5000 gp)
+       20 = Cursed Pearl of Wisdom
+  }
+  Periapt of Proof against Poison = {
+    01-08 = Periapt of Proof against Poison +1 (12500 gp)
+    09-14 = Periapt of Proof against Poison +2 (12500 gp)
+    15-18 = Periapt of Proof against Poison +3 (12500 gp)
+    19-20 = Periapt of Proof against Poison +4 (12500 gp)
+  }
+  Phylactery of Long Years = {
+    01-19 = Phylactery of Long Years (25000 gp)
+       20 = Phylactery of Short Years (1000 gp)
+  }
+  Quaal's Feather Token = {
+    01-04 = Quaal's Feather Token (anchor) (2000 gp)
+    05-07 = Quaal's Feather Token (bird) (2000 gp)
+    08-10 = Quaal's Feather Token (fan) (2000 gp)
+    11-13 = Quaal's Feather Token (swan boat) (2000 gp)
+    14-18 = Quaal's Feather Token (tree) (2000 gp)
+    19-20 = Quaal's Feather Token (whip) (2000 gp)
+  }
+  Miscellaneous Magic V = {
+       01 = ${ Robe of the Archmagi }
+    02-08 = Robe of Blending (35000 gp)
+       09 = Robe of Eyes (50000 gp)
+       10 = Robe of Powerlessness (1000 gp)
+       11 = Robe of Scintillating Colors (25000 gp)
+    12-19 = Robe of Useful Items (15000 gp)
+    20-25 = Rope of Climbing (10000 gp)
+    26-27 = Rope of Constriction (1000 gp)
+    28-31 = Rope of Entanglement (12000 gp)
+       32 = Rug of Smothering (1500 gp)
+       33 = Rug of Welcome (45000 gp)
+       34 = Saw of Mighty Cutting (12500 gp)
+       35 = Scarab of Death (2500 gp)
+    36-38 = Scarab of Enraging Enemies (${ calc 1d6+18 } charges) (8000 gp)
+    39-40 = Scarab of Insanity (${ calc 1d8+8 } charges) (11000 gp)
+    41-46 = ${ Scarab of Protection }
+       47 = Spade of Colossal Excavation (6500 gp)
+       48 = Sphere of Annihilation (30000 gp)
+    49-50 = Stone of Controlling Earth Elementals (12500 gp)
+    51-52 = Stone of Good Luck (25000 gp)
+    53-54 = Stone of Weight (1000 gp)
+    55-57 = Talisman of Pure Good (7 charges) (27500 gp)
+       58 = Talisman of the Sphere (10000 gp)
+    59-60 = Talisman of Ultimate Evil (6 charges) (32500 gp)
+    61-66 = Talisman of Zagy (10000 gp)
+       67 = Tome of Clear Thought (48000 gp)
+       68 = Tome of Leadership and Influence (40000 gp)
+       69 = Tome of Understanding (43500 gp)
+    70-76 = Trident of Fish Command (${ calc 1d4+16 } charges) (4000 gp)
+    77-78 = Trident of Submission (${ calc 1d4+16 } charges) (12500 gp)
+    79-83 = Trident of Warning (${ calc 1d6+18 } charges) (10000 gp)
+    84-85 = Trident of Yearning (1000 gp)
+    86-87 = Vacuous Grimoire (1000 gp)
+    88-90 = Well of Many Worlds (12000 gp)
+    91-00 = Wings of Flying (7500 gp)
+  }
+  Robe of the Archmagi = {
+    01-45 = Robe of the Archmagi (good) (65000 gp)
+    46-75 = Robe of the Archmagi (neutral) (65000 gp)
+    76-00 = Robe of the Archmagi (evil) (65000 gp)
+  }
+  Scarab of Protection = {
+    01-19 = Scarab of Protection (25000 gp)
+       20 = Cursed Scarab of Protection (2000 gp)
+  }
+}

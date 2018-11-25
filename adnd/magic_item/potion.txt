@@ -1,0 +1,100 @@
+{
+  Magic Potion = {
+    01-03 = ${ Potion of Animal Control }
+    04-06 = Potion of Clairaudience (400 gp)
+    07-09 = Potion of Clairvoyance (500 gp)
+    10-12 = Potion of Climbing (500 gp)
+    13-15 = Potion of Delusion (150 gp)
+    16-18 = Potion of Diminution (500 gp)
+    19-20 = ${ Potion of Dragon Control }
+    21-23 = Potion of ESP (850 gp)
+    24-26 = Potion of Extra-Healing (800 gp)
+    27-29 = Potion of Fire Resistance (400 gp)
+    30-32 = Potion of Flying (750 gp)
+    33-34 = Potion of Gaseous Form (400 gp)
+    35-36 = ${ Potion of Giant Control }
+    37-39 = ${ Potion of Giant Strength }
+    40-41 = Potion of Growth (300 gp)
+    42-47 = Potion of Healing (400 gp)
+    48-49 = Potion of Heroism (500 gp)
+    50-51 = ${ Potion of Human Control }
+    52-54 = Potion of Invisibility (500 gp)
+    55-57 = Potion of Invulnerability (500 gp)
+    58-60 = Potion of Levitation (400 gp)
+    61-63 = Potion of Longevity (1000 gp)
+    64-66 = Oil of Etherealness (1500 gp)
+    67-69 = Oil of Slipperiness (750 gp)
+    70-72 = Philter of Love (300 gp)
+    73-75 = Philter of Persuasiveness (850 gp)
+    76-78 = Potion of Plant Control (300 gp)
+    79-81 = Potion of Polymorph Self (350 gp)
+    82-84 = Potion of Poison
+    85-87 = Potion of Speed (450 gp)
+    88-90 = Potion of Super-Heroism (750 gp)
+    91-93 = Potion of Sweet Water (250 gp)
+    94-96 = Potion of Treasure Finding (2000 gp)
+       97 = ${ Potion of Undead Control }
+    98-00 = Potion of Water Breathing (900 gp)
+  }
+  Potion of Animal Control = {
+    01-04 = Potion of Mammal Control (400 gp)
+    05-08 = Potion of Avian Control (400 gp)
+    09-12 = Potion of Reptile Control (400 gp)
+    13-15 = Potion of Fish Control (400 gp)
+    16-17 = Potion of Mammal and Avian Control (400 gp)
+    18-19 = Potion of Reptile and Fish Control (400 gp)
+       20 = Potion of Animal Control (400 gp)
+  }
+  Potion of Dragon Control = {
+    01-02 = Potion of White Dragon Control (5000 gp)
+    03-04 = Potion of Black Dragon Control (5000 gp)
+    05-07 = Potion of Green Dragon Control (5000 gp)
+    08-09 = Potion of Blue Dragon Control (6000 gp)
+       10 = Potion of Red Dragon Control (6000 gp)
+    11-12 = Potion of Brass Dragon Control (6000 gp)
+    13-14 = Potion of Copper Dragon Control (6000 gp)
+       15 = Potion of Bronze Dragon Control (6000 gp)
+       16 = Potion of Silver Dragon Control (7000 gp)
+       17 = Potion of Gold Dragon Control (7000 gp)
+    18-19 = Potion of Evil Dragon Control (8000 gp)
+       20 = Potion of Good Dragon Control (9000 gp)
+  }
+  Potion of Giant Control = {
+    01-05 = Potion of Hill Giant Control (1000 gp)
+    06-09 = Potion of Stone Giant Control (2000 gp)
+    10-13 = Potion of Frost Giant Control (3000 gp)
+    14-17 = Potion of Fire Giant Control (4000 gp)
+    18-19 = Potion of Cloud Giant Control (5000 gp)
+       20 = Potion of Storm Giant Control (6000 gp)
+  }
+  Potion of Giant Strength = {
+    01-06 = Potion of Hill Giant Strength (900 gp)
+    07-10 = Potion of Stone Giant Strength (1000 gp)
+    11-14 = Potion of Frost Giant Strength (1100 gp)
+    15-17 = Potion of Fire Giant Strength (1200 gp)
+    18-19 = Potion of Cloud Giant Strength (1300 gp)
+       20 = Potion of Storm Giant Strength (1400 gp)
+  }
+  Potion of Human Control = {
+    01-02 = Potion of Dwarf Control (900 gp)
+    03-04 = Potion of Elf Control (900 gp)
+    05-06 = Potion of Gnome Control (900 gp)
+    07-08 = Potion of Halfling Control (900 gp)
+    09-10 = Potion of Half-orc Control (900 gp)
+    11-16 = Potion of Human Control (900 gp)
+    17-19 = Potion of Humanoid Control (900 gp)
+       20 = Potion of Human and Elf Control (900 gp)
+  }
+  Potion of Undead Control = {
+     1 = Potion of Ghast Control (2500 gp)
+     2 = Potion of Ghost Control (2500 gp)
+     3 = Potion of Ghoul Control (2500 gp)
+     4 = Potion of Shadow Control (2500 gp)
+     5 = Potion of Skeleton Control (2500 gp)
+     6 = Potion of Spectre Control (2500 gp)
+     7 = Potion of Wight Control (2500 gp)
+     8 = Potion of Wraith Control (2500 gp)
+     9 = Potion of Vampire Control (2500 gp)
+    10 = Potion of Zombie Control (2500 gp)
+  }
+}

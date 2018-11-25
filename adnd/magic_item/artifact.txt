@@ -1,0 +1,58 @@
+{
+  Artifact or Relic = {
+       01 = Axe of the Dwarvish Lords (55000 gp)
+       02 = Baba Yaga's Hut (90000 gp)
+    03-04 = Codex of the Infinite Planes (62500 gp)
+    05-20 = ${ Crown of Might }
+       21 = Crystal of the Ebon Flame (75000 gp)
+       22 = Cup and Talisman of Al'Akbar (85000 gp)
+    23-24 = Eye of Vecna (35000 gp)
+       25 = Hand of Vecna (60000 gp)
+       26 = Heward's Mystical Organ (25000 gp)
+       27 = Horn of Change (20000 gp)
+    28-29 = Invulnerable Coat of Arnd (47500 gp)
+    30-31 = Iron Flask of Tuerny the Merciless (50000 gp)
+       32 = Jacinth of Inestimable Beauty (100000 gp)
+       33 = Johydee's Mask (40000 gp)
+    34-35 = Kuroth's Quill (27500 gp)
+    36-37 = Mace of Cuthbert (35000 gp)
+       38 = Machine of Lum the Mad (72500 gp)
+    39-40 = Mighty Servant of Leuk-O (185000 gp)
+    41-47 = ${ Orb of Dragonkind }
+    48-63 = ${ Orb of Might }
+       64 = Queen Ehlissa's Marvelous Nightingale (112500 gp)
+    65-66 = Recorder of Ye'Cind (80000 gp)
+    67-68 = Ring of Gaxx (17500 gp)
+    69-74 = Rod of Seven Parts (25000 gp)
+    75-91 = ${ Sceptre of Might }
+       92 = Sword of Kas (97000 gp)
+    93-98 = Tooth of Dahlver-Nar (5000 gp)
+       99 = Throne of the Gods
+       00 = Wand of Orcus (10000 gp)
+  }
+  Crown of Might = {
+    01-06 = Crown of Might (evil) (50000 gp)
+    07-14 = Crown of Might (good) (50000 gp)
+    15-20 = Crown of Might (neutral) (50000 gp)
+  }
+  Orb of Dragonkind = [
+    Orb of the Hatchling (10000 gp)
+    Orb of the Wyrmkin (20000 gp)
+    Orb of the Dragonette (30000 gp)
+    Orb of the Dragon (40000 gp)
+    Orb of the Great Serpent (50000 gp)
+    Orb of the Firedrake (60000 gp)
+    Orb of the Elder Wyrm (70000 gp)
+    Orb of the Eternal Grand Dragon (80000 gp)
+  ]
+  Orb of Might = {
+    01-06 = Orb of Might (evil) (100000 gp)
+    07-14 = Orb of Might (good) (100000 gp)
+    15-20 = Orb of Might (neutral) (100000 gp)
+  }
+  Sceptre of Might = {
+    01-06 = Sceptre of Might (evil) (150000 gp)
+    07-14 = Sceptre of Might (good) (150000 gp)
+    15-20 = Sceptre of Might (neutral) (150000 gp)
+  }
+}

@@ -1,0 +1,5 @@
+{
+  NPC Ability Scores = [
+    ${ Str }, ${ Int }, ${ Wis }, ${ Dex }, ${ Con }, ${ Cha }
+  ]
+}

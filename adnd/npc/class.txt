@@ -1,0 +1,22 @@
+{
+  Arcane Class = [
+    Magic-User
+    Illusionist
+  ]
+  Divine Class = [
+    Cleric
+    Paladin
+  ]
+  Martial Class = [
+    Fighter
+    Monk
+  ]
+  Scoundrel Class = [
+    Thief
+    Assassin
+  ]
+  Wild Class = [
+    Druid
+    Ranger
+  ]
+}

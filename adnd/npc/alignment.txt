@@ -1,0 +1,47 @@
+{
+  Alignment = {
+    01-03 = ${ Good Alignment }
+    04-07 = ${ Neutral Alignment }
+    08-10 = ${ Evil Alignment }
+  }
+  Good Alignment = {
+       01 = LG
+       02 = NG
+       03 = CG
+  }
+  Neutral Alignment = {
+       01 = LN
+    02-03 = N
+       04 = CN
+  }
+  Evil Alignment = {
+       01 = LE
+       02 = NE
+       03 = CE
+  }
+  Lawful Alignment = {
+       01 = LG
+       02 = LN
+       03 = LE
+  }
+  Druid Alignment = [
+    N
+  ]
+  Paladin Alignment = [
+    LG
+  ]
+  Ranger Alignment = [
+    ${ Good Alignment }
+  ]
+  Thief Alignment = {
+       01 = NG
+    02-05 = ${ Neutral Alignment }
+    06-10 = ${ Evil Alignment }
+  }
+  Assassin Alignment = [
+    ${ Evil Alignment }
+  ]
+  Monk Alignment = [
+    ${ Lawful Alignment }
+  ]
+}

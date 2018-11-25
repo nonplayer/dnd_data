@@ -1,0 +1,151 @@
+{
+  Abyssal Dungeon Monster Ia = {
+    01-10 = ${ 1d4 } x Fire Beetle
+       11 = ${ 1d4 } x Manes Demon
+    12-26 = ${ 2d6+3 } x Brigand
+    27-28 = ${ 1d3 } x Rot Grub
+    29-30 = ${ 1d3 } x Zombie
+  }
+  Abyssal Dungeon Monster Ib = {
+    01-10 = ${ 1d4 } x Fire Beetle
+       11 = ${ 1d4 } x Manes Demon
+    12-26 = ${ 2d6+3 } x Brigand
+    27-28 = ${ 1d3 } x Rot Grub
+    29-30 = ${ 1d3 } x Zombie
+  }
+  Abyssal Dungeon Monster Ic = {
+    01-10 = ${ 1d4 } x Fire Beetle
+       11 = ${ 1d4 } x Manes Demon
+    12-26 = ${ 2d6+3 } x Brigand
+    27-28 = ${ 1d3 } x Rot Grub
+    29-30 = ${ 1d3 } x Zombie
+  }
+  Abyssal Dungeon Monster IIa = {
+    01-15 = ${ 2d6+1 } x Giant Centipede
+    16-26 = ${ Dungeon NPC Party }
+    27-33 = ${ 2d4+2 } x Gnoll
+    34-35 = ${ 1d4 } x Rot Grub
+    36-48 = ${ 2d4 } x Troglodyte
+  }
+  Abyssal Dungeon Monster IIb = {
+    01-15 = ${ 2d6+1 } x Giant Centipede
+    16-26 = ${ Dungeon NPC Party }
+    27-33 = ${ 2d4+2 } x Gnoll
+    34-35 = ${ 1d4 } x Rot Grub
+    36-48 = ${ 2d4 } x Troglodyte
+  }
+  Abyssal Dungeon Monster III = {
+    01-10 = ${ 1d6+1 } x Bugbear
+    11-20 = ${ Dungeon NPC Party }
+    21-22 = ${ Abyssal Dragon III }
+    23-27 = ${ 1d4 } x Ghoul
+    28-39 = ${ 1d3 } x Ogre
+       40 = ${ 1d4 } x Rot Grub
+    41-47 = ${ 1d3 } x Huge Spider
+    48-56 = ${ 1d4+1 } x Large Spider
+  }
+  Abyssal Dragon III = {
+    01-28 = 1 x Very Young Black Dragon
+    29-66 = 1 x Very Young White Dragon
+  }
+  Abyssal Dungeon Monster IV = {
+    01-08 = ${ Dungeon NPC Party }
+    09-10 = ${ Abyssal Dragon IV }
+    11-16 = ${ 1d2 } x Gargoyle
+    17-22 = ${ 1d4 } x Ghast
+       23 = 1 x 5-headed Pyrohydra
+    24-37 = ${ 1d2 } x Werewolf
+    38-40 = ${ 1d3 } x Shadow
+  }
+  Abyssal Dragon IV = {
+    01-09 = 1 x ${ [ Young, Sub-adult ] } Black Dragon
+    10-19 = 1 x ${ [ Very Young, Young ] } Red Dragon
+    20-31 = 1 x ${ [ Young, Sub-adult ] } White Dragon
+  }
+  Abyssal Dungeon Monster V = {
+    01-08 = ${ Dungeon NPC Party }
+    09-10 = ${ Abyssal Dragon V }
+       11 = 1 x 6-headed Pyrohydra
+    12-14 = ${ 1d2 } x Leucrotta
+    15-22 = ${ 1d3 } x Minotaur
+       23 = 1 x Quasit
+    24-37 = ${ 1d2 } x Giant Spider
+  }
+  Abyssal Dragon V = {
+    01-08 = 1 x ${ [ Young Adult, Adult ] } Black Dragon
+    09-18 = 1 x ${ [ Sub-adult, Young Adult ] } Red Dragon
+    19-30 = 1 x ${ [ Young Adult, Adult ] } White Dragon
+  }
+  Abyssal Dungeon Monster VI = {
+    01-06 = ${ Dungeon NPC Party }
+    07-08 = ${ Abyssal Dragon VI }
+    09-11 = ${ 1d2 } x Salamander
+    12-15 = ${ 1d3 } x Phase Spider
+    16-26 = ${ 1d3 } x Troll
+    27-31 = ${ 1d4 } x Wight
+    32-34 = ${ 1d2 } x Wraith
+  }
+  Abyssal Dragon VI = {
+    01-08 = 1 x Old Black Dragon
+    09-21 = 1 x Adult Red Dragon
+    22-34 = 1 x Old White Dragon
+  }
+  Abyssal Dungeon Monster VII = {
+    01-05 = ${ Dungeon NPC Party }
+       06 = 1 x Succubus Demon
+       07 = 1 x Type I Demon
+       08 = 1 x Type II Demon
+       09 = 1 x Type III Demon
+    10-11 = ${ Abyssal Dragon VII }
+    12-15 = ${ 1d2 } x Ettin
+    16-20 = ${ 1d3 } x Hill Giant
+    21-23 = ${ 1d2 } x Frost Giant
+       24 = 1 x ${ [ 7-headed, 8-headed, 9-headed ] } Pyrohydra
+    25-26 = ${ 1d2 } x Lamia
+    27-30 = ${ 1d2 } x Mummy
+       31 = ${ 1d2 } x Night Hag
+    32-35 = 1 x Spectre
+  }
+  Abyssal Dragon VII = {
+    01-10 = 1 x Very Old Black Dragon
+    11-24 = 1 x Old Red Dragon
+    25-37 = 1 x Very Old White Dragon
+  }
+  Abyssal Dungeon Monster VIII = {
+    01-05 = ${ Dungeon NPC Party }
+       06 = 1 x Type IV Demon
+       07 = 1 x Type V Demon
+       08 = 1 x Type VI Demon
+    09-10 = ${ Abyssal Dragon VIII }
+    11-15 = 1 x Ghost
+       16 = 1 x 12-headed Pyrohydra
+    17-24 = 1 x Vampire
+    25-26 = ${ 1d3 } x Will-o-wisp
+  }
+  Abyssal Dragon VIII = {
+    01-13 = 1 x Ancient Black Dragon
+    14-29 = 1 x Very Old Red Dragon
+    30-47 = 1 x Ancient White Dragon
+  }
+  Abyssal Dungeon Monster IX = {
+    01-09 = ${ Dungeon NPC Party }
+    10-12 = ${ Abyssal Dragon IX }
+    13-15 = 1 x 12-headed Pyrohydra
+    16-18 = 1 x Vampire ${ [ 7th, 8th, 9th, 10th ] }-level Cleric
+    19-28 = ${ 1d4+1 } x Will-o-wisp
+  }
+  Abyssal Dragon IX = {
+    01-10 = 1 x Ancient Black Dragon and 1 x Old Black Dragon
+    11-26 = 1 x Ancient Red Dragon
+    27-44 = 1 x Ancient White Dragon and 1 x Very Old White Dragon
+  }
+  Abyssal Dungeon Monster X = {
+    01-08 = ${ Dungeon NPC Party }
+    09-16 = 1 x Demon Prince
+    17-26 = ${ Abyssal Dragon X }
+    27-36 = 1 x Vampire ${ [ 9th, 10th, 11th, 12th ] }-level Magic-User
+  }
+  Abyssal Dragon X = {
+    01-31 = 1 x Ancient Red Dragon and 1 x Old Red Dragon
+  }
+}

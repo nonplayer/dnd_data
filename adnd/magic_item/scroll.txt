@@ -1,0 +1,88 @@
+{
+  Magic Scroll = {
+    01-60 = ${ Spell Scroll }
+    61-97 = ${ Protection Scroll }
+    98-00 = Curse Scroll
+  }
+  Spell Scroll = [
+    ${ Spell Scroll Type } (${ Scroll Value })
+  ]
+  Spell Scroll Type = {
+    01-63 = Magic-User Scroll (${ set type = Magic-User in Greater Spells })
+    64-70 = Illusionist Scroll (${ set type = Illusionist in Scroll Spells })
+    71-86 = Cleric Scroll (${ set type = Cleric in Scroll Spells })
+    87-93 = Cleric Scroll (${ set type = Baneful in Scroll Spells })
+    94-00 = Druid Scroll (${ set type = Druid in Scroll Spells })
+  }
+  Greater Spells = [
+    ${ ${ Greater Spells nxl } ${ get type } Invocation }
+  ]
+  Greater Spells nxl = {
+    01-10 = ${ set n = 1 } x Level ${ set level = ${ 1d4 } }
+    11-16 = ${ set n = 1 } x Level ${ set level = ${ 1d6 } }
+    17-19 = ${ set n = 1 } x Level ${ set level = ${ 1d8+1 } }
+    20-24 = ${ set n = 2 } x Level ${ set level = ${ 1d4 } }
+    25-27 = ${ set n = 2 } x Level ${ set level = ${ 1d8 } }
+    28-32 = ${ set n = 3 } x Level ${ set level = ${ 1d4 } }
+    33-35 = ${ set n = 3 } x Level ${ set level = ${ 1d8+1 } }
+    36-39 = ${ set n = 4 } x Level ${ set level = ${ 1d6 } }
+    40-42 = ${ set n = 4 } x Level ${ set level = ${ 1d8 } }
+    43-46 = ${ set n = 5 } x Level ${ set level = ${ 1d6 } }
+    47-49 = ${ set n = 5 } x Level ${ set level = ${ 1d8 } }
+    50-52 = ${ set n = 6 } x Level ${ set level = ${ 1d6 } }
+    53-54 = ${ set n = 6 } x Level ${ set level = ${ 1d6+2 } }
+    55-57 = ${ set n = 7 } x Level ${ set level = ${ 1d8 } }
+    58-59 = ${ set n = 7 } x Level ${ set level = ${ 1d8+1 } }
+       60 = ${ set n = 7 } x Level ${ set level = ${ 1d6+3 } }
+  }
+  Scroll Spells = [
+    ${ ${ Scroll Spells nxl } ${ get type } Invocation }
+  ]
+  Scroll Spells nxl = {
+    01-10 = ${ set n = 1 } x Level ${ set level = ${ 1d4 } }
+    11-16 = ${ set n = 1 } x Level ${ set level = ${ 1d6 } }
+    17-19 = ${ set n = 1 } x Level ${ set level = ${ 1d6+1 } }
+    20-24 = ${ set n = 2 } x Level ${ set level = ${ 1d4 } }
+    25-27 = ${ set n = 2 } x Level ${ set level = ${ 1d6 } }
+    28-32 = ${ set n = 3 } x Level ${ set level = ${ 1d4 } }
+    33-35 = ${ set n = 3 } x Level ${ set level = ${ 1d6+1 } }
+    36-39 = ${ set n = 4 } x Level ${ set level = ${ 1d6 } }
+    40-42 = ${ set n = 4 } x Level ${ set level = ${ 1d6 } }
+    43-46 = ${ set n = 5 } x Level ${ set level = ${ 1d6 } }
+    47-49 = ${ set n = 5 } x Level ${ set level = ${ 1d6 } }
+    50-52 = ${ set n = 6 } x Level ${ set level = ${ 1d6 } }
+    53-54 = ${ set n = 6 } x Level ${ set level = ${ 1d4+2 } }
+    55-57 = ${ set n = 7 } x Level ${ set level = ${ 1d6 } }
+    58-59 = ${ set n = 7 } x Level ${ set level = ${ 1d6+1 } }
+       60 = ${ set n = 7 } x Level ${ set level = ${ 1d4+3 } }
+  }
+  Scroll Value = [
+    ${ calc ${ get n } * ${ get level } * 300 } gp
+  ]
+  Protection Scroll = {
+    01-02 = Protection from Demons Scroll (12500 gp)
+    03-04 = Protection from Devils Scroll (12500 gp)
+    05-10 = ${ Protection from Elementals Scroll }
+    11-16 = ${ Protection from Lycanthropes Scroll }
+    17-22 = Protection from Magic Scroll (7500 gp)
+    23-27 = Protection from Petrification Scroll (10000 gp)
+    28-32 = Protection from Possession Scroll (10000 gp)
+    33-37 = Protection from Undead Scroll (7500 gp)
+  }
+  Protection from Elementals Scroll = {
+    01-15 = Protection from Air Elementals Scroll (7500 gp)
+    16-30 = Protection from Earth Elementals Scroll (7500 gp)
+    31-45 = Protection from Fire Elementals Scroll (7500 gp)
+    46-60 = Protection from Water Elementals Scroll (7500 gp)
+    61-00 = Protection from Elementals Scroll (7500 gp)
+  }
+  Protection from Lycanthropes Scroll = {
+    01-05 = Protection from Werebears Scroll (5000 gp)
+    06-10 = Protection from Wereboars Scroll (5000 gp)
+    11-20 = Protection from Wererats Scroll (5000 gp)
+    21-25 = Protection from Weretigers Scroll (5000 gp)
+    26-40 = Protection from Werewolves Scroll (5000 gp)
+    41-98 = Protection from Lycanthropes Scroll (5000 gp)
+    99-00 = Protection from Shape-Changers Scroll (5000 gp)
+  }
+}

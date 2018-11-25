@@ -1,0 +1,28 @@
+{
+  Minor Malevolent Effects = [
+    Acne on possessor's face
+    Blindness for 1-4 rounds when first used against an enemy
+    Body odor noticeable at 10' distance
+    Deafness for 1-4 turns when first used against an enemy
+    Gems or jewelry found never increase in value
+    Holy water within 10' of item becomes polluted
+    Lose 1-4 points of charisma for 1-4 days when major power used
+    Possessor loses interest in sex
+    Possessor has satyriasis
+    Possessor's hair turns white
+    Saving throws versus magic are at -1
+    Saving throws versus poison are at -2
+    Sense of smell lost for 2-8 hours when first used against an enemy
+    Small fires (torches, et al) extinguished when major power used
+    Small items of wood rot from possessor's touch (any item up to normal door size, 1-7 days time)
+    Touch of possessor kills green plants
+    User causes hostility towards himself in all mammals within 6"
+    User must eat and drink 6 times the normal amount due to the item's drain upon him or her
+    User's sex changes
+    Wart appears on possessor's nose
+    Weight gain of 10-40 pounds
+    Weight loss of 5-30 pounds
+    Yearning for item forces possessor to never be away from it for more than 1 day if at all possible
+    Yelling becomes necessary to invoke spells with verbal components
+  ]
+}

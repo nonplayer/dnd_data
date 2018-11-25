@@ -1,0 +1,21 @@
+{
+  TPK Decapitated Block = [
+    ${ TPK Decapitated Desc } ${ TPK Vorpal Effect }.
+    ${ TPK Decapitated Desc } by ${ TPK Vorpal Monster }.
+  ]
+  TPK Decapitated Desc = [
+    Decapitated
+  ]
+  TPK Vorpal Effect = [
+    ${ set dest = ${ TPK Vorpal Setting } in TPK Accidental Portal }
+    by a storm of whirling blades
+  ]
+  TPK Vorpal Setting = [
+    the Elemental Plane of Sharpness
+  ]
+  TPK Vorpal Monster = [
+    a company of minotaurs wielding vorpal axes
+    a vorpal iron golem
+    an impossibly quick monkey wielding a vorpal blade
+  ]
+}

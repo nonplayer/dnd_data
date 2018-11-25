@@ -1,0 +1,62 @@
+{
+  Magic Ring = {
+    01-06 = ${ Ring of Contrariness }
+    07-12 = Ring of Delusion (2000 gp)
+    13-14 = Ring of Djinni Summoning (20000 gp)
+       15 = Ring of Elemental Command (25000 gp)
+    16-21 = Ring of Feather Falling (5000 gp)
+    22-27 = Ring of Fire Resistance (5000 gp)
+    28-30 = Ring of Free Action (5000 gp)
+    31-33 = Ring of Human Influence (10000 gp)
+    34-40 = Ring of Invisibility (7500 gp)
+    41-43 = Ring of Mammal Control (5000 gp)
+       44 = Ring of Multiple Wishes (${ calc 2d4 } wishes) (25000 gp)
+    45-60 = ${ Ring of Protection }
+       61 = Ring of Regeneration (40000 gp)
+    62-63 = Ring of Shooting Stars (15000 gp)
+    64-65 = Ring of Spell Storing (22500 gp)
+    66-69 = Ring of Spell Turning (17500 gp)
+    70-75 = Ring of Swimming (5000 gp)
+    76-77 = ${ Ring of Telekinesis }
+    78-79 = Ring of Three Wishes (15000 gp)
+    80-85 = Ring of Warmth (5000 gp)
+    86-90 = Ring of Water Walking (5000 gp)
+    91-98 = Ring of Weakness (1000 gp)
+       99 = ${ Ring of Wizardry }
+       00 = Ring of X-Ray Vision (35000 gp)
+  }
+  Ring of Contrariness = {
+    01-20 = Ring of Contrariness and Flying (1000 gp)
+    21-40 = Ring of Contrariness and Invisibility (1000 gp)
+    41-60 = Ring of Contrariness and Levitation (1000 gp)
+    61-70 = Ring of Contrariness and Shocking Grasp (1000 gp)
+    71-80 = Ring of Contrariness and Spell Turning (1000 gp)
+    81-00 = Ring of Contrariness and Ogre Strength (1000 gp)
+  }
+  Ring of Protection = {
+    01-70 = Ring of Protection +1 (10000 gp)
+    71-82 = Ring of Protection +2 (12000 gp)
+       83 = Ring of Protection +2 (5' Radius) (14000 gp)
+    84-90 = Ring of Protection +3 (14000 gp)
+       91 = Ring of Protection +3 (5' Radius) (16000 gp)
+    92-97 = Ring of Protection +4 (+2 on saving throws) (18000 gp)
+    98-00 = Ring of Protection +6 (+1 on saving throws) (20000 gp)
+  }
+  Ring of Telekinesis = {
+    01-25 = Ring of Telekinesis (250 gp maximum) (10000 gp)
+    26-50 = Ring of Telekinesis (500 gp maximum) (10000 gp)
+    51-89 = Ring of Telekinesis (1000 gp maximum) (10000 gp)
+    90-99 = Ring of Telekinesis (2000 gp maximum) (10000 gp)
+       00 = Ring of Telekinesis (4000 gp maximum) (10000 gp)
+  }
+  Ring of Wizardry = {
+    01-50 = Ring of Wizardry (doubles first level spells) (50000 gp)
+    51-75 = Ring of Wizardry (doubles second level spells) (50000 gp)
+    76-82 = Ring of Wizardry (doubles third level spells) (50000 gp)
+    83-88 = Ring of Wizardry (doubles first and second level spells) (50000 gp)
+    89-92 = Ring of Wizardry (doubles fourth level spells) (50000 gp)
+    93-95 = Ring of Wizardry (doubles fifth level spells) (50000 gp)
+    96-99 = Ring of Wizardry (doubles first through third level spells) (50000 gp)
+       00 = Ring of Wizardry (doubles fourth and fifth level spells) (50000 gp)
+  }
+}

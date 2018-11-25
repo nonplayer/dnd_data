@@ -1,0 +1,7 @@
+{
+  Magic-User Outfit = ${ Adventurer Outfit }
+  Monk Outfit = ${ Adventurer Outfit }
+
+  Magic-User Attire = ${ Wizard Attire }
+  Monk Attire = ${ Common Attire }
+}

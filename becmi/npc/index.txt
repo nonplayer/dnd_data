@@ -1,0 +1,3 @@
+{
+  NPC Tags = ${ NPC Gender } ${ NPC Class }, ${ NPC Align }
+}

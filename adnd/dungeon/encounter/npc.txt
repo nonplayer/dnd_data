@@ -1,0 +1,99 @@
+{
+  Dungeon NPC Party = ${ Dungeon NPCs } and ${ Dungeon Henchmen }
+  Dungeon NPCs = ${ set n = ${ 1d4+1 } } x NPC
+  Dungeon Henchmen = ${ calc 9 - ${ get n } } x Henchmen
+
+  dNPC Type = [
+    Good dNPC
+    Neutral dNPC
+    Evil dNPC
+  ]
+  Good dNPC = ${ set type = Good in dNPC }
+  Neutral dNPC = ${ set type = Neutral in dNPC }
+  Evil dNPC = ${ set type = Evil in dNPC }
+
+  dNPC = [
+    ${ dNPC Name }: ${ dNPC Block } ${ dNPC Details }
+  ]
+  dNPC Name = ${ get npc_name fix ${ ${ dNPC Race } ${ NPC Gender } Name } }
+  dNPC Block = ${ dNPC Race Block }, ${ dNPC Class Block }, ${ dNPC Align }.
+  dNPC Race Block = ${ NPC Gender } ${ dNPC Race }
+  dNPC Class Block = ${ dNPC Level } ${ dNPC Class }
+  dNPC Race = ${ get race fix ${ dNPC Race I } }
+  dNPC Class = ${ get class fix ${ ${ get type } dNPC Class } }
+  dNPC Align = ${ get align fix ${ dNPC Classed Alignment } }
+
+  dNPC Race I = {
+    01-80 = Human
+    81-00 = ${ dNPC Race II }
+  }
+  dNPC Race II = {
+    01-25 = Dwarf
+    26-50 = Elf
+    51-60 = Gnome
+    61-85 = Half-elf
+    86-95 = Halfling
+    96-00 = Half-orc
+  }
+  dNPC Level = {
+    first_of = [
+      Level ${ get level } dNPC
+    ]
+    default = [
+      ${ set npc_lvl = ${ 1d6 + 6 } }th-level
+    ]
+  }
+  Level 1 dNPC = ${ set npc_lvl = 1 }st-level
+  Level 2 dNPC = ${ set npc_lvl = 2 }nd-level
+  Level 3 dNPC = ${ set npc_lvl = 3 }rd-level
+  Level 4 dNPC = ${ set npc_lvl = 4 }th-level
+
+  Good dNPC Class = {
+    01-17 = Cleric
+    18-57 = Fighter
+    58-59 = Paladin
+    60-62 = Ranger
+    63-83 = Magic-User
+    84-85 = Illusionist
+    86-95 = Thief
+       96 = Monk
+  }
+  Neutral dNPC Class = {
+    01-17 = Cleric
+    18-20 = Druid
+    21-60 = Fighter
+    61-81 = Magic-User
+    82-83 = Illusionist
+    84-93 = Thief
+       94 = Monk
+  }
+  Evil dNPC Class = {
+    01-17 = Cleric
+    18-57 = Fighter
+    58-78 = Magic-User
+    79-80 = Illusionist
+    81-90 = Thief
+       91 = Assassin
+       92 = Monk
+  }
+  dNPC Classed Alignment = {
+    first_of = [
+      ${ get type } ${ dNPC Class } Alignment
+      ${ dNPC Class } Alignment
+    ]
+    default = [
+      ${ ${ get type } Alignment }
+    ]
+  }
+  Good Monk Alignment = LG
+  Neutral Monk Alignment = LN
+  Evil Monk Alignment = LE
+  Good Thief Alignment = NG
+  Neutral Thief Alignment = ${ Neutral Alignment }
+  Evil Thief Alignment = ${ Evil Alignment }
+
+  dNPC Details = [
+    ${ Common NPC Description } ${ Personality Traits }
+    ${ Common NPC Description } ${ Character Quirk }
+  ]
+}

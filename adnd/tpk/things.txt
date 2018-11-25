@@ -1,0 +1,58 @@
+{
+  TPK Thing = [
+    the ${ TPK Named Artifact }
+    a fake ${ TPK Named Artifact }
+    ${ TPK Magic Item }
+    ${ TPK Misc Thing }
+    ${ TPK Monster }
+    ${ TPK Setting }
+  ]
+  TPK Named Artifact = [
+    Codex of the Infinite Planes
+    Eye of Vecna
+    Orb of Dragonkind
+    Ring of Gaxx
+    Rod of Seven Parts
+    Sceptre of Might
+    Sword of Kas
+    Throne of the Gods
+    Wand of Orcus
+  ]
+  TPK Magic Item = [
+    a bag of holding
+    a deck of many things
+    a helm of opposite alignment
+    a scarab of death
+    a sphere of annihilation
+    a vorpal sword
+    a wand of ${ [ fear, fire, frost, lightning ] }
+    a wand of wonder
+    an amulet of the planes
+  ]
+  TPK Misc Thing = [
+    a barrel of ale
+    a silver mirror
+    a thousand feet of rope
+    a gazebo
+    three goats
+  ]
+  TPK Monster = [
+    ${ an Dragon }
+    a five-headed rust monster
+    a legion of iron golems
+    a pack of ${ Giant } werewolves
+    a pit fiend grand master of flowers
+    a succubus arch-mage
+    a swarm of gelatinous cubes
+    the chromatic dragon Tiamat
+    what everyone thought were goats
+  ]
+  TPK Setting = [
+    a sea of acid in the Abyss
+    an ancient battlefield of Acheron
+    the dark elf citadel of ${ Drow Town Name }
+    the demi-plane of Shadow
+    the mind flayer city of ${ Sumerian Town Name }
+    the ninth layer of Hell
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  Hidden Treasure = {
+    01-90 = ${ Hidden Coins }
+    91-94 = ${ ${ ${ get level }d4 } x Gem }
+    95-97 = ${ ${ get level } x Jewelry }
+    98-00 = ${ Magic Item }
+  }
+  Hidden Coins = {
+    01-25 = ${ calc ${ get level } * 1000 } cp
+    26-50 = ${ calc ${ get level } * 1000 } sp
+    51-65 = ${ calc ${ get level } * 750 } ep
+    66-80 = ${ calc ${ get level } * 250 } gp
+    81-90 = ${ calc ${ get level } * 100 } pp
+  }
+  Monster Treasure = {
+    01-02 = -
+    03-05 = ${ 2 x Hidden Treasure }
+  }
+}

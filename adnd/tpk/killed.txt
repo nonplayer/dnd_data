@@ -1,0 +1,25 @@
+{
+  TPK Killed Block = [
+    Killed ${ TPK Fatal Effect }.
+    Killed by ${ TPK Fatal Monster }.
+    Suffocated ${ TPK Vacuum Effect }.
+  ]
+  TPK Fatal Effect = [
+    ${ set things = ${ TPK Fatal Things } in TPK Incident }
+    by ${ TPK Monster } in ${ lt Dungeon Name }
+    in the Tomb of Horrors
+    teleporting into a sphere of annihilation
+  ]
+  TPK Fatal Things = [
+    ${ 3 x and unique TPK Thing }
+  ]
+  TPK Fatal Monster = [
+    a behydra, a monster with a dragon's body and ten beholder-like heads
+  ]
+  TPK Vacuum Effect = [
+    ${ set dest = ${ TPK Vacuum Setting } in TPK Accidental Portal }
+  ]
+  TPK Vacuum Setting = [
+    the Quasi-elemental Plane of Vacuum
+  ]
+}

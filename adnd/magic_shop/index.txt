@@ -1,0 +1,23 @@
+{
+  Magic Shop Item = [
+    ${ ${ ye Magic Shop Type } Item }
+  ]
+  Alchemist Item = [
+    ${ Magic Potion }
+  ]
+  Armorer Item = [
+    ${ Magic Armor or Shield }
+  ]
+  Scribe Item = [
+    ${ Magic Scroll }
+  ]
+  Trader Item = [
+    ${ Magic Item }
+  ]
+  Wandwright Item = [
+    ${ Magic Wand }
+  ]
+  Weaponsmith Item = [
+    ${ Magic Sword or Weapon }
+  ]
+}

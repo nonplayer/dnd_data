@@ -1,0 +1,17 @@
+{
+  TPK Vivisected Block = [
+    ${ TPK Vivisected Desc } ${ TPK Mad Science Effect }.
+    ${ TPK Vivisected Desc } by ${ TPK Mad Science Monster }.
+  ]
+  TPK Vivisected Desc = [
+    Brains removed
+    Vivisected
+  ]
+  TPK Mad Science Effect = [
+    by ${ TPK Artifact }
+  ]
+  TPK Mad Science Monster = [
+    ${ an [ degenerate, insane ] } ${ [ arch-mage, mind flayer ] }
+    ${ an [ degenerate, insane ] } ${ [ lich, vampire ] }
+  ]
+}

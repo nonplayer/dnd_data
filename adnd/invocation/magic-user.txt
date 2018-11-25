@@ -1,0 +1,230 @@
+{
+  Level 1 Magic-User Invocation = [
+    Affect Normal Fires
+    Burning Hands
+    Charm Person
+    Comprehend Languages
+    Confuse Languages
+    Dancing Lights
+    Detect Magic
+    Enlarge
+    Reduce
+    Erase
+    Feather Fall
+    Find Familiar
+    Friends
+    Hold Portal
+    Identify
+    Jump
+    Light
+    Magic Missile
+    Mending
+    Message
+    Nystul's Magic Aura
+    Protection from Evil
+    Protection from Good
+    Push
+    Read Magic
+    Unreadable Magic
+    Shield
+    Shocking Grasp
+    Sleep
+    Spider Climb
+    Tenser's Floating Disc
+    Unseen Servant
+    Ventriloquism
+    Write
+  ]
+  Level 2 Magic-User Invocation = [
+    Audible Glamer
+    Continual Light
+    Darkness 15' Radius
+    Detect Evil
+    Detect Good
+    Detect Invisibility
+    ESP
+    Fool's Gold
+    Forget
+    Invisibility
+    Knock
+    Leomund's Trap
+    Levitate
+    Locate Object
+    Obscure Object
+    Magic Mouth
+    Mirror Image
+    Pyrotechnics
+    Ray of Enfeeblement
+    Rope Trick
+    Scare
+    Shatter
+    Stinking Cloud
+    Strength
+    Web
+    Wizard Lock
+  ]
+  Level 3 Magic-User Invocation = [
+    Blink
+    Clairaudience
+    Clairvoyance
+    Dispel Magic
+    Explosive Runes
+    Feign Death
+    Fireball
+    Flame Arrow
+    Fly
+    Gust of Wind
+    Haste
+    Hold Person
+    Infravision
+    Invisibility 10' Radius
+    Leomund's Tiny Hut
+    Lightning Bolt
+    Monster Summoning I
+    Phantasmal Force
+    Protection from Evil 10' Radius
+    Protection from Good 10' Radius
+    Protection from Normal Missiles
+    Slow
+    Suggestion
+    Tongues
+    Water Breathing
+    Air Breathing
+  ]
+  Level 4 Magic-User Invocation = [
+    Charm Monster
+    Confusion
+    Dig
+    Dimension Door
+    Enchanted Weapon
+    Cursed Weapon
+    Extension I
+    Fear
+    Fire Charm
+    Fire Shield
+    Fire Trap
+    Fumble
+    Hallucinatory Terrain
+    Ice Storm
+    Massmorph
+    Minor Globe of Invulnerability
+    Monster Summoning II
+    Plant Growth
+    Polymorph Other
+    Polymorph Self
+    Rary's Mnemonic Enhancer
+    Remove Curse
+    Bestow Curse
+    Wall of Fire
+    Wall of Ice
+    Wizard Eye
+  ]
+  Level 5 Magic-User Invocation = [
+    Airy Water
+    Animal Growth
+    Reduce Animal
+    Animate Dead
+    Bigby's Interposing Hand
+    Cloudkill
+    Conjure Elemental
+    Cone of Cold
+    Contact Other Plane
+    Distance Distortion
+    Extension II
+    Feeblemind
+    Hold Monster
+    Leomund's Secret Chest
+    Magic Jar
+    Monster Summoning III
+    Mordenkainen's Faithful Hound
+    Passwall
+    Stone Shape
+    Telekinesis
+    Teleport
+    Transmute Rock to Mud
+    Transmute Mud to Rock
+    Wall of Force
+    Wall of Iron
+    Wall of Stone
+  ]
+  Level 6 Magic-User Invocation = [
+    Anti-Magic Shell
+    Bigby's Forceful Hand
+    Control Weather
+    Death Spell
+    Disintegrate
+    Enchant an Item
+    Extension III
+    Geas
+    Glassee
+    Globe of Invulnerability
+    Guards and Wards
+    Invisible Stalker
+    Legend Lore
+    Lower Water
+    Raise Water
+    Monster Summoning IV
+    Move Earth
+    Otiluke's Freezing Sphere
+    Part Water
+    Project Image
+    Reincarnation
+    Repulsion
+    Spiritwrack
+    Stone to Flesh
+    Flesh to Stone
+    Tenser's Transformation
+  ]
+  Level 7 Magic-User Invocation = [
+    Bigby's Grasping Hand
+    Cacodemon
+    Charm Plants
+    Delayed Blast Fireball
+    Drawmij's Instant Summons
+    Duo-Dimension
+    Limited Wish
+    Mass Invisibility
+    Monster Summoning V
+    Mordenkainen's Sword
+    Phase Door
+    Power Word Stun
+    Reverse Gravity
+    Simulacrum
+    Statue
+    Vanish
+  ]
+  Level 8 Magic-User Invocation = [
+    Antipathy/Sympathy
+    Bigby's Clenched Fist
+    Clone
+    Glassteel
+    Incendiary Cloud
+    Mass Charm
+    Maze
+    Mind Blank
+    Monster Summoning VI
+    Otto's Irresistable Dance
+    Permanency
+    Polymorph Any Object
+    Power Word Blind
+    Serten's Spell Immunity
+    Symbol
+    Trap the Soul
+  ]
+  Level 9 Magic-User Invocation = [
+    Astral Spell
+    Bigby's Crushing Hand
+    Gate
+    Imprisonment
+    Freedom
+    Meteor Swarm
+    Monster Summoning VII
+    Power Word Kill
+    Prismatic Sphere
+    Shape Change
+    Temporal Stasis
+    Temporal Reinstatement
+    Time Stop
+    Wish
+  ]
+}

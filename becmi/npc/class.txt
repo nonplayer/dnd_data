@@ -1,0 +1,23 @@
+{
+  Adventurer Order = {
+    01-10 = Arcane
+    11-20 = Divine
+    21-40 = Martial
+    41-50 = Scoundrel
+  }
+  Arcane Class = [
+    Magic-User
+    Elf
+  ]
+  Divine Class = [
+    Cleric
+  ]
+  Martial Class = [
+    Fighter
+    Dwarf
+  ]
+  Scoundrel Class = [
+    Thief
+    Halfling
+  ]
+}

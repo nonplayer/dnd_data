@@ -1,0 +1,639 @@
+{
+  Aerial Servant = {
+    Treasure Type = -
+  }
+  Air Elemental = {
+    Treasure Type = -
+  }
+  Amphisbaena Snake = {
+    Treasure Type = -
+  }
+  Badger = {
+    Treasure Type = -
+  }
+  Bahamut = {
+    Treasure Type = H, I, R, S, T, V
+  }
+  Bandit = {
+    % in Lair = 20
+    Individual Treasure = M
+    Treasure Type = A
+  }
+  Barbed Devil = {
+    Treasure Type = -
+  }
+  Basilisk = {
+    % in Lair = 40
+    Treasure Type = F
+  }
+  Beholder = {
+    % in Lair = 80
+    Treasure Type = I, S, T
+  }
+  Berserker = {
+    % in Lair = 10
+    Individual Treasure = K
+    Treasure Type = B
+  }
+  Black Dragon = {
+    Treasure Type = H
+  }
+  Black Pudding = {
+    Treasure Type = -
+  }
+  Blink Dog = {
+    % in Lair = 20
+    Treasure Type = C
+  }
+  Blue Dragon = {
+    Treasure Type = H, S
+  }
+  Bone Devil = {
+    Treasure Type = -
+  }
+  Boring Beetle = {
+    % in Lair = 40
+    Treasure Type = C, R, S, T
+  }
+  Brass Dragon = {
+    Treasure Type = H
+  }
+  Brigand = {
+    % in Lair = 20
+    Individual Treasure = M
+    Treasure Type = A
+  }
+  Bronze Dragon = {
+    Treasure Type = H, S, T
+  }
+  Bugbear = {
+    % in Lair = 25
+    Individual Treasure = J, K, L, M
+    Treasure Type = B
+  }
+  Carnivorous Ape = {
+    % in Lair = 10
+    Treasure Type = C
+  }
+  Carrion Crawler = {
+    % in Lair = 50
+    Treasure Type = B
+  }
+  Chimera = {
+    % in Lair = 40
+    Treasure Type = F
+  }
+  Clay Golem = {
+    Treasure Type = -
+  }
+  Cloud Giant = {
+    % in Lair = 40
+    Treasure Type = E, Qx5
+  }
+  Cockatrice = {
+    % in Lair = 30
+    Treasure Type = D
+  }
+  Copper Dragon = {
+    Treasure Type = H, S
+  }
+  Displacer Beast = {
+    % in Lair = 25
+    Treasure Type = D
+  }
+  Djinni = {
+    Treasure Type = -
+  }
+  Doppelganger = {
+    % in Lair = 20
+    Treasure Type = E
+  }
+  Dwarf = {
+    % in Lair = 50
+    Individual Treasure = Mx5
+    Treasure Type = G, Qx20, R
+  }
+  Ear Seeker = {
+    Treasure Type = -
+  }
+  Earth Elemental = {
+    Treasure Type = -
+  }
+  Efreeti = {
+    Treasure Type = -
+  }
+  Elder Titan = {
+    % in Lair = 10
+    Treasure Type = E, Qx10, R
+  }
+  Elf = {
+    % in Lair = 10
+    Individual Treasure = N
+    Treasure Type = G, S, T
+  }
+  Erinyes Devil = {
+    % in Lair = 20
+    Treasure Type = R
+  }
+  Ettin = {
+    % in Lair = 20
+    Individual Treasure = O
+    Treasure Type = C, Y
+  }
+  Fire Beetle = {
+    Treasure Type = -
+  }
+  Fire Elemental = {
+    Treasure Type = -
+  }
+  Fire Giant = {
+    % in Lair = 35
+    Treasure Type = E
+  }
+  Fire Lizard = {
+    % in Lair = 50
+    Treasure Type = B, Qx10
+  }
+  Flesh Golem = {
+    Treasure Type = -
+  }
+  Frost Giant = {
+    % in Lair = 30
+    Treasure Type = E
+  }
+  Gargoyle = {
+    % in Lair = 20
+    Individual Treasure = Mx10
+    Treasure Type = C
+  }
+  Gas Spore = {
+    Treasure Type = -
+  }
+  Gelatinous Cube = {
+    Treasure Type = -
+  }
+  Ghast = {
+    % in Lair = 10
+    Treasure Type = B, Q, R, S, T
+  }
+  Ghost = {
+    % in Lair = 25
+    Treasure Type = E, S
+  }
+  Ghoul = {
+    % in Lair = 20
+    Treasure Type = B, T
+  }
+  Giant Ant = {
+    % in Lair = 10
+    Treasure Type = Qx3, S
+  }
+  Giant Badger = {
+    Treasure Type = -
+  }
+  Giant Centipede = {
+    Treasure Type = -
+  }
+  Giant Constrictor Snake = {
+    Treasure Type = -
+  }
+  Giant Lizard = {
+    Treasure Type = -
+  }
+  Giant Poisonous Snake = {
+    Treasure Type = -
+  }
+  Giant Rat = {
+    % in Lair = 10
+    Treasure Type = C
+  }
+  Giant Slug = {
+    Treasure Type = -
+  }
+  Giant Spider = {
+    % in Lair = 70
+    Treasure Type = C
+  }
+  Giant Spitting Snake = {
+    Treasure Type = -
+  }
+  Giant Tick = {
+    Treasure Type = -
+  }
+  Giant Toad = {
+    Treasure Type = -
+  }
+  Giant Weasel = {
+    Treasure Type = -
+  }
+  Gnoll = {
+    % in Lair = 20
+    Individual Treasure = L, M
+    Treasure Type = D, Qx5, S
+  }
+  Gnome = {
+    % in Lair = 50
+    Individual Treasure = Mx3
+    Treasure Type = C, Qx20
+  }
+  Goblin = {
+    % in Lair = 40
+    Individual Treasure = K
+    Treasure Type = C
+  }
+  Gold Dragon = {
+    Treasure Type = H, R, S, T
+  }
+  Gorgon = {
+    % in Lair = 40
+    Treasure Type = E
+  }
+  Gray Ooze = {
+    Treasure Type = -
+  }
+  Green Dragon = {
+    Treasure Type = H
+  }
+  Green Slime = {
+    Treasure Type = -
+  }
+  Groaning Spirit = {
+    % in Lair = 10
+    Treasure Type = D
+  }
+  Guardian Naga = {
+    % in Lair = 75
+    Treasure Type = H
+  }
+  Halfling = {
+    % in Lair = 70
+    Individual Treasure = K
+    Treasure Type = B
+  }
+  Hell Hound = {
+    % in Lair = 30
+    Treasure Type = C
+  }
+  Hill Giant = {
+    % in Lair = 25
+    Treasure Type = D
+  }
+  Hobgoblin = {
+    % in Lair = 25
+    Individual Treasure = J, M
+    Treasure Type = D, Qx5
+  }
+  Horned Devil = {
+    % in Lair = 55
+    Treasure Type = I
+  }
+  Huge Spider = {
+    % in Lair = 50
+    Treasure Type = J, K, L, M, N, Q
+  }
+  Hydra = {
+    % in Lair = 20
+    Treasure Type = B
+  }
+  Ice Devil = {
+    % in Lair = 60
+    Treasure Type = Q, R
+  }
+  Ice Toad = {
+    % in Lair = 40
+    Treasure Type = C
+  }
+  Imp = {
+    % in Lair = 0
+    Treasure Type = O
+  }
+  Intellect Devourer = {
+    % in Lair = 60
+    Treasure Type = D
+  }
+  Invisible Stalker = {
+    Treasure Type = -
+  }
+  Iron Golem = {
+    Treasure Type = -
+  }
+  Jackalwere = {
+    % in Lair = 30
+    Treasure Type = C
+  }
+  Kobold = {
+    % in Lair = 40
+    Individual Treasure = J
+    Treasure Type = O, Qx5
+  }
+  Lamia = {
+    % in Lair = 60
+    Treasure Type = D
+  }
+  Lammasu = {
+    % in Lair = 30
+    Treasure Type = R, S, T
+  }
+  Large Spider = {
+    % in Lair = 60
+    Treasure Type = J, K, L, M, N
+  }
+  Lemure Devil = {
+    Treasure Type = -
+  }
+  Lesser Titan = {
+    % in Lair = 10
+    Treasure Type = E, Qx10, R
+  }
+  Leucrotta = {
+    % in Lair = 40
+    Treasure Type = D
+  }
+  Lich = {
+    % in Lair = 90
+    Treasure Type = A
+  }
+  Lurker Above = {
+    % in Lair = 50
+    Treasure Type = C, Y
+  }
+  Manes Demon = {
+    Treasure Type = -
+  }
+  Manticore = {
+    % in Lair = 20
+    Treasure Type = E
+  }
+  Medusa = {
+    % in Lair = 50
+    Treasure Type = P, Qx10, X, Y
+  }
+  Mezzodaemon = {
+    % in Lair = 0
+    Individual Treasure = Qx5, X
+  }
+  Mimic = {
+    Treasure Type = -
+  }
+  Mind Flayer = {
+    % in Lair = 50
+    Treasure Type = B, S, T, X
+  }
+  Minor Titan = {
+    % in Lair = 10
+    Treasure Type = E, Qx10, R
+  }
+  Minotaur = {
+    % in Lair = 20
+    Treasure Type = C
+  }
+  Mummy = {
+    % in Lair = 80
+    Treasure Type = D
+  }
+  Neo-otyugh = {
+    Treasure Type = -
+  }
+  Night Hag = {
+    Treasure Type = -
+  }
+  Nycadaemon = {
+    % in Lair = 0
+    Individual Treasure = Qx10, X
+  }
+  Ochre Jelly = {
+    Treasure Type = -
+  }
+  Ogre = {
+    % in Lair = 20
+    Individual Treasure = Mx10, Q
+    Treasure Type = B, S
+  }
+  Ogre Magi = {
+    % in Lair = 35
+    Treasure Type = G, R, S
+  }
+  Orc = {
+    % in Lair = 35
+    Individual Treasure = L
+    Treasure Type = C, O, Qx10, S
+  }
+  Otyugh = {
+    Treasure Type = -
+  }
+  Owlbear = {
+    % in Lair = 30
+    Treasure Type = C
+  }
+  Phase Spider = {
+    % in Lair = 75
+    Treasure Type = E
+  }
+  Piercer = {
+    Treasure Type = -
+  }
+  Pit Fiend = {
+    % in Lair = 65
+    Treasure Type = J, R
+  }
+  Poisonous Toad = {
+    Treasure Type = -
+  }
+  Purple Worm = {
+    % in Lair = 30
+    Treasure Type = B, Qx5, X
+  }
+  Pyrohydra = {
+    % in Lair = 20
+    Treasure Type = B
+  }
+  Quasit = {
+    % in Lair = 0
+    Treasure Type = Qx3
+  }
+  Rakshasa = {
+    % in Lair = 25
+    Treasure Type = F
+  }
+  Red Dragon = {
+    Treasure Type = H, S, T
+  }
+  Roper = {
+    % in Lair = 90
+    Treasure = ${ 3d6 } pp, ${ 35% of ${ 5d4 } x Gem }
+  }
+  Rot Grub = {
+    Treasure Type = -
+  }
+  Rust Monster = {
+    % in Lair = 10
+    Treasure Type = Qx10
+  }
+  Salamander = {
+    % in Lair = 75
+    Treasure Type = F
+  }
+  Shadow = {
+    % in Lair = 40
+    Treasure Type = F
+  }
+  Shambling Mound = {
+    % in Lair = 30
+    Treasure Type = B, T, X
+  }
+  Shedu = {
+    % in Lair = 25
+    Treasure Type = G
+  }
+  Shrieker = {
+    Treasure Type = -
+  }
+  Silver Dragon = {
+    Treasure Type = H, T
+  }
+  Skeleton = {
+    Treasure Type = -
+  }
+  Slithering Tracker = {
+    % in Lair = 10
+    Treasure Type = C
+  }
+  Spectre = {
+    % in Lair = 20
+    Treasure Type = Qx3, X, Y
+  }
+  Spirit Naga = {
+    % in Lair = 60
+    Treasure Type = B, T, X
+  }
+  Stirge = {
+    % in Lair = 60
+    Treasure Type = D
+  }
+  Stone Giant = {
+    % in Lair = 30
+    Treasure Type = D
+  }
+  Stone Golem = {
+    Treasure Type = -
+  }
+  Storm Giant = {
+    % in Lair = 55
+    Treasure Type = E, Qx10, S
+  }
+  Su-monster = {
+    % in Lair = 30
+    Treasure Type = C, Y
+  }
+  Subterranean Lizard = {
+    % in Lair = 20
+    Treasure Type = O, P, Qx5
+  }
+  Succubus Demon = {
+    % in Lair = 5
+    Treasure Type = I, Q
+  }
+  Tiamat = {
+    Treasure Type = H, S, T, U
+  }
+  Trapper = {
+    % in Lair = 85
+    Treasure Type = G
+  }
+  Troglodyte = {
+    % in Lair = 15
+    Treasure Type = A
+  }
+  Troll = {
+    % in Lair = 40
+    Treasure Type = D
+  }
+  Type I Demon = {
+    % in Lair = 5
+    Treasure Type = B
+  }
+  Type II Demon = {
+    % in Lair = 10
+    Treasure Type = C
+  }
+  Type III Demon = {
+    % in Lair = 15
+    Treasure Type = D
+  }
+  Type IV Demon = {
+    % in Lair = 15
+    Treasure Type = E
+  }
+  Type V Demon = {
+    % in Lair = 10
+    Treasure Type = G
+  }
+  Type VI Demon = {
+    % in Lair = 20
+    Treasure Type = F
+  }
+  Umber Hulk = {
+    % in Lair = 30
+    Treasure Type = G
+  }
+  Vampire = {
+    % in Lair = 25
+    Treasure Type = F
+  }
+  Violet Fungi = {
+    Treasure Type = -
+  }
+  Water Elemental = {
+    Treasure Type = -
+  }
+  Werebear = {
+    % in Lair = 10
+    Treasure Type = R, T, X
+  }
+  Wereboar = {
+    % in Lair = 20
+    Treasure Type = B, S
+  }
+  Wererat = {
+    % in Lair = 30
+    Treasure Type = C
+  }
+  Weretiger = {
+    % in Lair = 15
+    Treasure Type = D, Qx5
+  }
+  Werewolf = {
+    % in Lair = 25
+    Treasure Type = B
+  }
+  White Dragon = {
+    Treasure Type = E, O, S
+  }
+  Wight = {
+    % in Lair = 70
+    Treasure Type = B
+  }
+  Will-o-wisp = {
+    % in Lair = 5
+    Treasure Type = Z
+  }
+  Wind Walker = {
+    % in Lair = 20
+    Treasure Type = C, R
+  }
+  Wraith = {
+    % in Lair = 25
+    Treasure Type = E
+  }
+  Wyvern = {
+    % in Lair = 30
+    Treasure Type = E
+  }
+  Xorn = {
+    % in Lair = 40
+    Treasure Type = O, P, Qx5, X, Y
+  }
+  Zombie = {
+    Treasure Type = -
+  }
+}

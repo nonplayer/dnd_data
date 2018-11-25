@@ -1,0 +1,319 @@
+{
+  Treasure Type A = {
+    list = [
+      ${ Coins A }
+      ${ Gems A }
+      ${ Jewelry A }
+      ${ Magic Items A }
+    ]
+  }
+  Coins A = {
+    list = [
+      ${ 25% of ${ 1d6 * 1000 } cp }
+      ${ 30% of ${ 1d6 * 1000 } sp }
+      ${ 35% of ${ 1d6 * 1000 } ep }
+      ${ 40% of ${ 1d10 * 1000 } gp }
+      ${ 25% of ${ 1d4 * 100 } pp }
+    ]
+  }
+  Gems A = ${ 60% of ${ 4d10 } x Gem }
+  Jewelry A = ${ 50% of ${ 3d10 } x Jewelry }
+  Magic Items A = ${ 30% of ${ 3 x Magic Item } }
+
+  Treasure Type B = {
+    list = [
+      ${ Coins B }
+      ${ Gems B }
+      ${ Jewelry B }
+      ${ Magic Items B }
+    ]
+  }
+  Coins B = {
+    list = [
+      ${ 50% of ${ 1d8 * 1000 } cp }
+      ${ 25% of ${ 1d6 * 1000 } sp }
+      ${ 25% of ${ 1d4 * 1000 } ep }
+      ${ 25% of ${ 1d3 * 1000 } gp }
+    ]
+  }
+  Gems B = ${ 30% of ${ 1d8 } x Gem }
+  Jewelry B = ${ 20% of ${ 1d4 } x Jewelry }
+  Magic Items B = ${ 10% of ${ Magic Item B } }
+
+  Magic Item B = {
+    01-15 = ${ Magic Armor or Shield }
+    16-26 = ${ Magic Sword }
+    27-40 = ${ Magic Weapon }
+  }
+
+  Treasure Type C = {
+    list = [
+      ${ Coins C }
+      ${ Gems C }
+      ${ Jewelry C }
+      ${ Magic Items C }
+    ]
+  }
+  Coins C = {
+    list = [
+      ${ 20% of ${ 1d12 * 1000 } cp }
+      ${ 30% of ${ 1d6 * 1000 } sp }
+      ${ 10% of ${ 1d4 * 1000 } ep }
+    ]
+  }
+  Gems C = ${ 25% of ${ 1d6 } x Gem }
+  Jewelry C = ${ 20% of ${ 1d3 } x Jewelry }
+  Magic Items C = ${ 10% of ${ 2 x Magic Item } }
+
+  Treasure Type D = {
+    list = [
+      ${ Coins D }
+      ${ Gems D }
+      ${ Jewelry D }
+      ${ Magic Items D }
+    ]
+  }
+  Coins D = {
+    list = [
+      ${ 10% of ${ 1d8 * 1000 } cp }
+      ${ 15% of ${ 1d12 * 1000 } sp }
+      ${ 15% of ${ 1d8 * 1000 } ep }
+      ${ 50% of ${ 1d6 * 1000 } gp }
+    ]
+  }
+  Gems D = ${ 30% of ${ 1d10 } x Gem }
+  Jewelry D = ${ 25% of ${ 1d6 } x Jewelry }
+  Magic Items D = ${ 15% of ${ 2 x Magic Item }, ${ Magic Potion } }
+
+  Treasure Type E = {
+    list = [
+      ${ Coins E }
+      ${ Gems E }
+      ${ Jewelry E }
+      ${ Magic Items E }
+    ]
+  }
+  Coins E = {
+    list = [
+       ${ 5% of ${ 1d10 * 1000 } cp }
+      ${ 25% of ${ 1d12 * 1000 } sp }
+      ${ 25% of ${ 1d6 * 1000 } ep }
+      ${ 25% of ${ 1d8 * 1000 } gp }
+    ]
+  }
+  Gems E = ${ 15% of ${ 1d12 } x Gem }
+  Jewelry E = ${ 10% of ${ 1d8 } x Jewelry }
+  Magic Items E = ${ 25% of ${ 3 x Magic Item }, ${ Magic Scroll } }
+
+  Treasure Type F = {
+    list = [
+      ${ Coins F }
+      ${ Gems F }
+      ${ Jewelry F }
+      ${ Magic Items F }
+    ]
+  }
+  Coins F = {
+    list = [
+      ${ 10% of ${ 1d20 * 1000 } sp }
+      ${ 15% of ${ 1d12 * 1000 } ep }
+      ${ 40% of ${ 1d10 * 1000 } gp }
+      ${ 35% of ${ 1d8 * 100 } pp }
+    ]
+  }
+  Gems F = ${ 20% of ${ 3d10 } x Gem }
+  Jewelry F = ${ 10% of ${ 1d10 } x Jewelry }
+  Magic Items F = ${ 30% of ${ 3 x Magic Item F }, ${ Magic Potion }, ${ Magic Scroll } }
+
+  Magic Item F = {
+    01-20 = ${ Magic Potion }
+    21-35 = ${ Magic Scroll }
+    36-40 = ${ Magic Ring }
+    41-45 = ${ Magic Device }
+    46-48 = ${ Miscellaneous Magic I }
+    49-51 = ${ Miscellaneous Magic II }
+    52-54 = ${ Miscellaneous Magic III }
+    55-57 = ${ Miscellaneous Magic IV }
+    58-60 = ${ Miscellaneous Magic V }
+    61-75 = ${ Magic Armor or Shield }
+  }
+
+  Treasure Type G = {
+    list = [
+      ${ Coins G }
+      ${ Gems G }
+      ${ Jewelry G }
+      ${ Magic Items G }
+    ]
+  }
+  Coins G = {
+    list = [
+      ${ 50% of ${ 10d4 * 1000 } gp }
+      ${ 50% of ${ 1d20 * 100 } pp }
+    ]
+  }
+  Gems G = ${ 30% of ${ 5d4 } x Gem }
+  Jewelry G = ${ 25% of ${ 1d10 } x Jewelry }
+  Magic Items G = ${ 35% of ${ 4 x Magic Item }, ${ Magic Scroll } }
+
+  Treasure Type H = {
+    list = [
+      ${ Coins H }
+      ${ Gems H }
+      ${ Jewelry H }
+      ${ Magic Items H }
+    ]
+  }
+  Coins H = {
+    list = [
+      ${ 25% of ${ 5d6 * 1000 } cp }
+      ${ 40% of ${ 1d100 * 1000 } sp }
+      ${ 40% of ${ 10d4 * 1000 } ep }
+      ${ 55% of ${ 10d6 * 1000 } gp }
+      ${ 25% of ${ 5d10 * 100 } pp }
+    ]
+  }
+  Gems H = ${ 50% of ${ 1d100 } x Gem }
+  Jewelry H = ${ 50% of ${ 10d4 } x Jewelry }
+  Magic Items H = ${ 15% of ${ 4 x Magic Item }, ${ Magic Potion }, ${ Magic Scroll } }
+
+  Treasure Type I = {
+    list = [
+      ${ Coins I }
+      ${ Gems I }
+      ${ Jewelry I }
+      ${ Magic Items I }
+    ]
+  }
+  Coins I = ${ 30% of ${ 3d6 * 100 } pp }
+  Gems I = ${ 55% of ${ 2d10 } x Gem }
+  Jewelry I = ${ 50% of ${ 1d12 } x Jewelry }
+  Magic Items I = ${ 15% of ${ Magic Item } }
+
+  Treasure Type J = ${ Coins J }
+  Coins J = ${ 3d8 } cp
+
+  Treasure Type K = ${ Coins K }
+  Coins K = ${ 3d6 } sp
+
+  Treasure Type L = ${ Coins L }
+  Coins L = ${ 2d6 } ep
+
+  Treasure Type M = ${ Coins M }
+  Coins M = ${ 2d4 } gp
+
+  Treasure Type N = ${ Coins N }
+  Coins N = ${ 1d6 } pp
+
+  Treasure Type O = {
+    list = [
+      ${ Coins O }
+    ]
+  }
+  Coins O = {
+    list = [
+      ${ 25% of ${ 1d4 * 1000 } cp }
+      ${ 20% of ${ 1d3 * 1000 } sp }
+    ]
+  }
+
+  Treasure Type P = {
+    list = [
+      ${ Coins P }
+    ]
+  }
+  Coins P = {
+    list = [
+      ${ 30% of ${ 1d6 * 1000 } sp }
+      ${ 25% of ${ 1d2 * 1000 } ep }
+    ]
+  }
+
+  Treasure Type Q = {
+    list = [
+      ${ Gems Q }
+    ]
+  }
+  Gems Q = ${ 50% of ${ 1d4 } x Gem }
+
+  Treasure Type R = {
+    list = [
+      ${ Coins R }
+      ${ Gems R }
+      ${ Jewelry R }
+    ]
+  }
+  Coins R = {
+    list = [
+      ${ 40% of ${ 2d4 * 1000 } gp }
+      ${ 50% of ${ 10d6 * 100 } pp }
+    ]
+  }
+  Gems R = ${ 55% of ${ 4d8 } x Gem }
+  Jewelry R = ${ 45% of ${ 1d12 } x Jewelry }
+
+  Treasure Type S = ${ Magic Items S }
+  Magic Items S = ${ 50% of ${ ${ 2d4 } x Magic Potion } }
+
+  Treasure Type T = ${ Magic Items T }
+  Magic Items T = ${ 50% of ${ ${ 1d4 } x Magic Scroll } }
+
+  Treasure Type U = {
+    list = [
+      ${ Gems U }
+      ${ Jewelry U }
+      ${ Magic Items U }
+    ]
+  }
+  Gems U = ${ 90% of ${ 10d8 } x Gem }
+  Jewelry U = ${ 80% of ${ 5d6 } x Jewelry }
+  Magic Items U = ${ 70% of ${ Magic Ring }, ${ Magic Device }, ${ Miscellaneous Magic }, ${ Magic Armor or Shield }, ${ Magic Sword or Weapon } }
+
+  Treasure Type V = ${ Magic Items V }
+  Magic Items V = ${ 85% of ${ 2 x Magic Ring }, ${ 2 x Magic Device }, ${ 2 x Miscellaneous Magic }, ${ 2 x Magic Armor or Shield }, ${ 2 x Magic Sword or Weapon } }
+
+  Treasure Type W = {
+    list = [
+      ${ Coins W }
+      ${ Gems W }
+      ${ Jewelry W }
+      ${ Magic Items W }
+    ]
+  }
+  Coins W = {
+    list = [
+      ${ 60% of ${ 5d6 * 1000 } gp }
+      ${ 15% of ${ 1d8 * 100 } pp }
+    ]
+  }
+  Gems W = ${ 60% of ${ 10d8 } x Gem }
+  Jewelry W = ${ 50% of ${ 5d8 } x Jewelry }
+  Magic Items W = ${ 55% of Treasure Map }
+
+  Treasure Type X = ${ Magic Items X }
+  Magic Items X = ${ 60% of ${ Miscellaneous Magic }, ${ Magic Potion } }
+
+  Treasure Type Y = ${ Coins Y }
+  Coins Y = ${ 70% of ${ 2d6 * 1000 } gp }
+
+  Treasure Type Z = {
+    list = [
+      ${ Coins Z }
+      ${ Gems Z }
+      ${ Jewelry Z }
+      ${ Magic Items Z }
+    ]
+  }
+  Coins Z = {
+    list = [
+      ${ 20% of ${ 1d3 * 1000 } cp }
+      ${ 25% of ${ 1d4 * 1000 } sp }
+      ${ 25% of ${ 1d4 * 1000 } ep }
+      ${ 30% of ${ 1d4 * 1000 } gp }
+      ${ 30% of ${ 1d6 * 100 } pp }
+    ]
+  }
+  Gems Z = ${ 55% of ${ 10d6 } x Gem }
+  Jewelry Z = ${ 50% of ${ 5d6 } x Jewelry }
+  Magic Items Z = ${ 50% of ${ 3 x Magic Item } }
+}

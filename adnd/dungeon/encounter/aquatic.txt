@@ -1,0 +1,152 @@
+{
+  Aquatic Dungeon Monster Ia = {
+       01 = ${ 2d5+1 } x Merman
+    02-06 = ${ 2d4 } x Koalinth (Hobgoblin)
+    07-21 = ${ 2d6+3 } x Pirate
+    22-34 = ${ 5d4 } x Giant Rat
+    35-36 = ${ 1d3 } x Zombie
+    37-41 = ${ 2d4 } x Giant Leech
+  }
+  Aquatic Dungeon Monster Ib = {
+       01 = ${ 2d5+1 } x Merman
+    02-06 = ${ 2d4 } x Koalinth (Hobgoblin)
+    07-21 = ${ 2d6+3 } x Pirate
+    22-34 = ${ 5d4 } x Giant Rat
+    35-36 = ${ 1d3 } x Zombie
+    37-41 = ${ 2d4 } x Giant Leech
+  }
+  Aquatic Dungeon Monster Ic = {
+       01 = ${ 2d5+1 } x Merman
+    02-06 = ${ 2d4 } x Koalinth (Hobgoblin)
+    07-21 = ${ 2d6+3 } x Pirate
+    22-34 = ${ 5d4 } x Giant Rat
+    35-36 = ${ 1d3 } x Zombie
+    37-41 = ${ 2d4 } x Giant Leech
+  }
+  Aquatic Dungeon Monster IIa = {
+    01-11 = ${ Dungeon NPC Party }
+    12-18 = ${ 2d4+2 } x Sahuagin
+    19-30 = ${ 6d4 } x Giant Rat
+    31-40 = ${ 1d4 } x Giant Frog
+    41-45 = ${ 1d3 } x Electric Eel
+    46-50 = ${ 2d4 } x Giant Leech
+  }
+  Aquatic Dungeon Monster IIb = {
+    01-11 = ${ Dungeon NPC Party }
+    12-18 = ${ 2d4+2 } x Sahuagin
+    19-30 = ${ 6d4 } x Giant Rat
+    31-40 = ${ 1d4 } x Giant Frog
+    41-45 = ${ 1d3 } x Electric Eel
+    46-50 = ${ 2d4 } x Giant Leech
+  }
+  Aquatic Dungeon Monster III = {
+    01-10 = ${ Dungeon NPC Party }
+    11-12 = ${ Aquatic Dragon III }
+    13-18 = 1 x Gelatinous Cube
+    19-23 = ${ 1d4 } x Lacedon (Ghoul)
+    24-27 = ${ 1d4+1 } x Wererat
+    28-32 = ${ 2d4 } x Giant Leech
+  }
+  Aquatic Dragon III = {
+    01-28 = 1 x Very Young Black Dragon
+  }
+  Aquatic Dungeon Monster IV = {
+    01-08 = ${ Dungeon NPC Party }
+    09-10 = ${ Aquatic Dragon IV }
+    11-16 = ${ 1d2 } x Kopoacinth (Gargoyle)
+    17-19 = 1 x ${ [ 5-headed, 6-headed ] } Hydra
+    20-32 = Yellow Mold
+    33-35 = ${ 1d3 } x Shadow
+    36-43 = 1 x Giant Constrictor Snake
+    44-48 = ${ 1d4 } x Sea Hag
+  }
+  Aquatic Dragon IV = {
+    01-09 = 1 x ${ [ Young, Sub-adult ] } Black Dragon
+    10-16 = 1 x ${ [ Very Young, Young ] } Bronze Dragon
+  }
+  Aquatic Dungeon Monster V = {
+    01-08 = ${ Dungeon NPC Party }
+    09-10 = ${ Aquatic Dragon V }
+    11-12 = 1 x 7-headed Hydra
+    13-16 = Yellow Mold
+    17-18 = 1 x Slithering Tracker
+    19-26 = 1 x Giant Poisonous Snake
+    27-40 = ${ 1d2 } x Giant Water Spider
+    41-45 = 1 x Giant Crocodile
+    46-50 = ${ 1d4 } x Giant Eel
+    51-65 = ${ 1d3 } x Water Weird
+  }
+  Aquatic Dragon V = {
+    01-08 = 1 x ${ [ Young Adult, Adult ] } Black Dragon
+    09-15 = 1 x ${ [ Sub-adult, Young Adult ] } Bronze Dragon
+  }
+  Aquatic Dungeon Monster VI = {
+    01-06 = ${ Dungeon NPC Party }
+    07-08 = ${ Aquatic Dragon VI }
+    09-12 = Green Slime
+    13-15 = 1 x ${ [ 8-headed, 9-headed ] } Hydra
+       16 = Brown Mold
+    17-18 = Yellow Mold
+    19-21 = ${ 1d2 } x Wraith
+    22-26 = 1 x Morkoth
+  }
+  Aquatic Dragon VI = {
+    01-08 = 1 x Old Black Dragon
+    09-15 = 1 x Adult Bronze Dragon
+  }
+  Aquatic Dungeon Monster VII = {
+    01-05 = 1 x Black Pudding
+    06-10 = ${ Dungeon NPC Party }
+       11 = 1 x Type II Demon
+    12-13 = ${ Aquatic Dragon VII }
+    14-15 = 1 x Water Elemental
+    16-18 = 1 x ${ [ 10-headed, 11-headed, 12-headed ] } Hydra
+    19-22 = ${ 1d2 } x Shambling Mound
+    23-26 = 1 x Spectre
+    27-28 = ${ 1d3 } x Will-o-wisp
+  }
+  Aquatic Dragon VII = {
+    01-10 = 1 x Very Old Black Dragon
+    11-17 = 1 x Old Bronze Dragon
+  }
+  Aquatic Dungeon Monster VIII = {
+    01-05 = ${ Dungeon NPC Party }
+    06-07 = ${ Aquatic Dragon VIII }
+    08-12 = 1 x Ghost
+    13-15 = 1 x ${ [ 13-headed, 14-headed, 15-headed, 16-headed ] } Hydra
+    16-21 = Brown Mold
+    22-23 = Yellow Mold
+    24-31 = 1 x Mottled (Purple) Worm
+    32-37 = ${ 1d4+1 } x Will-o-wisp
+    38-42 = 1 x Giant Octopus
+    43-47 = 1 x Giant Sea Snake
+  }
+  Aquatic Dragon VIII = {
+    01-13 = 1 x Ancient Black Dragon
+    14-17 = 1 x Very Old Bronze Dragon
+  }
+  Aquatic Dungeon Monster IX = {
+    01-09 = ${ Dungeon NPC Party }
+    10-12 = ${ Aquatic Dragon IX }
+    13-19 = 1 x ${ [ 17-headed, 18-headed, 19-headed, 20-headed ] } Hydra
+    20-26 = Brown Mold
+    27-36 = Yellow Mold
+    37-48 = 1 x Mottled (Purple) Worm
+    49-58 = ${ 1d4+1 } x Will-o-wisp
+    59-63 = ${ 1d3 } x Giant Octopus
+  }
+  Aquatic Dragon IX = {
+    01-10 = 1 x Ancient Black Dragon and 1 x Old Black Dragon
+    11-13 = 1 x Ancient Bronze Dragon
+  }
+  Aquatic Dungeon Monster X = {
+    01-08 = ${ Dungeon NPC Party }
+    09-16 = 1 x Demon Prince
+    17-26 = ${ Aquatic Dragon X }
+    27-38 = 1 x Eye of the Deep
+    39-43 = ${ 1d4 } x Giant Sea Snake
+  }
+  Aquatic Dragon X = {
+    01-06 = 1 x Ancient Bronze Dragon and 1 x Very Old Bronze Dragon
+  }
+}

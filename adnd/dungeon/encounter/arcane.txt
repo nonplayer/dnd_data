@@ -1,0 +1,135 @@
+{
+  Arcane Dungeon Monster Ia = {
+    01-10 = ${ 1d4 } x Fire Beetle
+       11 = ${ 1d4 } x Manes Demon
+    12-13 = ${ 2d6+3 } x Gnome
+    14-17 = ${ 1d3 } x Piercer
+    18-28 = ${ 1d2 } x Shrieker
+    29-30 = ${ 1d4 } x Skeleton
+    31-32 = ${ 1d3 } x Zombie
+  }
+  Arcane Dungeon Monster Ib = {
+    01-10 = ${ 1d4 } x Fire Beetle
+       11 = ${ 1d4 } x Manes Demon
+    12-13 = ${ 2d6+3 } x Gnome
+    14-17 = ${ 1d3 } x Piercer
+    18-28 = ${ 1d2 } x Shrieker
+    29-30 = ${ 1d4 } x Skeleton
+    31-32 = ${ 1d3 } x Zombie
+  }
+  Arcane Dungeon Monster Ic = {
+    01-10 = ${ 1d4 } x Fire Beetle
+       11 = ${ 1d4 } x Manes Demon
+    12-13 = ${ 2d6+3 } x Gnome
+    14-17 = ${ 1d3 } x Piercer
+    18-28 = ${ 1d2 } x Shrieker
+    29-30 = ${ 1d4 } x Skeleton
+    31-32 = ${ 1d3 } x Zombie
+  }
+  Arcane Dungeon Monster IIa = {
+    01-11 = ${ Dungeon NPC Party }
+    12-13 = ${ 1d4+1 } x Lemure Devil
+    14-15 = ${ 1d2 } x Gas Spore
+    16-23 = ${ 1d4 } x Piercer
+    24-35 = ${ 1d3 } x Shrieker
+  }
+  Arcane Dungeon Monster IIb = {
+    01-11 = ${ Dungeon NPC Party }
+    12-13 = ${ 1d4+1 } x Lemure Devil
+    14-15 = ${ 1d2 } x Gas Spore
+    16-23 = ${ 1d4 } x Piercer
+    24-35 = ${ 1d3 } x Shrieker
+  }
+  Arcane Dungeon Monster III = {
+    01-10 = ${ Dungeon NPC Party }
+    11-12 = ${ Dragon III }
+    13-18 = 1 x Gelatinous Cube
+    19-20 = ${ 1d4+1 } x Piercer
+    21-22 = ${ 1d4+1 } x Shrieker
+  }
+  Arcane Dungeon Monster IV = {
+    01-06 = ${ 1d4+1 } x Blink Dog
+    07-14 = ${ Dungeon NPC Party }
+    15-16 = ${ Dragon IV }
+    17-20 = ${ 1d2 } x Hell Hound
+    21-23 = ${ 1d2 } x Owlbear
+       24 = 1 x Rust Monster
+    25-27 = ${ 1d3 } x Shadow
+    28-29 = 1 x Ice Toad
+  }
+  Arcane Dungeon Monster V = {
+    01-08 = ${ Dungeon NPC Party }
+    09-15 = ${ 1d2 } x Cockatrice
+    16-18 = ${ 1d2 } x Displacer Beast
+    19-22 = ${ 1d3 } x Doppelganger
+    23-24 = ${ Dragon V }
+       25 = ${ 1d2 } x Imp
+       26 = 1 x Quasit
+    27-28 = 1 x Rust Monster
+    29-31 = ${ 1d4+1 } x Shrieker
+    32-33 = 1 x Slithering Tracker
+  }
+  Arcane Dungeon Monster VI = {
+    01-03 = 1 x Basilisk
+    04-09 = ${ Dungeon NPC Party }
+       10 = ${ 1d2 } x Erinyes Devil
+    11-12 = 1 x Djinni
+    13-14 = ${ Dragon VI }
+    15-16 = ${ 1d2 } x Ogre Magi
+    17-19 = ${ 1d2 } x Salamander
+    20-23 = ${ 1d3 } x Phase Spider
+  }
+  Arcane Dungeon Monster VII = {
+    01-05 = ${ Dungeon NPC Party }
+    06-09 = ${ 1d2 } x Chimera
+       10 = 1 x Succubus Demon
+       11 = 1 x Type I Demon
+       12 = 1 x Type II Demon
+       13 = 1 x Type III Demon
+       14 = 1 x Barbed Devil
+       15 = 1 x Bone Devil
+       16 = 1 x Horned Devil
+    17-18 = ${ Dragon VII }
+       19 = 1 x Efreeti
+    20-21 = 1 x ${ [ Air, Earth, Fire, Water ] } Elemental
+       22 = 1 x Flesh Golem
+       23 = 1 x Invisible Stalker
+    24-26 = 1 x Mimic
+       27 = ${ 1d2 } x Spirit Naga
+       28 = ${ 1d2 } x Night Hag
+  }
+  Arcane Dungeon Monster VIII = {
+       01 = 1 x Aerial Servant
+    02-06 = ${ Dungeon NPC Party }
+       07 = 1 x Type IV Demon
+       08 = 1 x Type V Demon
+       09 = 1 x Type VI Demon
+       10 = 1 x Ice Devil
+    11-12 = ${ Dragon VIII }
+    13-17 = 1 x Ghost
+    18-19 = 1 x Clay Golem
+    20-22 = ${ 1d2 } x Guardian Naga
+    23-27 = 1 x Rust Monster
+  }
+  Arcane Dungeon Monster IX = {
+    01-09 = ${ Dungeon NPC Party }
+    10-12 = 1 x Pit Fiend
+    13-15 = ${ Dragon IX }
+    16-17 = 1 x Stone Golem
+    18-20 = 1 x Rust Monster
+    21-22 = 1 x Lesser Titan
+    23-26 = 1 x Minor Titan
+    27-29 = 1 x Vampire ${ [ 7th, 8th, 9th, 10th ] }-level Magic-User
+  }
+  Arcane Dungeon Monster X = {
+    01-12 = 1 x Beholder
+    13-20 = ${ Dungeon NPC Party }
+    21-28 = 1 x Demon Prince
+    29-30 = 1 x Arch-Devil
+    31-40 = ${ Dragon X }
+    41-50 = 1 x Iron Golem
+    51-60 = 1 x Lich
+    61-70 = 1 x Elder Titan
+    71-80 = 1 x Vampire ${ [ 9th, 10th, 11th, 12th ] }-level Magic-User
+  }
+}

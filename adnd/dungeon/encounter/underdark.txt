@@ -1,0 +1,153 @@
+{
+  Underdark Dungeon Monster Ia = {
+    01-02 = ${ 2d6+2 } x Dwarf
+    03-07 = ${ 3d4+3 } x Goblin
+    08-13 = ${ 4d4+2 } x Kobold
+    14-25 = ${ 1d6+6 } x Orc
+    26-29 = ${ 1d3 } x Piercer
+    30-31 = ${ 1d3 } x Rot Grub
+    32-42 = ${ 1d2 } x Shrieker
+  }
+  Underdark Dungeon Monster Ib = {
+    01-02 = ${ 2d6+2 } x Dwarf
+    03-07 = ${ 3d4+3 } x Goblin
+    08-13 = ${ 4d4+2 } x Kobold
+    14-25 = ${ 1d6+6 } x Orc
+    26-29 = ${ 1d3 } x Piercer
+    30-31 = ${ 1d3 } x Rot Grub
+    32-42 = ${ 1d2 } x Shrieker
+  }
+  Underdark Dungeon Monster Ic = {
+    01-02 = ${ 2d6+2 } x Dwarf
+    03-07 = ${ 3d4+3 } x Goblin
+    08-13 = ${ 4d4+2 } x Kobold
+    14-25 = ${ 1d6+6 } x Orc
+    26-29 = ${ 1d3 } x Piercer
+    30-31 = ${ 1d3 } x Rot Grub
+    32-42 = ${ 1d2 } x Shrieker
+  }
+  Underdark Dungeon Monster IIa = {
+    01-11 = ${ Dungeon NPC Party }
+    12-13 = ${ 1d4+1 } x Lemure Devil
+    14-15 = ${ 1d2 } x Gas Spore
+    16-23 = ${ 1d4 } x Piercer
+    24-25 = ${ 1d4 } x Rot Grub
+    26-37 = ${ 1d3 } x Shrieker
+    38-42 = ${ 2d6+3 } x Stirge
+    43-55 = ${ 2d4 } x Troglodyte
+  }
+  Underdark Dungeon Monster IIb = {
+    01-11 = ${ Dungeon NPC Party }
+    12-13 = ${ 1d4+1 } x Lemure Devil
+    14-15 = ${ 1d2 } x Gas Spore
+    16-23 = ${ 1d4 } x Piercer
+    24-25 = ${ 1d4 } x Rot Grub
+    26-37 = ${ 1d3 } x Shrieker
+    38-42 = ${ 2d6+3 } x Stirge
+    43-55 = ${ 2d4 } x Troglodyte
+  }
+  Underdark Dungeon Monster III = {
+    01-10 = ${ Dungeon NPC Party }
+    11-12 = ${ Dragon III }
+    13-14 = ${ 1d3 } x Violet Fungi
+    15-20 = 1 x Gelatinous Cube
+    21-26 = 1 x Ochre Jelly
+    27-38 = ${ 1d3 } x Ogre
+    39-40 = ${ 1d4+1 } x Piercer
+       41 = ${ 1d4 } x Rot Grub
+    42-43 = ${ 1d4+1 } x Shrieker
+    44-50 = ${ 1d3 } x Huge Spider
+    51-59 = ${ 1d4+1 } x Large Spider
+  }
+  Underdark Dungeon Monster IV = {
+    01-08 = ${ Dungeon NPC Party }
+    09-10 = ${ Dragon IV }
+    11-16 = ${ 1d2 } x Gargoyle
+    17-20 = 1 x Gray Ooze
+    21-33 = Yellow Mold
+       34 = 1 x Rust Monster
+    35-37 = ${ 1d3 } x Shadow
+  }
+  Underdark Dungeon Monster V = {
+    01-08 = ${ Dungeon NPC Party }
+    09-11 = ${ 1d2 } x Displacer Beast
+    12-15 = ${ 1d3 } x Doppelganger
+    16-17 = ${ Dragon V }
+    18-36 = ${ 1d3 } x Subterranean Lizard
+    37-38 = 1 x Rust Monster
+    39-41 = ${ 1d4+1 } x Shrieker
+    42-43 = 1 x Slithering Tracker
+    44-57 = ${ 1d2 } x Giant Spider
+  }
+  Underdark Dungeon Monster VI = {
+    01-03 = 1 x Basilisk
+    04-10 = ${ 1d2 } x Carrion Crawler
+    11-16 = ${ Dungeon NPC Party }
+    17-18 = ${ Dragon VI }
+    19-22 = Green Slime
+    23-27 = 1 x Medusa
+       28 = Brown Mold
+    29-30 = Yellow Mold
+    31-38 = 1 x Otyugh
+    39-42 = ${ 1d3 } x Phase Spider
+    43-53 = ${ 1d3 } x Troll
+  }
+  Underdark Dungeon Monster VII = {
+    01-05 = 1 x Black Pudding
+    06-10 = ${ Dungeon NPC Party }
+       11 = 1 x Succubus Demon
+    12-13 = ${ Dragon VII }
+    14-15 = 1 x ${ [ Earth, Fire, Water ] } Elemental
+    16-20 = ${ 1d3 } x Stone Giant
+    21-22 = 1 x Gorgon
+    23-24 = 1 x Intellect Devourer
+       25 = 1 x Invisible Stalker
+    26-28 = 1 x Lurker Above
+    29-31 = 1 x Mimic
+    32-33 = ${ 1d2 } x Mind Flayer
+    34-36 = 1 x Neo-otyugh
+    37-40 = ${ 1d2 } x Roper
+       41 = 1 x Giant Slug
+    42-43 = 1 x Trapper
+    44-45 = 1 x Umber Hulk
+    46-48 = ${ 1d3 } x Xorn
+  }
+  Underdark Dungeon Monster VIII = {
+    01-05 = ${ Dungeon NPC Party }
+       06 = 1 x Type VI Demon
+    07-08 = ${ Dragon VIII }
+    09-13 = 1 x Ghost
+    14-15 = ${ 1d2 } x Intellect Devourer
+    16-21 = 1 x Lurker Above
+    22-27 = Brown Mold
+    28-29 = Yellow Mold
+    30-33 = ${ 1d4 } x Mind Flayer
+    34-39 = 1 x Neo-otyugh
+    40-47 = 1 x Purple Worm
+    48-52 = 1 x Rust Monster
+    53-56 = 1 x Giant Slug
+    57-61 = 1 x Trapper
+    62-69 = ${ 1d4+1 } x Xorn
+  }
+  Underdark Dungeon Monster IX = {
+    01-09 = ${ Dungeon NPC Party }
+    10-12 = 1 x Pit Fiend
+    13-15 = ${ Dragon IX }
+    16-17 = 1 x Stone Golem
+    18-24 = Brown Mold
+    25-34 = Yellow Mold
+    35-46 = 1 x Purple Worm
+    47-49 = 1 x Rust Monster
+    50-56 = ${ 1d4 } x Umber Hulk
+    57-63 = ${ 1d8+1 } x Xorn
+  }
+  Underdark Dungeon Monster X = {
+    01-12 = 1 x Beholder
+    13-20 = ${ Dungeon NPC Party }
+    21-28 = 1 x Demon Prince
+    29-30 = 1 x Arch-Devil
+    31-40 = ${ Dragon X }
+    41-50 = 1 x Iron Golem
+    51-60 = 1 x Lich
+  }
+}

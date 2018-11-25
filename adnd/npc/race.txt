@@ -1,0 +1,11 @@
+{
+  Race = [
+    Human
+    Dwarf
+    Elf
+    Gnome
+    Half-elf
+    Half-orc
+    Halfling
+  ]
+}

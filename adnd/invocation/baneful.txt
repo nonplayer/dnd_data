@@ -1,0 +1,92 @@
+{
+  Level 1 Baneful Invocation = [
+    Curse
+    Command
+    Destroy Water
+    Cause Light Wounds
+    Detect Good
+    Detect Magic
+    Darkness
+    Protection from Good
+    Putrify Food and Drink
+    Cause Fear
+    Resist Cold
+    Sanctuary
+  ]
+  Level 2 Baneful Invocation = [
+    Augury
+    Chant
+    Detect Charm
+    Find Traps
+    Hold Person
+    Obscure Alignment
+    Resist Fire
+    Silence 15' Radius
+    Slow Poison
+    Snake Charm
+    Speak with Animals
+    Spiritual Hammer
+  ]
+  Level 3 Baneful Invocation = [
+    Animate Dead
+    Continual Darkness
+    Create Food and Water
+    Cause Blindness
+    Cause Disease
+    Dispel Magic
+    Feign Death
+    Glyph of Warding
+    Locate Object
+    Obscure Object
+    Prayer
+    Bestow Curse
+    Speak with Dead
+  ]
+  Level 4 Baneful Invocation = [
+    Cause Serious Wounds
+    Undetectable Lie
+    Divination
+    Lower Water
+    Raise Water
+    Poison
+    Protection from Good 10' Radius
+    Speak with Plants
+    Sticks to Snakes
+    Tongues
+  ]
+  Level 5 Baneful Invocation = [
+    Commune
+    Cause Critical Wounds
+    Dispel Good
+    Flame Strike
+    Insect Plague
+    Plane Shift
+    Quest
+    Slay Living
+    False Seeing
+  ]
+  Level 6 Baneful Invocation = [
+    Aerial Servant
+    Animate Object
+    Blade Barrier
+    Conjure Animals
+    Lose the Path
+    Harm
+    Part Water
+    Speak with Monsters
+    Stone Tell
+    Word of Recall
+  ]
+  Level 7 Baneful Invocation = [
+    Astral Spell
+    Control Weather
+    Earthquake
+    Gate
+    Unholy Word
+    Wither
+    Energy Drain
+    Destruction
+    Symbol
+    Wind Walk
+  ]
+}

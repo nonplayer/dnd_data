@@ -1,0 +1,105 @@
+{
+  Level 1 Druid Invocation = [
+    Animal Friendship
+    Detect Magic
+    Detect Snares and Pits
+    Entangle
+    Faerie Fire
+    Invisibility to Animals
+    Locate Animals
+    Pass without Trace
+    Predict Weather
+    Purify Water
+    Shillelagh
+    Speak with Animals
+  ]
+  Level 2 Druid Invocation = [
+    Barkskin
+    Charm Person or Mammal
+    Create Water
+    Cure Light Wounds
+    Feign Death
+    Fire Trap
+    Heat Metal
+    Chill Metal
+    Locate Plants
+    Obscurement
+    Produce Flame
+    Trip
+    Warp Wood
+  ]
+  Level 3 Druid Invocation = [
+    Call Lightning
+    Cure Disease
+    Cause Disease
+    Hold Animal
+    Neutralize Poison
+    Poison
+    Plant Growth
+    Protection from Fire
+    Pyrotechnics
+    Snare
+    Stone Shape
+    Summon Insects
+    Tree
+    Water Breathing
+    Air Breathing
+  ]
+  Level 4 Druid Invocation = [
+    Animal Summoning I
+    Call Woodland Beings
+    Control Temperature 10' Radius
+    Cure Serious Wounds
+    Dispel Magic
+    Hallucinatory Forest
+    Hold Plant
+    Plant Door
+    Produce Fire
+    Quench Fire
+    Protection from Lightning
+    Repel Insects
+    Speak with Plants
+  ]
+  Level 5 Druid Invocation = [
+    Animal Growth
+    Reduce Animal
+    Animal Summoning II
+    Anti-Plant Shell
+    Commune with Nature
+    Control Winds
+    Insect Plague
+    Pass Plant
+    Sticks to Snakes
+    Snakes to Sticks
+    Transmute Rock to Mud
+    Transmute Mud to Rock
+    Wall of Fire
+  ]
+  Level 6 Druid Invocation = [
+    Animal Summoning III
+    Anti-Animal Shell
+    Conjure Fire Elemental
+    Dismiss Fire Elemental
+    Cure Critical Wounds
+    Feeblemind
+    Fire Seeds
+    Transport via Plants
+    Turn Wood
+    Wall of Thorns
+    Weather Summoning
+  ]
+  Level 7 Druid Invocation = [
+    Animate Rock
+    Chariot of Sustarre
+    Confusion
+    Conjure Earth Elemental
+    Dismiss Earth Elemental
+    Control Weather
+    Creeping Doom
+    Finger of Death
+    Fire Storm
+    Fire Quench
+    Reincarnate
+    Transmute Metal to Wood
+  ]
+}

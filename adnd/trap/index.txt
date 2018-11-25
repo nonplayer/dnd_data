@@ -1,0 +1,22 @@
+{
+  Level I Room Trap = ${ set level = 1 in Room Trap }
+  Level II Room Trap = ${ set level = 2 in Room Trap }
+  Level III Room Trap = ${ set level = 3 in Room Trap }
+  Level IV Room Trap = ${ set level = 4 in Room Trap }
+  Level V Room Trap = ${ set level = 5 in Room Trap }
+  Level VI Room Trap = ${ set level = 6 in Room Trap }
+  Level VII Room Trap = ${ set level = 7 in Room Trap }
+  Level VIII Room Trap = ${ set level = 8 in Room Trap }
+  Level IX Room Trap = ${ set level = 9 in Room Trap }
+  Level X Room Trap = ${ set level = 10 in Room Trap }
+  Level XI Room Trap = ${ set level = 11 in Room Trap }
+  Level XII Room Trap = ${ set level = 12 in Room Trap }
+  Level XIII Room Trap = ${ set level = 13 in Room Trap }
+  Level XIV Room Trap = ${ set level = 14 in Room Trap }
+  Level XV Room Trap = ${ set level = 15 in Room Trap }
+  Level XVI Room Trap = ${ set level = 16 in Room Trap }
+  Level XVII Room Trap = ${ set level = 17 in Room Trap }
+  Level XVIII Room Trap = ${ set level = 18 in Room Trap }
+  Level XIX Room Trap = ${ set level = 19 in Room Trap }
+  Level XX Room Trap = ${ set level = 20 in Room Trap }
+}

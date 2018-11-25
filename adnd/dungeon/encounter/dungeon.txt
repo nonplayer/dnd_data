@@ -1,0 +1,452 @@
+{
+  Dungeon Monster Ia = {
+    first_of = [
+      ${ get motif } Dungeon Monster Ia
+    ]
+    default = {
+      01-02 = ${ 1d4 } x Giant Ant
+      03-04 = ${ 1d4 } x Badger
+      05-14 = ${ 1d4 } x Fire Beetle
+         15 = ${ 1d4 } x Manes Demon
+      16-17 = ${ 2d6+2 } x Dwarf
+         18 = 1 x Ear Seeker
+         19 = ${ 2d5+1 } x Elf
+      20-21 = ${ 2d6+3 } x Gnome
+      22-26 = ${ 3d4+3 } x Goblin
+      27-28 = ${ 1d8+8 } x Halfling
+      29-33 = ${ 2d4 } x Hobgoblin
+      34-48 = ${ Human I }
+      49-54 = ${ 4d4+2 } x Kobold
+      55-66 = ${ 1d6+6 } x Orc
+      67-70 = ${ 1d3 } x Piercer
+      71-83 = ${ 5d4 } x Giant Rat
+      84-85 = ${ 1d3 } x Rot Grub
+      86-96 = ${ 1d2 } x Shrieker
+      97-98 = ${ 1d4 } x Skeleton
+      99-00 = ${ 1d3 } x Zombie
+    }
+  }
+  Dungeon Monster Ib = {
+    first_of = [
+      ${ get motif } Dungeon Monster Ib
+    ]
+    default = {
+      01-02 = ${ 1d4 } x Giant Ant
+      03-04 = ${ 2d4 } x Hobgoblin
+      05-14 = ${ 1d4 } x Fire Beetle
+         15 = ${ 1d4 } x Manes Demon
+      16-17 = ${ 2d6+2 } x Dwarf
+         18 = 1 x Ear Seeker
+         19 = ${ 2d5+1 } x Elf
+      20-21 = ${ 2d6+3 } x Gnome
+      22-26 = ${ 3d4+3 } x Goblin
+      27-28 = ${ 1d8+8 } x Halfling
+      29-33 = ${ 2d4 } x Hobgoblin
+      34-48 = ${ Human I }
+      49-54 = ${ 4d4+2 } x Kobold
+      55-66 = ${ 1d6+6 } x Orc
+      67-70 = ${ 1d3 } x Piercer
+      71-83 = ${ 5d4 } x Giant Rat
+      84-85 = ${ 1d3 } x Rot Grub
+      86-96 = ${ 1d2 } x Shrieker
+      97-98 = ${ 1d4 } x Skeleton
+      99-00 = ${ 1d3 } x Zombie
+    }
+  }
+  Dungeon Monster Ic = {
+    first_of = [
+      ${ get motif } Dungeon Monster Ic
+    ]
+    default = {
+      01-02 = ${ 1d4 } x Giant Ant
+      03-04 = ${ 2d4 } x Hobgoblin
+      05-14 = ${ 1d4 } x Fire Beetle
+         15 = ${ 1d4 } x Manes Demon
+      16-17 = ${ 2d6+2 } x Dwarf
+         18 = 1 x Ear Seeker
+         19 = ${ 2d5+1 } x Elf
+      20-21 = ${ 2d6+3 } x Gnome
+      22-26 = ${ 3d4+3 } x Goblin
+      27-28 = ${ 5d4 } x Giant Rat
+      29-33 = ${ 2d4 } x Hobgoblin
+      34-48 = ${ Human I }
+      49-54 = ${ 4d4+2 } x Kobold
+      55-66 = ${ 1d6+6 } x Orc
+      67-70 = ${ 1d3 } x Piercer
+      71-83 = ${ 5d4 } x Giant Rat
+      84-85 = ${ 1d3 } x Rot Grub
+      86-96 = ${ 1d2 } x Shrieker
+      97-98 = ${ 1d4 } x Skeleton
+      99-00 = ${ 1d3 } x Zombie
+    }
+  }
+  Human I = {
+    01-25 = ${ 2d6+3 } x Bandit
+    26-30 = ${ 2d4+1 } x Berserker
+    31-45 = ${ 2d6+3 } x Brigand
+    46-00 = ${ Dungeon NPC Party }
+  }
+  Dungeon Monster IIa = {
+    first_of = [
+      ${ get motif } Dungeon Monster IIa
+    ]
+    default = {
+         01 = ${ 1d4 } x Giant Badger
+      02-16 = ${ 2d6+1 } x Giant Centipede
+      17-27 = ${ Dungeon NPC Party }
+      28-29 = ${ 1d4+1 } x Lemure Devil
+      30-31 = ${ 1d2 } x Gas Spore
+      32-38 = ${ 2d4+2 } x Gnoll
+      39-46 = ${ 1d4 } x Piercer
+      47-58 = ${ 6d4 } x Giant Rat
+      59-60 = ${ 1d4 } x Rot Grub
+      61-72 = ${ 1d3 } x Shrieker
+      73-77 = ${ 2d6+3 } x Stirge
+      78-87 = ${ 1d4 } x Giant Toad
+      88-00 = ${ 2d4 } x Troglodyte
+    }
+  }
+  Dungeon Monster IIb = {
+    first_of = [
+      ${ get motif } Dungeon Monster IIb
+    ]
+    default = {
+         01 = ${ 2d4+2 } x Gnoll
+      02-16 = ${ 2d6+1 } x Giant Centipede
+      17-27 = ${ Dungeon NPC Party }
+      28-29 = ${ 1d4+1 } x Lemure Devil
+      30-31 = ${ 1d2 } x Gas Spore
+      32-38 = ${ 2d4+2 } x Gnoll
+      39-46 = ${ 1d4 } x Piercer
+      47-58 = ${ 6d4 } x Giant Rat
+      59-60 = ${ 1d4 } x Rot Grub
+      61-72 = ${ 1d3 } x Shrieker
+      73-77 = ${ 2d6+3 } x Stirge
+      78-87 = ${ 1d4 } x Giant Toad
+      88-00 = ${ 2d4 } x Troglodyte
+    }
+  }
+  Dungeon Monster III = {
+    first_of = [
+      ${ get motif } Dungeon Monster III
+    ]
+    default = {
+      01-10 = ${ 1d3 } x Boring Beetle
+      11-20 = ${ 1d6+1 } x Bugbear
+      21-30 = ${ Dungeon NPC Party }
+      31-32 = ${ Dragon III }
+      33-34 = ${ 1d3 } x Violet Fungi
+      35-40 = 1 x Gelatinous Cube
+      41-45 = ${ 1d4 } x Ghoul
+      46-50 = ${ 1d3 } x Giant Lizard
+      51-54 = ${ 1d4+1 } x Wererat
+      55-60 = 1 x Ochre Jelly
+      61-72 = ${ 1d3 } x Ogre
+      73-74 = ${ 1d4+1 } x Piercer
+         75 = ${ 1d4 } x Rot Grub
+      76-77 = ${ 1d4+1 } x Shrieker
+      78-84 = ${ 1d3 } x Huge Spider
+      85-93 = ${ 1d4+1 } x Large Spider
+      94-95 = ${ 1d3 } x Giant Tick
+      96-00 = ${ 1d4 } x Giant Weasel
+    }
+  }
+  Dragon III = {
+    01-28 = 1 x Very Young Black Dragon
+    29-62 = 1 x Very Young Brass Dragon
+    63-00 = 1 x Very Young White Dragon
+  }
+  Dungeon Monster IV = {
+    first_of = [
+      ${ get motif } Dungeon Monster IV
+    ]
+    default = {
+      01-08 = ${ 1d3 } x Carnivorous Ape
+      09-14 = ${ 1d4+1 } x Blink Dog
+      15-22 = ${ Dungeon NPC Party }
+      23-24 = ${ Dragon IV }
+      25-30 = ${ 1d2 } x Gargoyle
+      31-36 = ${ 1d4 } x Ghast
+      37-40 = 1 x Gray Ooze
+      41-44 = ${ 1d2 } x Hell Hound
+      45-47 = 1 x ${ [ 5-headed, 6-headed ] } Hydra
+         48 = 1 x 5-headed Pyrohydra
+      49-62 = ${ 1d2 } x Werewolf
+      63-75 = Yellow Mold
+      76-78 = ${ 1d2 } x Owlbear
+         79 = 1 x Rust Monster
+      80-82 = ${ 1d3 } x Shadow
+      83-90 = 1 x Giant Constrictor Snake
+      91-94 = ${ 1d2 } x Su-monster
+      95-96 = 1 x Ice Toad
+      97-00 = ${ 1d3 } x Poisonous Toad
+    }
+  }
+  Dragon IV = {
+    01-09 = 1 x ${ [ Young, Sub-adult ] } Black Dragon
+    10-20 = 1 x ${ [ Very Young, Young ] } Blue Dragon
+    21-30 = 1 x ${ [ Young, Sub-adult ] } Brass Dragon
+    31-37 = 1 x ${ [ Very Young, Young ] } Bronze Dragon
+    38-50 = 1 x ${ [ Very Young, Young ] } Copper Dragon
+    51-54 = 1 x ${ [ Very Young, Young ] } Gold Dragon
+    55-70 = 1 x ${ [ Very Young, Young ] } Green Dragon
+    71-80 = 1 x ${ [ Very Young, Young ] } Red Dragon
+    81-88 = 1 x ${ [ Very Young, Young ] } Silver Dragon
+    89-00 = 1 x ${ [ Young, Sub-adult ] } White Dragon
+  }
+  Dungeon Monster V = {
+    first_of = [
+      ${ get motif } Dungeon Monster V
+    ]
+    default = {
+      01-08 = ${ Dungeon NPC Party }
+      09-15 = ${ 1d2 } x Cockatrice
+      16-18 = ${ 1d2 } x Displacer Beast
+      19-22 = ${ 1d3 } x Doppelganger
+      23-24 = ${ Dragon V }
+      25-26 = 1 x 7-headed Hydra
+         27 = 1 x 6-headed Pyrohydra
+         28 = ${ 1d2 } x Imp
+      29-31 = ${ 1d2 } x Leucrotta
+      32-50 = ${ 1d3 } x Subterranean Lizard
+      51-52 = ${ 1d3 } x Wereboar
+      53-60 = ${ 1d3 } x Minotaur
+      61-64 = Yellow Mold
+         65 = 1 x Quasit
+      66-67 = 1 x Rust Monster
+      68-70 = ${ 1d4+1 } x Shrieker
+      71-72 = 1 x Slithering Tracker
+      73-74 = 1 x Amphisbaena Snake
+      75-82 = 1 x Giant Poisonous Snake
+      83-86 = 1 x Giant Spitting Snake
+      87-00 = ${ 1d2 } x Giant Spider
+    }
+  }
+  Dragon V = {
+    01-08 = 1 x ${ [ Young Adult, Adult ] } Black Dragon
+    09-20 = 1 x ${ [ Sub-adult, Young Adult ] } Blue Dragon
+    21-30 = 1 x ${ [ Young Adult, Adult ] } Brass Dragon
+    31-37 = 1 x ${ [ Sub-adult, Young Adult ] } Bronze Dragon
+    38-50 = 1 x ${ [ Sub-adult, Young Adult ] } Copper Dragon
+    51-54 = 1 x ${ [ Sub-adult, Young Adult ] } Gold Dragon
+    55-70 = 1 x ${ [ Sub-adult, Young Adult ] } Green Dragon
+    71-80 = 1 x ${ [ Sub-adult, Young Adult ] } Red Dragon
+    81-88 = 1 x ${ [ Sub-adult, Young Adult ] } Silver Dragon
+    89-00 = 1 x ${ [ Young Adult, Adult ] } White Dragon
+  }
+  Dungeon Monster VI = {
+    first_of = [
+      ${ get motif } Dungeon Monster VI
+    ]
+    default = {
+      01-03 = 1 x Basilisk
+      04-10 = ${ 1d2 } x Carrion Crawler
+      11-16 = ${ Dungeon NPC Party }
+         17 = ${ 1d2 } x Erinyes Devil
+      18-19 = 1 x Djinni
+      20-21 = ${ Dragon VI }
+      22-25 = Green Slime
+      26-28 = 1 x ${ [ 8-headed, 9-headed ] } Hydra
+      29-32 = ${ 1d2 } x Jackalwere
+      33-36 = ${ 1d3 } x Lammasu
+      37-38 = 1 x Werebear
+      39-41 = ${ 1d2 } x Weretiger
+      42-50 = ${ 1d2 } x Manticore
+      51-55 = 1 x Medusa
+         56 = Brown Mold
+      57-58 = Yellow Mold
+      59-60 = ${ 1d2 } x Ogre Magi
+      61-68 = 1 x Otyugh
+      69-70 = 1 x Rakshasa
+      71-73 = ${ 1d2 } x Salamander
+      74-77 = ${ 1d3 } x Phase Spider
+      78-88 = ${ 1d3 } x Troll
+      89-93 = ${ 1d4 } x Wight
+      94-95 = ${ 1d2 } x Wind Walker
+      96-98 = ${ 1d2 } x Wraith
+      99-00 = 1 x Wyvern
+    }
+  }
+  Dragon VI = {
+    01-08 = 1 x Old Black Dragon
+    09-19 = 1 x Adult Blue Dragon
+    20-29 = 1 x Old Brass Dragon
+    30-36 = 1 x Adult Bronze Dragon
+    37-48 = 1 x Adult Copper Dragon
+    49-52 = 1 x Adult Gold Dragon
+    53-65 = 1 x Adult Green Dragon
+    66-78 = 1 x Adult Red Dragon
+    79-87 = 1 x Adult Silver Dragon
+    88-00 = 1 x Old White Dragon
+  }
+  Dungeon Monster VII = {
+    first_of = [
+      ${ get motif } Dungeon Monster VII
+    ]
+    default = {
+      01-05 = 1 x Black Pudding
+      06-10 = ${ Dungeon NPC Party }
+      11-14 = ${ 1d2 } x Chimera
+         15 = 1 x Succubus Demon
+         16 = 1 x Type I Demon
+         17 = 1 x Type II Demon
+         18 = 1 x Type III Demon
+         19 = 1 x Barbed Devil
+         20 = 1 x Bone Devil
+         21 = 1 x Horned Devil
+      22-23 = ${ Dragon VII }
+         24 = 1 x Efreeti
+      25-26 = 1 x ${ [ Air, Earth, Fire, Water ] } Elemental
+      27-30 = ${ 1d2 } x Ettin
+      31-35 = ${ 1d3 } x ${ [ Hill, Stone ] } Giant
+      36-38 = ${ 1d2 } x ${ [ Fire, Frost ] } Giant
+         39 = 1 x Flesh Golem
+      40-41 = 1 x Gorgon
+      42-43 = 1 x Groaning Spirit
+      44-46 = 1 x ${ [ 10-headed, 11-headed, 12-headed ] } Hydra
+         47 = 1 x ${ [ 7-headed, 8-headed, 9-headed ] } Pyrohydra
+      48-49 = 1 x Intellect Devourer
+         50 = 1 x Invisible Stalker
+      51-52 = ${ 1d2 } x Lamia
+      53-56 = ${ 1d3 } x Fire Lizard
+      57-59 = 1 x Lurker Above
+         60 = 1 x Mezzodaemon
+      61-63 = 1 x Mimic
+      64-65 = ${ 1d2 } x Mind Flayer
+      66-69 = ${ 1d2 } x Mummy
+         70 = ${ 1d2 } x Spirit Naga
+      71-73 = 1 x Neo-otyugh
+         74 = ${ 1d2 } x Night Hag
+      75-78 = ${ 1d2 } x Roper
+      79-82 = ${ 1d2 } x Shambling Mound
+      83-86 = ${ 1d2 } x Shedu
+         87 = 1 x Giant Slug
+      88-91 = 1 x Spectre
+      92-93 = 1 x Trapper
+      94-95 = 1 x Umber Hulk
+      96-97 = ${ 1d3 } x Will-o-wisp
+      98-00 = ${ 1d3 } x Xorn
+    }
+  }
+  Dragon VII = {
+    01-10 = 1 x Very Old Black Dragon
+    11-21 = 1 x Old Blue Dragon
+    22-29 = 1 x Very Old Brass Dragon
+    30-36 = 1 x Old Bronze Dragon
+    37-48 = 1 x Old Copper Dragon
+    49-52 = 1 x Old Gold Dragon
+    53-66 = 1 x Old Green Dragon
+    67-80 = 1 x Old Red Dragon
+    81-87 = 1 x Old Silver Dragon
+    88-00 = 1 x Very Old White Dragon
+  }
+  Dungeon Monster VIII = {
+    first_of = [
+      ${ get motif } Dungeon Monster VIII
+    ]
+    default = {
+         01 = 1 x Aerial Servant
+      02-06 = ${ Dungeon NPC Party }
+         07 = 1 x Type IV Demon
+         08 = 1 x Type V Demon
+         09 = 1 x Type VI Demon
+         10 = 1 x Ice Devil
+      11-12 = ${ Dragon VIII }
+      13-17 = 1 x Ghost
+      18-21 = ${ 1d2 } x Cloud Giant
+      22-23 = 1 x Clay Golem
+      24-26 = 1 x ${ [ 13-headed, 14-headed, 15-headed, 16-headed ] } Hydra
+         27 = 1 x 12-headed Pyrohydra
+      28-29 = ${ 1d2 } x Intellect Devourer
+      30-35 = 1 x Lurker Above
+      36-41 = Brown Mold
+      42-43 = Yellow Mold
+      44-47 = ${ 1d4 } x Mind Flayer
+      48-50 = ${ 1d2 } x Guardian Naga
+      51-56 = 1 x Neo-otyugh
+      57-64 = 1 x Purple Worm
+      65-69 = 1 x Rust Monster
+      70-73 = 1 x Giant Slug
+      74-78 = 1 x Trapper
+      79-86 = 1 x Vampire
+      87-92 = ${ 1d4+1 } x Will-o-wisp
+      93-00 = ${ 1d4+1 } x Xorn
+    }
+  }
+  Dragon VIII = {
+    01-13 = 1 x Ancient Black Dragon
+    14-24 = 1 x Very Old Blue Dragon
+    25-31 = 1 x Ancient Brass Dragon
+    32-35 = 1 x Very Old Bronze Dragon
+    36-43 = 1 x Very Old Copper Dragon
+    44-47 = 1 x Very Old Gold Dragon
+    48-62 = 1 x Very Old Green Dragon
+    63-78 = 1 x Very Old Red Dragon
+    79-82 = 1 x Very Old Silver Dragon
+    83-00 = 1 x Ancient White Dragon
+  }
+  Dungeon Monster IX = {
+    first_of = [
+      ${ get motif } Dungeon Monster IX
+    ]
+    default = {
+      01-09 = ${ Dungeon NPC Party }
+      10-12 = 1 x Pit Fiend
+      13-15 = ${ Dragon IX }
+      16-21 = ${ 1d2 } x Storm Giant
+      22-23 = 1 x Stone Golem
+      24-30 = 1 x ${ [ 17-headed, 18-headed, 19-headed, 20-headed ] } Hydra
+      31-33 = 1 x 12-headed Pyrohydra
+      34-40 = Brown Mold
+      41-50 = Yellow Mold
+      51-52 = 1 x Nycadaemon
+      53-64 = 1 x Purple Worm
+      65-67 = 1 x Rust Monster
+      68-69 = 1 x Lesser Titan
+      70-73 = 1 x Minor Titan
+      74-80 = ${ 1d4 } x Umber Hulk
+      81-83 = 1 x Vampire ${ [ 7th, 8th, 9th, 10th ] }-level Cleric
+      84-93 = ${ 1d4+1 } x Will-o-wisp
+      94-00 = ${ 1d8+1 } x Xorn
+    }
+  }
+  Dragon IX = {
+    01-10 = 1 x Ancient Black Dragon and 1 x Old Black Dragon
+    11-22 = 1 x Ancient Blue Dragon
+    23-31 = 1 x Ancient Brass Dragon and 1 x Old Brass Dragon
+    32-34 = 1 x Ancient Bronze Dragon
+    35-42 = 1 x Ancient Copper Dragon
+    43-46 = 1 x Ancient Gold Dragon
+    47-62 = 1 x Ancient Green Dragon
+    63-78 = 1 x Ancient Red Dragon
+    79-82 = 1 x Ancient Silver Dragon
+    83-00 = 1 x Ancient White Dragon and 1 x Very Old White Dragon
+  }
+  Dungeon Monster X = {
+    first_of = [
+      ${ get motif } Dungeon Monster X
+    ]
+    default = {
+      01-12 = 1 x Beholder
+      13-20 = ${ Dungeon NPC Party }
+      21-28 = 1 x Demon Prince
+      29-30 = 1 x Arch-Devil
+      31-40 = ${ Dragon X }
+      41-50 = 1 x Iron Golem
+      51-60 = 1 x Lich
+      61-70 = 1 x Elder Titan
+      71-80 = 1 x Vampire ${ [ 9th, 10th, 11th, 12th ] }-level Magic-User
+    }
+  }
+  Dragon X = {
+    01-20 = 1 x Ancient Blue Dragon and 1 x Very Old Blue Dragon
+    21-26 = 1 x Ancient Bronze Dragon and 1 x Very Old Bronze Dragon
+    27-33 = 1 x Ancient Copper Dragon and 1 x Very Old Copper Dragon
+    34-35 = Tiamat
+    36-40 = 1 x Ancient Gold Dragon and 1 x Old Gold Dragon
+    41-60 = 1 x Ancient Green Dragon and 1 x Very Old Green Dragon
+    61-63 = Bahamut
+    64-94 = 1 x Ancient Red Dragon and 1 x Old Red Dragon
+    95-00 = 1 x Ancient Silver Dragon and 1 x Old Silver Dragon
+  }
+}

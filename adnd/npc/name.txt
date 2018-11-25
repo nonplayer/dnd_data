@@ -1,0 +1,26 @@
+{
+  Gnome Male Name = [
+    ${ Dwarvish Male Name }
+    ${ French Male Name }
+  ]
+  Gnome Female Name = [
+    ${ Dwarvish Female Name }
+    ${ French Female Name }
+  ]
+  Half-elf Male Name = [
+    ${ Elvish Male Name }
+    ${ English Male Name }
+  ]
+  Half-elf Female Name = [
+    ${ Elvish Female Name }
+    ${ English Female Name }
+  ]
+  Half-orc Male Name = [
+    ${ Gothic Male Name }
+    ${ Slavic Male Name }
+  ]
+  Half-orc Female Name = [
+    ${ Gothic Female Name }
+    ${ Slavic Female Name }
+  ]
+}

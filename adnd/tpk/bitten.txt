@@ -1,0 +1,16 @@
+{
+  TPK Bitten Block = [
+    ${ TPK Bitten Desc } by ${ TPK Vermin Monster }.
+  ]
+  TPK Bitten Desc = [
+    Bitten to death
+  ]
+  TPK Vermin Monster = [
+    a horde of hezrou demons
+    a nest of viper-headed harpies
+    a pack of three-headed hell hounds
+    a swarm of tyrannosaurs
+    swarms of blink rats
+    tiger-like stone golems
+  ]
+}

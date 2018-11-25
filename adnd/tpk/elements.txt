@@ -1,0 +1,22 @@
+{
+  TPK Accidental Portal = [
+    trying to destroy ${ TPK Artifact } in ${ get dest }
+    when ${ TPK Mad Science Monster } ${ TPK Accidental Arcana }
+    when the fighter smashed open a portal to ${ get dest }
+    when the thief unlocked a portal to ${ get dest }
+    when the wizard accidentally ${ TPK Accidental Arcana }
+  ]
+  TPK Accidental Arcana = [
+    opened a portal to ${ get dest }
+    summoned something vast and terrible from ${ get dest }
+  ]
+  TPK Artifact = [
+    ${ an [ demonic, eldritch, evil ] } artifact
+  ]
+  TPK Hydra = [
+    ${ [ thirteen, twenty, hundred ] }-headed hydra
+  ]
+  TPK Incident = [
+    in a bizarre incident involving ${ get things }
+  ]
+}

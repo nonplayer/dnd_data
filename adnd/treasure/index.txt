@@ -1,0 +1,51 @@
+{
+  Treasure = {
+    01-65 = ${ Monetary Treasure }
+    66-85 = ${ Magic Treasure }
+  }
+  Monetary Treasure = {
+    01-17 = ${ Monetary Treasure II }
+       18 = ${ 2 x Monetary Treasure II }
+       19 = ${ 3 x Monetary Treasure II }
+       20 = ${ Monetary Hoard }
+  }
+  Monetary Treasure II = {
+    01-02 = ${ calc ${ 2d4 } * 10000 } cp, ${ calc ${ 1d4+1 } * 10000 } sp
+    03-05 = ${ calc ${ 5d6 } * 1000 } ep
+    06-10 = ${ calc ${ 3d6 } * 1000 } gp
+    11-12 = ${ calc ${ 5d4 } * 100 } pp
+    13-15 = ${ ${ 1d10 * 10 } x Gem }
+    16-17 = ${ ${ 5d10 } x Jewelry }
+  }
+  Monetary Hoard = {
+    list = [
+      ${ calc ${ 2d4 } * 10000 } cp, ${ calc ${ 1d4+1 } * 10000 } sp
+      ${ calc ${ 5d6 } * 1000 } ep
+      ${ calc ${ 3d6 } * 1000 } gp
+      ${ calc ${ 5d4 } * 100 } pp
+      ${ ${ 1d10 * 10 } x Gem }
+      ${ ${ 5d10 } x Jewelry }
+    ]
+  }
+  Magic Treasure = {
+    01-05 = ${ Magic Item }, ${ 4 x Magic Potion }
+    06-08 = ${ 2 x Magic Item }
+    09-12 = ${ Magic Sword }, ${ Magic Armor or Shield }, ${ Magic Weapon }
+    13-14 = ${ 3 x Magic Item 13-14 }
+    15-18 = ${ 6 x Magic Potion }, ${ 6 x Magic Scroll }
+       19 = ${ Magic Ring }, ${ Magic Rod }, ${ 2 x Magic Item }
+       20 = ${ Magic Rod }, ${ Miscellaneous Magic }, ${ 3 x Magic Item }
+  }
+  Magic Item 13-14 = {
+    01-15 = ${ Magic Scroll }
+    16-20 = ${ Magic Ring }
+    21-25 = ${ Magic Device }
+    26-28 = ${ Miscellaneous Magic I }
+    29-31 = ${ Miscellaneous Magic II }
+    32-34 = ${ Miscellaneous Magic III }
+    35-37 = ${ Miscellaneous Magic IV }
+    38-40 = ${ Miscellaneous Magic V }
+    41-55 = ${ Magic Armor or Shield }
+    56-69 = ${ Magic Weapon }
+  }
+}

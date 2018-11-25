@@ -1,0 +1,119 @@
+{
+  Cleric Weapon = [
+    Club
+    Footman's Flail
+    Hammer
+    Mace
+    Quarterstaff
+  ]
+  Druid Weapon = [
+    ${ Druid Primary Weapon }
+    ${ Druid Primary Weapon } and ${ Druid Secondary Weapon } 
+  ]
+  Druid Primary Weapon = [
+    Club
+    Hammer
+    Scimitar
+    Spear
+    Quarterstaff
+  ]
+  Druid Secondary Weapon = [
+    Dagger
+    Darts
+    Sling
+  ]
+  Fighter Weapon = [
+    ${ Fighter Primary Weapon }
+    ${ Fighter Primary Weapon } and Shield
+    ${ Fighter Primary Weapon } and ${ Fighter Secondary Weapon } 
+    ${ Fighter Two-Handed Weapon }
+  ]
+  Fighter Primary Weapon = [
+    Battle Axe
+    Footman's Flail
+    Hammer
+    Footman's Mace
+    Morning Star
+    Military Pick
+    Spear
+    Short Sword
+    Broad Sword
+    Long Sword
+    Bastard Sword
+  ]
+  Fighter Secondary Weapon = [
+    Dagger
+    Short Bow
+    Long Bow
+    Composite Short Bow
+    Composite Long Bow
+    Light Crossbow
+    Heavy Crossbow
+    Javelins
+  ]
+  Fighter Two-Handed Weapon = [
+    Bardiche
+    Fauchard-Fork
+    Military Fork
+    Glaive-Guisarme
+    Halberd
+    Ranseur
+    Two-Handed Sword
+  ]
+  Paladin Weapon = [
+    ${ Fighter Primary Weapon } and Shield
+    ${ Fighter Two-Handed Weapon }
+  ]
+  Ranger Weapon = [
+    ${ Fighter Primary Weapon }
+    ${ Fighter Primary Weapon } and ${ Fighter Secondary Weapon } 
+  ]
+  Magic-User Weapon = [
+    ${ Magic-User Primary Weapon }
+    ${ Magic-User Primary Weapon } and ${ Magic-User Secondary Weapon } 
+    Quarterstaff and Dagger
+  ]
+  Magic-User Primary Weapon = [
+    Dagger
+    Quarterstaff
+  ]
+  Magic-User Secondary Weapon = [
+    Darts
+  ]
+  Illusionist Weapon = [
+    ${ Magic-User Weapon }
+  ]
+  Thief Weapon = [
+    ${ Thief Primary Weapon }
+    ${ Thief Primary Weapon } and ${ Thief Secondary Weapon } 
+    ${ Thief Sword } and Dagger
+  ]
+  Thief Primary Weapon = [
+    Club
+    Dagger
+    ${ Thief Sword }
+  ]
+  Thief Sword = [
+    Short Sword
+    Broad Sword
+    Long Sword
+  ]
+  Thief Secondary Weapon = [
+    Darts
+    Sling
+  ]
+  Assassin Weapon = [
+    ${ Fighter Primary Weapon }
+    ${ Fighter Primary Weapon } and ${ Fighter Secondary Weapon } 
+  ]
+  Monk Weapon = [
+    Club
+    Light Crossbow
+    Heavy Crossbow
+    Dagger
+    Hand Axe
+    Javelin
+    Spear
+    Quarterstaff
+  ]
+}

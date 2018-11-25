@@ -1,0 +1,60 @@
+{
+  NPC Ability Scores = [
+    ${ Str }, ${ Int }, ${ Wis }, ${ Dex }, ${ Con }, ${ Cha }
+  ]
+  Assassin Str = ${ calc max(${ High Score },12) }
+  Assassin Int = ${ calc max(${ Average Score },11) }
+  Assassin Dex = ${ calc max(${ High Score },12) }
+
+  Cleric Str = ${ High Score }
+  Cleric Wis = ${ calc max(${ High Score },9) }
+
+  Druid Str = ${ High Score }
+  Druid Wis = ${ calc max(${ High Score },12) }
+  Druid Cha = ${ calc max(${ Average Score },15) }
+
+  Fighter Str = {
+    01-99 = ${ calc max(${ High Score },9) }
+       00 = ${ Exceptional Str }
+  }
+  Exceptional Str = {
+    01-09 = 18/0${ 1d9 }
+    10-99 = 18/${ 1d90 + 9 }
+       00 = 18/00
+  }
+  Fighter Con = ${ calc max(${ High Score },7) }
+
+  Illusionist Int = ${ calc max(${ High Score },15) }
+  Illusionist Dex = ${ calc max(${ High Score },16) }
+
+  Magic-User Int = ${ calc max(${ High Score },9) }
+  Magic-User Dex = ${ calc max(${ High Score },6) }
+
+  Monk Str = ${ calc max(${ High Score },15) }
+  Monk Wis = ${ calc max(${ Average Score },15) }
+  Monk Dex = ${ calc max(${ High Score },15) }
+  Monk Con = ${ calc max(${ Average Score },11) }
+
+  Paladin Str = ${ calc max(${ High Score },12) }
+  Paladin Int = ${ calc max(${ Average Score },9) }
+  Paladin Wis = ${ calc max(${ High Score },13) }
+  Paladin Con = ${ calc max(${ Average Score },9) }
+  Paladin Cha = ${ calc max(${ Average Score },17) }
+
+  Ranger Str = ${ calc max(${ High Score },13) }
+  Ranger Int = ${ calc max(${ High Score },13) }
+  Ranger Wis = ${ calc max(${ Average Score },14) }
+  Ranger Con = ${ calc max(${ Average Score },15) }
+
+  Thief Int = ${ High Score }
+  Thief Dex = ${ calc max(${ High Score },9) }
+
+  Alchemist Int = ${ High Score }
+  Aristocrat Cha = ${ High Score }
+  Entertainer Cha = ${ High Score }
+  Mercenary Str = ${ High Score }
+  Priest Wis = ${ High Score }
+  Professional Wis = ${ High Score }
+  Scholar Int = ${ High Score }
+  Soldier Str = ${ High Score }
+}

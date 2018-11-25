@@ -1,0 +1,105 @@
+{
+  Magic Sword or Weapon = {
+    01-11 = ${ Magic Sword }
+    12-25 = ${ Magic Weapon }
+  }
+  Magic Sword = {
+    01-25 = ${ Sword Type } +1 (2000 gp)
+    26-30 = ${ Sword Type } +1 (+2 vs magic-using and enchanted creatures) (3000 gp)
+    31-35 = ${ Sword Type } +1 (+3 vs lycanthropes and shape-changers) (3500 gp)
+    36-40 = ${ Sword Type } +1 (+3 vs regenerating creatures) (4000 gp)
+    41-45 = ${ Sword Type } +1 (+4 vs reptiles) (4000 gp)
+    46-49 = Flame Tongue ${ Sword Type } +1 (4500 gp)
+       50 = Luck Blade ${ Sword Type } +1 (${ calc 1d4+1 } wishes) (5000 gp)
+    51-58 = ${ Sword Type } +2 (4000 gp)
+    59-62 = Giant Slayer ${ Sword Type } +2 (4500 gp)
+    63-66 = Dragon Slayer ${ Sword Type } +2 (4500 gp)
+       67 = Nine Lives Stealer ${ Sword Type } +2 (8000 gp)
+    68-71 = ${ Sword Type } +3 (7000 gp)
+    72-74 = Frost Brand ${ Sword Type } +3 (8000 gp)
+    75-76 = ${ Sword Type } +4 (10000 gp)
+       77 = Defender ${ Sword Type } +4 (15000 gp)
+       78 = ${ Sword Type } +5 (15000 gp)
+       79 = Defender ${ Sword Type } +5 (18000 gp)
+       80 = Holy Avenger ${ Sword Type } +5 (20000 gp)
+       81 = ${ Sword Type } of Dancing (22000 gp)
+       82 = ${ Sword Type } of Wounding (22000 gp)
+       83 = ${ Sword Type } of Life Stealing (25000 gp)
+       84 = ${ Sword Type } of Sharpness (35000 gp)
+       85 = Vorpal ${ Sword Type } (50000 gp)
+    86-90 = Cursed ${ Sword Type } +1
+    91-95 = Cursed ${ Sword Type } -2
+    96-00 = Cursed Berserking ${ Sword Type }
+  }
+  Sword Type = {
+    01-70 = Longsword
+    71-90 = Broadsword
+    91-95 = Short Sword
+    96-99 = Bastard Sword
+       00 = Two-handed Sword
+  }
+  Magic Weapon = {
+    01-08 = ${ 2d12 } x Arrow +1 (120 gp)
+    09-12 = ${ 2d8 } x Arrow +2 (300 gp)
+    13-14 = ${ 2d6 } x Arrow +3 (450 gp)
+       15 = ${ Arrow of Slaying }
+    16-20 = Axe +1 (1750 gp)
+    21-22 = Axe +2 (3750 gp)
+       23 = Throwing Axe +2 (4500 gp)
+       24 = Axe +3 (7000 gp)
+    25-27 = Battle Axe +1 (2500 gp)
+    28-32 = ${ 2d10 } x Bolt +2 (300 gp)
+    33-35 = Bow +1 (3500 gp)
+       36 = Crossbow of Accuracy +3 (12000 gp)
+       37 = Crossbow of Distance (7500 gp)
+       38 = Crossbow of Speed (7500 gp)
+    39-46 = Dagger +1 (+2 vs small creatures) (750 gp)
+    47-50 = Dagger +2 (+3 vs large creatures) (2000 gp)
+       51 = Dagger of Venom (3000 gp)
+    52-56 = Flail +1 (4000 gp)
+    57-60 = Hammer +1 (2500 gp)
+    61-62 = Hammer +2 (6000 gp)
+       63 = Dwarven Thrower Hammer +3 (15000 gp)
+       64 = Hammer of Thunderbolts (25000 gp)
+    65-67 = Javelin +2 (5000 gp)
+    68-72 = Mace +1 (3000 gp)
+    73-75 = Mace +2 (4500 gp)
+       76 = Mace of Disruption (17500 gp)
+       77 = Mace +4 (15000 gp)
+    78-80 = Military Pick +1 (2500 gp)
+    81-83 = Morning Star +1 (3000 gp)
+    84-88 = Scimitar +2 (6000 gp)
+       89 = Sling of Seeking +2 (7000 gp)
+    90-94 = Spear +1 (3000 gp)
+    95-96 = Spear +2 (6500 gp)
+       97 = Spear +3 (15000 gp)
+    98-99 = Cursed Backbiter Spear (1000 gp)
+       00 = Trident +3 (12500 gp)
+  }
+  Arrow of Slaying = [
+    Arrow of Slaying Arachnids (2500 gp)
+    Arrow of Slaying Avians (2500 gp)
+    Arrow of Slaying Bards (2500 gp)
+    Arrow of Slaying Clerics (2500 gp)
+    Arrow of Slaying Demons (2500 gp)
+    Arrow of Slaying Devils (2500 gp)
+    Arrow of Slaying Dragons (2500 gp)
+    Arrow of Slaying Druids (2500 gp)
+    Arrow of Slaying Elementals (2500 gp)
+    Arrow of Slaying Fighters (2500 gp)
+    Arrow of Slaying Giants (2500 gp)
+    Arrow of Slaying Golems (2500 gp)
+    Arrow of Slaying Illusionists (2500 gp)
+    Arrow of Slaying Ki-rin (2500 gp)
+    Arrow of Slaying Magic-Users (2500 gp)
+    Arrow of Slaying Mammals (2500 gp)
+    Arrow of Slaying Monks (2500 gp)
+    Arrow of Slaying Paladins (2500 gp)
+    Arrow of Slaying Rangers (2500 gp)
+    Arrow of Slaying Reptiles (2500 gp)
+    Arrow of Slaying Sea Monsters (2500 gp)
+    Arrow of Slaying Thieves (2500 gp)
+    Arrow of Slaying Titans (2500 gp)
+    Arrow of Slaying Undead (2500 gp)
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  TPK = ${ TPK ${ TPK Type } Block }
+  TPK Type = ${ get tpk_type fix ${ TPK Type II } }
+
+  TPK Type II = [
+    Bitten
+    Bludgeoned
+    Crushed
+    Decapitated
+    Disintegrated
+    Drained
+    Drowned
+    Eaten
+    Electrocuted
+    Imploded
+    Killed
+    Violence
+    Vivisected
+  ]
+}

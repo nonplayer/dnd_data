@@ -1,0 +1,42 @@
+{
+  Magic Armor or Shield = {
+    01-75 = ${ Magic Mail }
+    76-00 = ${ Magic Shield }
+  }
+  Magic Mail = {
+    01-05 = Chain Mail +1 (${ Armor Size }) (3500 gp)
+    06-09 = Chain Mail +2 (${ Armor Size }) (7500 gp)
+    10-11 = Chain Mail +3 (${ Armor Size }) (12500 gp)
+    12-19 = Leather Armor +1 (${ Armor Size }) (2000 gp)
+    20-26 = Plate Mail +1 (${ Armor Size }) (5000 gp)
+    27-32 = Plate Mail +2 (${ Armor Size }) (10500 gp)
+    33-35 = Plate Mail +3 (${ Armor Size }) (15500 gp)
+    36-37 = Plate Mail +4 (${ Armor Size }) (20500 gp)
+       38 = Plate Mail +5 (${ Armor Size }) (27500 gp)
+       39 = Plate Mail of Etherealness (${ Armor Size }) (30000 gp)
+    40-44 = Plate Mail of Vulnerability (${ Armor Size }) (1500 gp)
+    45-50 = Ring Mail +1 (${ Armor Size }) (2500 gp)
+    51-55 = Scale Mail +1 (${ Armor Size }) (3000 gp)
+    56-59 = Scale Mail +2 (${ Armor Size }) (6750 gp)
+    60-63 = Splint Mail +1 (${ Armor Size }) (4000 gp)
+    64-66 = Splint Mail +2 (${ Armor Size }) (8500 gp)
+    67-68 = Splint Mail +3 (${ Armor Size }) (14500 gp)
+       69 = Splint Mail +4 (${ Armor Size }) (19000 gp)
+    70-75 = Studded Leather +1 (${ Armor Size }) (2500 gp)
+  }
+  Armor Size = {
+    01-65 = human size
+    66-85 = elf size
+    86-95 = dwarf size
+    96-00 = gnome or halfling size
+  }
+  Magic Shield = {
+    01-09 = Shield +1 (2500 gp)
+    10-14 = Shield +2 (5000 gp)
+    15-18 = Shield +3 (8000 gp)
+    19-20 = Shield +4 (12000 gp)
+       21 = Shield +5 (17500 gp)
+       22 = Shield +1 (+4 vs missiles) (4000 gp)
+    23-25 = Shield -1 (missile attractor) (750 gp)
+  }
+}

@@ -1,0 +1,3 @@
+{
+  NPC Block = ${ NPC Tags }. ${ NPC Ability Scores }.
+}

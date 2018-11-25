@@ -1,0 +1,28 @@
+{
+  TPK Eaten Block = [
+    ${ TPK Eaten Desc } ${ TPK Voracious Effect }.
+    ${ TPK Eaten Desc } by ${ TPK Voracious Monster }.
+    ${ TPK Swallowed Desc } by ${ TPK Voracious Behemoth }.
+  ]
+  TPK Eaten Desc = [
+    Eaten alive
+  ]
+  TPK Swallowed Desc = [
+    Swallowed whole
+  ]
+  TPK Voracious Effect = [
+    on the Elemental Plane of Ghouls
+  ]
+  TPK Voracious Monster = [
+    ${ an [ colossal, eldritch ] } ${ [ ooze, slime ] }
+    a pack of ${ Giant } ${ [ ghouls, werewolves ] }
+    a swarm of gelatinous cubes
+    what everyone thought were goats
+  ]
+  TPK Voracious Behemoth = [
+    ${ TPK God Name }, the Frog God
+    a colossal mimic in the form of a tavern
+    a colossal prismatic slime
+    an undead wight whale
+  ]
+}

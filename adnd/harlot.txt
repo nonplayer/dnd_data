@@ -1,0 +1,33 @@
+{
+  Harlot = {
+    01-35 = ${ Harlot Block }
+    36-65 = ${ Harlot Block }, knows useful information
+    66-80 = ${ Harlot Block }, will lie to gain a reward
+    81-00 = ${ Harlot Block }, ${ Harlot Villainy }
+  }
+  Harlot Block = [
+    ${ set gender = Female in Harlot Block II }
+  ]
+  Harlot Block II = [
+    ${ NPC Name }: ${ NPC Gender } ${ NPC Race }, ${ Harlot Type }
+  ]
+  Harlot Type = {
+    01-10 = Slovenly Trull
+    11-25 = Brazen Strumpet
+    26-35 = Cheap Trollop
+    36-50 = Typical Streetwalker
+    51-65 = Saucy Tart
+    66-75 = Wanton Wench
+    76-85 = Expensive Doxy
+    86-90 = Haughty Courtesan
+    91-92 = Aged Madam
+    93-94 = Wealthy Procuress
+    95-98 = Sly Pimp
+    99-00 = Rich Panderer
+  }
+  Harlot Villainy = [
+    is a thief
+    is working with a thief
+    is working with a small gang of thieves
+  ]
+}

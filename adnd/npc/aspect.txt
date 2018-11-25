@@ -1,0 +1,8 @@
+{
+  LG Aspect = Noble
+  NG Aspect = Noble
+  CG Aspect = Noble
+  LE Aspect = Fell
+  NE Aspect = Fell
+  CE Aspect = Fell
+}
