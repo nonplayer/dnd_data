@@ -1,2 +1,2 @@
 # dnd_data
-BECMI D&amp;D data
+D&D data for donjon, BECMI and AD&D
