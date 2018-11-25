@@ -1,0 +1,59 @@
+{
+  Acid Trap = Acid Trap (${ Scaled Damage })
+  Arrow Trap = Arrow Trap (1d6 damage)
+  Contact Poison Trap = Contact Poison Trap (${ Poison Desc })
+  Falling Block Trap = Falling Block Trap (${ Moderate Damage })
+  Falling Ceiling Trap = Falling Ceiling Trap (save or die)
+  Fire Trap = Fire Trap (${ Scaled Damage })
+  Flooding Pit Trap = Flooding ${ Pit Trap }
+  Flooding Room Trap = Flooding Room Trap
+  Lightning Trap = Lightning Trap (${ Scaled Damage })
+  Pendulum Trap = Pendulum Trap (${ Moderate Damage })
+  Poison Arrow Trap = Poison Arrow Trap (1d6 damage ${ plus Poison })
+  Poison Dart Trap = Poison Dart Trap (1d4 damage ${ plus Poison })
+  Poison Gas Trap = Poison Gas Trap (${ Poison Desc })
+  Poison Needle Trap = Poison Needle Trap (${ Poison Desc })
+  Razor Wire Trap = Razor Wire Trap (${ Moderate Damage })
+  Scythe Trap = Scythe Trap (${ Moderate Damage })
+  Spear Trap = Spear Trap (1d8 damage)
+
+  Moderate Damage = [
+    ${ 1d3+3 }d6 damage
+  ]
+  Scaled Damage = [
+    ${ get level def ${ 1d3 } }d6 damage
+  ]
+  Pit Trap = [
+    Pit Trap (${ set n = 1 in Pit Depth })
+    Pit Trap (${ set n = ${ 1d6 } in Pit Depth })
+    Pit Trap (${ set n = ${ get level def 1 } in Pit Depth })
+  ]
+  Pit Depth = [
+    ${ get n }0', ${ get n }d6 damage
+  ]
+  Spiked Pit Trap = [
+    Spiked Pit Trap (${ set n = 1 in Spiked Pit Depth })
+    Spiked Pit Trap (${ set n = ${ 1d6 } in Spiked Pit Depth })
+    Spiked Pit Trap (${ set n = ${ get level def 1 } in Spiked Pit Depth })
+  ]
+  Spiked Pit Depth = [
+    ${ get n }0', ${ calc ${ get n } + 1 }d6 damage
+  ]
+  plus Poison = [
+    plus poison; ${ Poison Desc }
+  ]
+  Poison Desc = [
+    ${ Poison Onset }, ${ Poison Damage }
+  ]
+  Poison Onset = [
+    onset 2d4 rounds
+    onset 1d4 rounds
+    onset immediate
+  ]
+  Poison Damage = [
+    save or 10 damage
+    save or ${ 1d6 * 10 } damage
+    save or ${ calc ${ get level def 1 } * 10 } damage
+    save or die
+  ]
+}

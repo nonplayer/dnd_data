@@ -1,0 +1,12 @@
+{
+  Level I Room Trap = ${ set level = 1 in Room Trap }
+  Level II Room Trap = ${ set level = 2 in Room Trap }
+  Level III Room Trap = ${ set level = 3 in Room Trap }
+  Level IV Room Trap = ${ set level = 4 in Room Trap }
+  Level V Room Trap = ${ set level = 5 in Room Trap }
+  Level VI Room Trap = ${ set level = 6 in Room Trap }
+  Level VII Room Trap = ${ set level = 7 in Room Trap }
+  Level VIII Room Trap = ${ set level = 8 in Room Trap }
+  Level IX Room Trap = ${ set level = 9 in Room Trap }
+  Level X Room Trap = ${ set level = 10 in Room Trap }
+}
